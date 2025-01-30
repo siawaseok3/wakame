@@ -1,3 +1,4 @@
-# Get Started!
+わかめtube copyは、わかめtubeの量産版です。本サイトとは違ってメンテナンスとかをする気はないです。
 
-Add files and start typing 🎉
+
+
