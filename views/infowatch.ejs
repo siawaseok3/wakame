@@ -24,15 +24,62 @@
 
 <body>
 <header>
-  <div class="banner">
-   <button class="btn btn-link" onclick="window.location.href='/'">ホーム🏠１１１１１</button>
+<div class="banner">
+   <button class="btn btn-link" onclick="window.location.href='/'">わかめtube</button>
+   <form class="d-flex" action="/s" method="get">
+       <input id="searchbox" name="q" class="form-control" type="text" placeholder="キーワードを入力..." aria-label="Search" required>
+   </form>
+   <button class="btn btn-link" id="menu-btn" style="position: absolute; left: 10px;" onclick="toggleSidebar()">&#9776;</button>
+</div>
+
+<div id="sidebar" class="sidebar">
+   <button class="close-btn" onclick="toggleSidebar()">&times;</button>
    <button class="btn btn-link" onclick="window.location.href='/send'">問い合わせ</button>
-  <button class="btn btn-link" onclick="window.location.href='/blog/help'">ヘルプ</button>
-      <form class="d-flex" action="/s" method="get">
-          <input id="searchbox" name="q" class="form-control" type="text" placeholder="キーワードを入力..." aria-label="Search" required>
-      </form>
-   <button class="btn btn-link" id="menu-btn" style="position: absolute; right: 10px;">ツール</button>
- </div>
+   <button class="btn btn-link" onclick="window.location.href='/blog/help'">ヘルプ</button>
+   <button class="btn btn-link">ツール</button>
+</div>
+
+<style>
+    .sidebar {
+        height: 100%;
+        width: 200px;
+        position: fixed;
+        top: 0;
+        left: -200px;
+        background-color: #f8f9fa;
+        padding-top: 20px;
+        transition: left 0.3s;
+    }
+    .sidebar button {
+        display: block;
+        width: 100%;
+        text-align: left;
+        padding: 10px;
+        border: none;
+        background: none;
+    }
+    .close-btn {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        font-size: 20px;
+        background: none;
+        border: none;
+        cursor: pointer;
+    }
+</style>
+
+<script>
+    function toggleSidebar() {
+        var sidebar = document.getElementById("sidebar");
+        if (sidebar.style.left === "0px") {
+            sidebar.style.left = "-200px";
+        } else {
+            sidebar.style.left = "0px";
+        }
+    }
+</script>
+
 </header>
 <nav id="side-menu" class="side-menu">
     <ul>
