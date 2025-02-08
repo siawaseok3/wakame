@@ -24,23 +24,24 @@
 
 <body>
 <header>
+
 <div class="banner">
    <button class="btn btn-link" onclick="window.location.href='/'">わかめtube</button>
    <form class="d-flex" action="/s" method="get">
        <input id="searchbox" name="q" class="form-control" type="text" placeholder="キーワードを入力..." aria-label="Search" required>
    </form>
-   <button class="btn btn-link" id="menu-btn" style="position: absolute; left: 10px;" onclick="toggleSidebar()">&#9776;</button>
+   <button class="btn btn-link" id="custom-left-menu-btn" style="position: absolute; left: 10px;" onclick="toggleCustomLeftSidebar()">&#9776;</button>
 </div>
 
-<div id="sidebar" class="sidebar">
-   <button class="close-btn" onclick="toggleSidebar()">&times;</button>
+<div id="custom-left-sidebar" class="custom-left-sidebar">
+   <button class="custom-close-btn" onclick="toggleCustomLeftSidebar()">&times;</button>
    <button class="btn btn-link" onclick="window.location.href='/send'">問い合わせ</button>
    <button class="btn btn-link" onclick="window.location.href='/blog/help'">ヘルプ</button>
    <button class="btn btn-link">ツール</button>
 </div>
 
 <style>
-    .sidebar {
+    .custom-left-sidebar {
         height: 100%;
         width: 200px;
         position: fixed;
@@ -50,7 +51,7 @@
         padding-top: 20px;
         transition: left 0.3s;
     }
-    .sidebar button {
+    .custom-left-sidebar button {
         display: block;
         width: 100%;
         text-align: left;
@@ -58,7 +59,7 @@
         border: none;
         background: none;
     }
-    .close-btn {
+    .custom-close-btn {
         position: absolute;
         top: 10px;
         left: 10px;
@@ -70,8 +71,8 @@
 </style>
 
 <script>
-    function toggleSidebar() {
-        var sidebar = document.getElementById("sidebar");
+    function toggleCustomLeftSidebar() {
+        var sidebar = document.getElementById("custom-left-sidebar");
         if (sidebar.style.left === "0px") {
             sidebar.style.left = "-200px";
         } else {
