@@ -24,30 +24,23 @@
 
 <body>
 <header>
-<div class="banner">
+  <div class="banner">
    <button class="btn btn-link" onclick="window.location.href='/'">わかめtube</button>
+   <button class="btn btn-link" id="help-menu-btn" style="position: absolute; left: 10px;" onclick="toggleHelpSidebar()">ヘルプ・問い合わせ</button>
    <form class="d-flex" action="/s" method="get">
        <input id="searchbox" name="q" class="form-control" type="text" placeholder="キーワードを入力..." aria-label="Search" required>
    </form>
-   <button class="btn btn-link" id="menu-btn" style="position: absolute; right: 10px;" onclick="toggleToolSidebar()">ツール</button>
-   <button class="btn btn-link" id="help-menu-btn" style="position: absolute; right: 60px;" onclick="toggleHelpSidebar()">ヘルプ・問い合わせ</button>
+   <button class="btn btn-link" id="menu-btn" style="position: absolute; right: 10px;">ツール</button>
 </div>
 
-<div id="a-tool-sidebar" class="a-sidebar" style="display: none; position: fixed; top: 0; right: 0; width: 200px; height: 100%; background: #f8f9fa; box-shadow: -2px 0 5px rgba(0, 0, 0, 0.2); padding: 10px;">
-   <button class="btn btn-link" onclick="toggleToolSidebar()">閉じる</button>
-</div>
 
-<div id="a-help-sidebar" class="a-sidebar" style="display: none; position: fixed; top: 0; right: 210px; width: 200px; height: 100%; background: #f8f9fa; box-shadow: -2px 0 5px rgba(0, 0, 0, 0.2); padding: 10px;">
+<div id="a-help-sidebar" class="a-sidebar" style="display: none; position: fixed; top: 0; left: 0; width: 200px; height: 100%; background: #f8f9fa; box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2); padding: 10px;">
    <button class="btn btn-link" onclick="window.location.href='/send'">問い合わせ</button>
    <button class="btn btn-link" onclick="window.location.href='/blog/help'">ヘルプ</button>
    <button class="btn btn-link" onclick="toggleHelpSidebar()">閉じる</button>
 </div>
 
 <script>
-function toggleToolSidebar() {
-    var sidebar = document.getElementById("a-tool-sidebar");
-    sidebar.style.display = (sidebar.style.display === "none" || sidebar.style.display === "") ? "block" : "none";
-}
 
 function toggleHelpSidebar() {
     var sidebar = document.getElementById("a-help-sidebar");
