@@ -36,8 +36,8 @@
   <button class="btn btn-link-aa" onclick="window.location.href='/'">わかめtube</button>
   <form class="d-flex-aa" action="/s" method="get">
     <input id="searchbox-aa" name="q" class="form-control-aa" type="text" placeholder="キーワードを入力..." aria-label="Search" required>
+      <button class="btn btn-link" id="menu-btn" style="position: absolute; right: 10px;">ツール</button>
   </form>
-  <button class="btn btn-link-aa" id="menu-btn-aa" style="position: absolute; right: 10px;">ツール</button>
 </div>
 
 <!-- CSSの設定 -->
@@ -57,59 +57,60 @@
 
   /* ボタンのスタイル */
   .btn-link-aa {
-    display: block;
-    margin-bottom: 10px;
-    font-size: 16px;
-    color: #007bff;
-    text-decoration: none;
-    border: none;
-    background: none;
-  }
+<div class="banner">
+   <button class="btn btn-link" onclick="window.location.href='/'">わかめtube</button>
+   <form class="d-flex" action="/s" method="get">
+       <input id="searchbox" name="q" class="form-control" type="text" placeholder="キーワードを入力..." aria-label="Search" required>
+   </form>
+   <button class="btn btn-link" id="custom-left-menu-btn" style="position: absolute; left: 10px;" onclick="toggleCustomLeftSidebar()">&#9776;</button>
+   <button class="btn btn-link" onclick="window.location.href='/tools'">ツール</button>
+</div>
 
-  /* フォームのスタイル */
-  .d-flex-aa {
-    display: flex;
-    justify-content: space-between;
-    width: 100%;
-  }
+<div id="custom-left-sidebar" class="custom-left-sidebar">
+   <button class="custom-close-btn" onclick="toggleCustomLeftSidebar()">&times;</button>
+   <button class="btn btn-link" onclick="window.location.href='/send'">問い合わせ</button>
+   <button class="btn btn-link" onclick="window.location.href='/blog/help'">ヘルプ</button>
+</div>
 
-  .form-control-aa {
-    width: 80%;
-  }
-
-  /* メニューのボタンスタイル */
-  #menu-btn-aa {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    font-size: 16px;
-    background-color: #007bff;
-    color: white;
-    padding: 10px;
-    border-radius: 50%;
-    border: none;
-  }
-
-  /* サイドバーを表示するアニメーション */
-  .sidebar-aa.show {
-    transform: translateX(0);
-  }
-
-  /* メニューボタンがクリックされたときのサイドバーの表示 */
-  #menu-btn-aa:focus + .sidebar-aa,
-  .sidebar-aa.show {
-    display: block;
-  }
+<style>
+    .custom-left-sidebar {
+        height: 100%;
+        width: 200px;
+        position: fixed;
+        top: 0;
+        left: -200px;
+        background-color: #f8f9fa;
+        padding-top: 20px;
+        transition: left 0.3s;
+    }
+    .custom-left-sidebar button {
+        display: block;
+        width: 100%;
+        text-align: left;
+        padding: 10px;
+        border: none;
+        background: none;
+    }
+    .custom-close-btn {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        font-size: 20px;
+        background: none;
+        border: none;
+        cursor: pointer;
+    }
 </style>
 
-<!-- JavaScript (アニメーション制御) -->
 <script>
-  const menuBtn = document.getElementById('menu-btn-aa');
-  const sidebar = document.querySelector('.sidebar-aa');
-
-  menuBtn.addEventListener('click', () => {
-    sidebar.classList.toggle('show');
-  });
+    function toggleCustomLeftSidebar() {
+        var sidebar = document.getElementById("custom-left-sidebar");
+        if (sidebar.style.left === "0px") {
+            sidebar.style.left = "-200px";
+        } else {
+            sidebar.style.left = "0px";
+        }
+    }
 </script>
 
 
