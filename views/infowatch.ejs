@@ -24,93 +24,35 @@
 
 <body>
 <header>
-
-<!-- サイドバー -->
-<div class="sidebar-aa">
-  <button class="btn btn-link-aa" onclick="window.location.href='/send'">問い合わせ</button>
-  <button class="btn btn-link-aa" onclick="window.location.href='/blog/help'">ヘルプ</button>
-</div>
-
-<!-- メインのバナー -->
-<div class="banner">
-  <button class="btn btn-link-aa" onclick="window.location.href='/'">わかめtube</button>
-  <form class="d-flex-aa" action="/s" method="get">
-    <input id="searchbox-aa" name="q" class="form-control-aa" type="text" placeholder="キーワードを入力..." aria-label="Search" required>
-      <button class="btn btn-link" id="menu-btn" style="position: absolute; right: 10px;">ツール</button>
-  </form>
-</div>
-
-<!-- CSSの設定 -->
-<style>
-  /* サイドバーの基本設定 */
-  .sidebar-aa {
-    position: fixed;
-    top: 10px;
-    left: 10px;
-    background-color: #f8f9fa;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
-    display: none; /* 初期状態では非表示 */
-    transition: transform 0.3s ease;
-  }
-
-  /* ボタンのスタイル */
-  .btn-link-aa {
 <div class="banner">
    <button class="btn btn-link" onclick="window.location.href='/'">わかめtube</button>
    <form class="d-flex" action="/s" method="get">
        <input id="searchbox" name="q" class="form-control" type="text" placeholder="キーワードを入力..." aria-label="Search" required>
    </form>
-   <button class="btn btn-link" id="custom-left-menu-btn" style="position: absolute; left: 10px;" onclick="toggleCustomLeftSidebar()">&#9776;</button>
-   <button class="btn btn-link" onclick="window.location.href='/tools'">ツール</button>
+   <button class="btn btn-link" id="menu-btn" style="position: absolute; right: 10px;" onclick="toggleToolSidebar()">ツール</button>
+   <button class="btn btn-link" id="help-menu-btn" style="position: absolute; right: 60px;" onclick="toggleHelpSidebar()">ヘルプ・問い合わせ</button>
 </div>
 
-<div id="custom-left-sidebar" class="custom-left-sidebar">
-   <button class="custom-close-btn" onclick="toggleCustomLeftSidebar()">&times;</button>
+<div id="a-tool-sidebar" class="a-sidebar" style="display: none; position: fixed; top: 0; right: 0; width: 200px; height: 100%; background: #f8f9fa; box-shadow: -2px 0 5px rgba(0, 0, 0, 0.2); padding: 10px;">
+   <button class="btn btn-link" onclick="toggleToolSidebar()">閉じる</button>
+</div>
+
+<div id="a-help-sidebar" class="a-sidebar" style="display: none; position: fixed; top: 0; right: 210px; width: 200px; height: 100%; background: #f8f9fa; box-shadow: -2px 0 5px rgba(0, 0, 0, 0.2); padding: 10px;">
    <button class="btn btn-link" onclick="window.location.href='/send'">問い合わせ</button>
    <button class="btn btn-link" onclick="window.location.href='/blog/help'">ヘルプ</button>
+   <button class="btn btn-link" onclick="toggleHelpSidebar()">閉じる</button>
 </div>
 
-<style>
-    .custom-left-sidebar {
-        height: 100%;
-        width: 200px;
-        position: fixed;
-        top: 0;
-        left: -200px;
-        background-color: #f8f9fa;
-        padding-top: 20px;
-        transition: left 0.3s;
-    }
-    .custom-left-sidebar button {
-        display: block;
-        width: 100%;
-        text-align: left;
-        padding: 10px;
-        border: none;
-        background: none;
-    }
-    .custom-close-btn {
-        position: absolute;
-        top: 10px;
-        left: 10px;
-        font-size: 20px;
-        background: none;
-        border: none;
-        cursor: pointer;
-    }
-</style>
-
 <script>
-    function toggleCustomLeftSidebar() {
-        var sidebar = document.getElementById("custom-left-sidebar");
-        if (sidebar.style.left === "0px") {
-            sidebar.style.left = "-200px";
-        } else {
-            sidebar.style.left = "0px";
-        }
-    }
+function toggleToolSidebar() {
+    var sidebar = document.getElementById("a-tool-sidebar");
+    sidebar.style.display = (sidebar.style.display === "none" || sidebar.style.display === "") ? "block" : "none";
+}
+
+function toggleHelpSidebar() {
+    var sidebar = document.getElementById("a-help-sidebar");
+    sidebar.style.display = (sidebar.style.display === "none" || sidebar.style.display === "") ? "block" : "none";
+}
 </script>
 
 
