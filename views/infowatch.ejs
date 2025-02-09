@@ -93,192 +93,81 @@ function toggleHelpSidebar() {
     読み込み失敗。ブラウザをアップデートしてどうぞ。
   </video>
 </div>
-<div class="card">
-  <div class="toolcard-header">
-    <small class="text-muted">「ツール」は右上に移動しました。</small>
-    <small class="text-muted float-right"><button class="favorite-btn" onclick="toggleFavorite('<%= videoData.videoId %>', '<%= videoData.channelId %>', '<%= videoData.channelName %>','<%= videoData.videoTitle %>')">お気に入り</button><button id="reloadButton">動画を再読み込み</button></small>
+<div class="video-container">
+  <div class="video-header">
+    <h2><%= videoData.videoTitle %></h2>
+    <button class="favorite-btn" onclick="toggleFavorite('<%= videoData.videoId %>', '<%= videoData.channelId %>', '<%= videoData.channelName %>','<%= videoData.videoTitle %>')">&#9733; お気に入り</button>
   </div>
-  <div class="toolcard-header">
-    <small class="text-muted">利用したサーバー: <%= baseUrl.replace('https://', '').replace('.glitch.me', '') %></small>
-    <small class="text-muted float-right"><button onclick="location.href='/difserver/<%= videoId %>'">サーバーを変更する</button></small>
+  <div class="video-info">
+    <span><%= videoData.videoViews %> 回視聴</span>
+    <span><%= videoData.likeCount %> いいね</span>
+    <button id="reloadButton">&#x21bb; 再読み込み</button>
+    <button onclick="location.href='/difserver/<%= videoId %>'">サーバーを変更</button>
   </div>
-  <div class="card-channel">
-    <div class="container">
+  <div class="channel-info">
     <a href="/c/<%= videoData.channelId %>">
-    <img src="<%= videoData.channelImage %>" alt="画像">
-    <%= videoData.channelName %>
+      <img src="<%= videoData.channelImage %>" alt="チャンネル画像">
+      <span><%= videoData.channelName %></span>
     </a>
-    </div>
   </div>
-  <div class="toolcard-header">
-    <small class="text-muted"><%= videoData.likeCount %>いいね</small>
-    <small class="text-muted float-right"><%= videoData.videoViews %>回再生</small>
-  </div>
-  <div class="card-body">
-    <h4>
-      <%= videoData.videoTitle %>
-    </h4>
-      <p><%- (videoData.videoDes || "").replace(/\n/g, "<br>") %></p>
+  <div class="video-description">
+    <p><%- (videoData.videoDes || "").replace(/\n/g, "<br>") %></p>
   </div>
 </div>
-  <div class="comment-box">
-    <h2>コメント</h2>
-    <div class="iframe-container">
-      <iframe src="/comment/<%= videoId %>" scrolling="yes"></iframe>
-    </div>
+<div class="comment-section">
+  <h3>コメント</h3>
+  <iframe src="/comment/<%= videoId %>" scrolling="yes"></iframe>
+</div>
+  <div class="video-frame">
+    <iframe src="/videores/<%= videoId %>" scrolling="no" allowfullscreen></iframe>
   </div>
-  <div class="tube-box">
-    <div class="iframe-container">
-<iframe src="/videores/<%= videoId %>" scrolling="yes"></iframe>
-    </div>
-  </div>
-   <style>
-	* {
-		--plyr-color-main: #ff8181;
-	}
-
-	a {
-		color: #ff8181;
-	}
-  .card {
-  border: 1px solid #ccc;
-  border-radius: 15px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  margin: 10px;
-  overflow: hidden;
-  transition: all 0.3s ease;
-}
-
-.card:hover {
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-}
-
-.card-header, .card-footer {
-  background-color: #f8f9fa;
-  padding: 10px 15px;
-  border-bottom: 1px solid #ddd;
-}
-
-.card-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-  
-.card-channel {
-  padding: 7px;
-  height: 49px;
-}
-.card-channel p{
-  margin-left: 65px;
-}
-
-.card-body {
-  padding: 15px;
-}
-
-.card-body h5 {
-  margin-bottom: 10px;
-}
-
-.card-body p {
-  margin: 0;
-  white-space: pre-line;
-}
-video {
-  width: 100%;
-  height:100%;
+<style>
+  .video-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 15px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
   }
-.card-title h4 {
-  font-size: 1.6rem; 
-  color: #333;
-  margin: 10px 0; 
-}
+  .video-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 10px;
+  }
+  .video-frame iframe {
+    width: 100%;
+    height: 450px;
+    border-radius: 10px;
+  }
+  .video-info, .channel-info {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+  }
+  .channel-info img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  .channel-info a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #333;
+  }
+  .comment-section {
+    margin-top: 20px;
+  }
+  .comment-section iframe {
+    width: 100%;
+    height: 500px;
+    border: none;
+  }
+</style>
 
-.card-title .container {
-  padding: 0 15px;
-}
-
-.toolcard-header {
-  background-color: #FFF5F7;
-  padding: 10px 10px;
-  border-bottom: 0.5px solid #f8e58c;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  height: 30px;
-}
-        .container {
-            height: 35px;
-            display: flex;
-            align-items: center;
-        }
-
-        .container img {
-            width: 35px;
-            height: 35px;
-        }
-
-        .container .text {
-            margin-left: 10px;
-        }
-    .comment-box {
-      background-color: #ffffff;
-      width: 85%;
-      border-radius: 10px;
-      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-      padding: 20px;
-      text-align: left;
-      box-sizing: border-box;
-    }
-
-    .comment-box h2 {
-      margin: 0 0 10px;
-      font-size: 24px;
-      color: #333;
-    }
-
-    .iframe-container {
-      width: 100%;
-      height: 900px;
-      border: none;
-      overflow: hidden;
-      border-radius: 10px;
-      box-shadow: inset 0 2px 8px rgba(0, 0, 0, 0.1);
-    }
-
-    iframe {
-      width: 100%;
-      height: 100%;
-      border: none;
-    }
-    .tube-box {
-      background-color: #ffffff;
-      width: 100%;
-      border-radius: 10px;
-      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-      padding: 20px;
-      text-align: left;
-      box-sizing: border-box;
-    }
-.video-container {
-    position: relative;
-}
-
-.loading-indicator {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    display: none;
-    z-index: 10;
-}
-
-.loading-indicator img {
-    width: 75px;
-    height: 75px;
-}
-  </style>
 <script>
 //ローディング
 document.addEventListener('DOMContentLoaded', function () {
