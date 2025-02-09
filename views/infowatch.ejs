@@ -27,11 +27,21 @@
   <div class="banner" style="position: relative; display: flex; align-items: center;">
    <button class="btn btn-link" id="help-menu-btn" style="margin-right: 10px;" onclick="toggleHelpSidebar()">=</button>
    <button class="btn btn-link" onclick="window.location.href='/'">わかめtube</button>
-   <form class="d-flex" action="/s" method="get" style="flex-grow: 1; margin-left: 10px;">
-       <input id="searchbox" name="q" class="form-control" type="text" placeholder="キーワードを入力..." aria-label="Search" required>
-   </form>
-   <button class="btn btn-link" id="menu-btn" style="position: absolute; right: 10px;">ツール</button>
+    <div style="display: flex; width: 100% !important;">
+    <div style="flex: 1 !important;"></div>
+    <form class="d-flex" action="/s" method="get" style="flex: 2 !important; margin-left: 10px !important; display: flex !important;">
+        <input id="searchbox" name="q" class="form-control" type="text" 
+               placeholder="キーワードを入力..." aria-label="Search" required
+               style="border-radius: 40px 0 0 40px !important; width: 100% !important; flex: 1 !important;">
+        <button type="submit" class="btn btn-search" 
+                style="border-radius: 0 40px 40px 0 !important; margin-left: -1px !important;">
+            検索
+        </button>
+    </form>
+    <div style="flex: 1 !important;"></div>
 </div>
+</div>
+    <button class="btn btn-link" id="menu-btn" style="position: absolute; right: 10px;">ツール</button>
 
 <div id="a-help-sidebar" class="a-sidebar" style="position: fixed; top: 0; left: -200px; width: 180px; height: auto; background: #f8f9fa; box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2); padding: 10px; transition: left 0.3s ease-in-out;">
    <button class="btn btn-link menuristt" onclick="window.location.href='/send'">問い合わせ</button><br><br>
