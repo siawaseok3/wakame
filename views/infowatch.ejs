@@ -193,8 +193,25 @@ function toggleHelpSidebar() {
     </div>
   </aside>
 </div>
+<script>
+        setTimeout(() => {
+            const style = document.createElement('style');
+            style.innerHTML = `* { text-decoration: none !important; }`;
+            document.head.appendChild(style);
+        }, 5000);
+    </script>
+        <script>
+        setTimeout(() => {
+            const style = document.createElement('style');
+            style.innerHTML = `* { text-decoration: none !important; }`;
+            document.head.appendChild(style);
+        }, 7000);
+    </script>
 
 <style>
+  a {
+    text-decoration: none;
+}
   .main-content {
   display: flex;
   flex-wrap: wrap;
