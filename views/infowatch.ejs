@@ -188,29 +188,15 @@ function toggleHelpSidebar() {
   </div>
   <aside class="related-videos">
     <h3>関連動画</h3>
-    <div class="video-frame"　style="height: 5600px;">
+    <div class="video-frame"　style="height: 5600px; text-decoration: none !important;">
       <iframe src="/videores/<%= videoId %>" scrolling="no" allowfullscreen></iframe>
     </div>
   </aside>
 </div>
-<script>
-        setTimeout(() => {
-            const style = document.createElement('style');
-            style.innerHTML = `* { text-decoration: none !important; }`;
-            document.head.appendChild(style);
-        }, 5000);
-    </script>
-        <script>
-        setTimeout(() => {
-            const style = document.createElement('style');
-            style.innerHTML = `* { text-decoration: none !important; }`;
-            document.head.appendChild(style);
-        }, 7000);
-    </script>
 
 <style>
-  a {
-    text-decoration: none;
+  .video-frame {
+    text-decoration: none !important;
 }
   .main-content {
   display: flex;
