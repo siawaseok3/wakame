@@ -139,7 +139,7 @@ function toggleHelpSidebar() {
       </div>
       <div class="video-description">
   <p id="videoDescription"><%- (videoData.videoDes || "").replace(/\n/g, "<br>") %></p>
-  <button id="toggleDescription" style="display: none;">もっと見る…<></button>
+  <button id="toggleDescription" style="display: none;">もっと見る…</button>
 </div>
 
 <style>
@@ -155,7 +155,7 @@ function toggleHelpSidebar() {
     margin-top: 5px;
     cursor: pointer;
     border: none;
-    background: white;
+    background:transparent;
     color: black;
     padding: 5px 10px;
     border-radius: 5px;
@@ -169,7 +169,7 @@ function toggleHelpSidebar() {
     const description = document.getElementById("videoDescription");
     const toggleButton = document.getElementById("toggleDescription");
 
-    if (description.scrollHeight > 300) {
+    if (description.scrollHeight > 292) {
       toggleButton.style.display = "block"; // もっと見るボタン表示
     }
 
