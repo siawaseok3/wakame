@@ -25,15 +25,46 @@
 
 <body>
   <header>
-    <div class="banner">
-      <button class="btn btn-link" onclick="window.location.href='/'">ホーム🏠</button>
-      <button class="btn btn-link" onclick="window.location.href='/blog'">お知らせ</button>
-      <form class="d-flex" action="/s" method="get">
-          <input id="searchbox" name="q" class="form-control" type="text" placeholder="キーワードを入力..." aria-label="Search" value="<%= query %>" required>
-      </form>
-      <button class="btn btn-link" style="position: absolute; right: 10px;" onclick="window.location.href='/send'">問い合わせ</button>
+<div class="banner" style="position: relative; display: flex; align-items: center; justify-content: space-between; width: 100% !important;">
+    <button class="btn btn-link" id="help-menu-btn" style="margin-right: 10px;" onclick="toggleHelpSidebar()">=</button>
+    <button class="btn btn-link" onclick="window.location.href='/'">わかめtube</button>
+    
+    <div style="display: flex; flex: 1 !important; justify-content: center;">
+        <form class="d-flex" action="/s" method="get" style="display: flex !important; flex: 1 !important; max-width: 600px;">
+            <input id="searchbox" name="q" class="form-control" type="text" 
+                   placeholder="キーワードを入力..." aria-label="Search" required
+                   style="border-radius: 40px 0 0 40px !important; width: 100% !important; flex: 1 !important;">
+            <button type="submit" class="btn btn-search" 
+                    style="border-radius: 0 40px 40px 0 !important; margin-left: -1px !important; background-color: #f8f8f8 !important;">
+                <img src="https://raw.githubusercontent.com/siawaseok3/siawaseok3.github.io/refs/heads/main/%E6%A4%9C%E7%B4%A2%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3.png" alt="検索" style="width: 20px; height: 20px;">
+            </button>
+        </form>
     </div>
-  </header>
+</div>
+
+<div id="a-help-sidebar" class="a-sidebar" style="position: fixed; top: 0; left: -200px; width: 180px; height: auto; background: #f8f9fa; box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2); padding: 10px; transition: left 0.3s ease-in-out;">
+   <button class="btn btn-link menuristt" onclick="window.location.href='/send'">問い合わせ</button><br><br>
+   <button class="btn btn-link menuristt" onclick="window.location.href='/blog/help'">ヘルプ</button><br><br>
+   <button class="btn btn-link menuristt" onclick="toggleHelpSidebar()">閉じる</button>
+</div>
+
+<script>
+function toggleHelpSidebar() {
+    var sidebar = document.getElementById("a-help-sidebar");
+    if (sidebar.style.left === "-200px" || sidebar.style.left === "") {
+        sidebar.style.left = "0";
+    } else {
+        sidebar.style.left = "-200px";
+    }
+}
+</script>
+
+<style>
+.menuristt {
+    text-decoration: none;
+}
+</style>
+
   <p>
     SモードON
   </p>

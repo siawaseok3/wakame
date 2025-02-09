@@ -104,7 +104,7 @@ function toggleHelpSidebar() {
         
          
   <span id="views"><%= videoData.videoViews %></span>
-  <span id="likes"><%= videoData.likeCount %></span>
+    <span id="likes"><%= videoData.likeCount %></span><span>________</span>
   <button id="reloadButton">&#x21bb; 再読み込み</button>
   <button onclick="location.href='/difserver/<%= videoId %>'">サーバーを変更</button>
 </div>
@@ -125,8 +125,8 @@ function toggleHelpSidebar() {
     const likes = parseInt(likesElement.textContent.replace(/,/g, ""), 10);
 
     // フォーマットして表示を更新し、テキストを追加
-    viewsElement.textContent = formatNumber(views) + ' 回視聴';
-    likesElement.textContent = formatNumber(likes) + ' いいね';
+    viewsElement.textContent = formatNumber(views) + '回視聴';
+    likesElement.textContent = formatNumber(likes) + '高評価数';
   });
 </script>
 
