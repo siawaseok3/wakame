@@ -103,24 +103,33 @@ function toggleHelpSidebar() {
       <div class="video-info">
         
          
-  <span id="views"><%= videoData.videoViews %></span> 回視聴
-  <span id="likes"><%= videoData.likeCount %></span> いいね
+  <span id="views"><%= videoData.videoViews %></span>
+  <span id="likes"><%= videoData.likeCount %></span>
   <button id="reloadButton">&#x21bb; 再読み込み</button>
   <button onclick="location.href='/difserver/<%= videoId %>'">サーバーを変更</button>
 </div>
 
 <script>
   function formatNumber(num) {
-    if (num < 10000) return num; 
+    if (num < 10000) return num;
     if (num < 100000000) return (num / 10000).toFixed(1).replace(/\.0$/, '') + '万';
     return (num / 100000000).toFixed(1).replace(/\.0$/, '') + '億';
   }
 
   document.addEventListener("DOMContentLoaded", function() {
-    document.getElementById("views").textContent = formatNumber(parseInt(document.getElementById("views").textContent));
-    document.getElementById("likes").textContent = formatNumber(parseInt(document.getElementById("likes").textContent));
+    const viewsElement = document.getElementById("views");
+    const likesElement = document.getElementById("likes");
+
+    // 数字以外（カンマなど）を削除して数値に変換
+    const views = parseInt(viewsElement.textContent.replace(/,/g, ""), 10);
+    const likes = parseInt(likesElement.textContent.replace(/,/g, ""), 10);
+
+    // フォーマットして表示を更新し、テキストを追加
+    viewsElement.textContent = formatNumber(views) + ' 回視聴';
+    likesElement.textContent = formatNumber(likes) + ' いいね';
   });
 </script>
+
 
       <div class="channel-info">
         <a href="/c/<%= videoData.channelId %>">
@@ -130,7 +139,7 @@ function toggleHelpSidebar() {
       </div>
       <div class="video-description">
   <p id="videoDescription"><%- (videoData.videoDes || "").replace(/\n/g, "<br>") %></p>
-  <button id="toggleDescription" style="display: none;">もっと見る</button>
+  <button id="toggleDescription" style="display: none;">もっと見る…</button>
 </div>
 
 <style>
@@ -146,11 +155,13 @@ function toggleHelpSidebar() {
     margin-top: 5px;
     cursor: pointer;
     border: none;
-    background: #0073e6;
-    color: white;
+    background: white;
+    color: black;
     padding: 5px 10px;
     border-radius: 5px;
-  }
+    
+}
+
 </style>
 
 <script>
