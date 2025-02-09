@@ -1,7 +1,7 @@
 /* 全体のcss */
 body {
   font-family: 'Helvetica Neue', sans-serif;
-  background-color: #fffafb;
+  background-color: wite;
   height: 70%;
   display: flex;
   flex-direction: column;
@@ -11,7 +11,7 @@ body {
 }
 
 a {
-    color: #ff69b4;
+    color: black;
 }
 
 a:hover {

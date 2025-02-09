@@ -104,7 +104,9 @@ function toggleHelpSidebar() {
         
          
   <span id="views"><%= videoData.videoViews %></span>
+   <span style="color: white;"> 
     <span id="likes"><%= videoData.likeCount %></span><span>________</span>
+   </span>
   <button id="reloadButton">&#x21bb; 再読み込み</button>
   <button onclick="location.href='/difserver/<%= videoId %>'">サーバーを変更</button>
 </div>
@@ -119,16 +121,13 @@ function toggleHelpSidebar() {
   document.addEventListener("DOMContentLoaded", function() {
     const viewsElement = document.getElementById("views");
     const likesElement = document.getElementById("likes");
-
-    // 数字以外（カンマなど）を削除して数値に変換
     const views = parseInt(viewsElement.textContent.replace(/,/g, ""), 10);
     const likes = parseInt(likesElement.textContent.replace(/,/g, ""), 10);
 
-    // フォーマットして表示を更新し、テキストを追加
-    viewsElement.textContent = formatNumber(views) + '回視聴';
-    likesElement.textContent = formatNumber(likes) + '高評価数';
+    viewsElement.textContent = formatNumber(views) + '回視聴・高評価数' + formatNumber(likes);
   });
 </script>
+
 
 
       <div class="channel-info">
@@ -144,7 +143,7 @@ function toggleHelpSidebar() {
 
 <style>
   .video-description p {
-    max-height: 300px; /* 300pxまで表示 */
+    max-height: 200px;
     overflow: hidden;
     position: relative;
   }
@@ -169,7 +168,7 @@ function toggleHelpSidebar() {
     const description = document.getElementById("videoDescription");
     const toggleButton = document.getElementById("toggleDescription");
 
-    if (description.scrollHeight > 292) {
+    if (description.scrollHeight > 198) {
       toggleButton.style.display = "block"; // もっと見るボタン表示
     }
 
