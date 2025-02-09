@@ -33,7 +33,7 @@ header {
 }
 
 .banner .btn {
-  color: #ffffff;
+  color: #000000;
   text-decoration: none;
   margin-right: 20px;
 }
@@ -153,8 +153,8 @@ footer {
 }
 
 .btn {
-  background-color: #ff8181;
-  color: white;
+  border: 1px solid #d3d3d3;
+  color: black;
 }
 
 
