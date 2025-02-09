@@ -43,7 +43,7 @@
     <button class="btn btn-link" id="menu-btn">ツール</button>
 </div>
 
-<div id="a-help-sidebar" class="a-sidebar" style="position: fixed; top: 0; left: -200px; width: 180px; height: auto; background: #f8f9fa; box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2); padding: 10px; transition: left 0.3s ease-in-out;">
+<div id="a-help-sidebar" class="a-sidebar" style="z-index: 1000; position: fixed; top: 0; left: -200px; width: 180px; height: auto; background: #f8f9fa; box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2); padding: 10px; transition: left 0.3s ease-in-out;">
    <button class="btn btn-link menuristt" onclick="window.location.href='/send'">問い合わせ</button><br><br>
    <button class="btn btn-link menuristt" onclick="window.location.href='/blog/help'">ヘルプ</button><br><br>
    <button class="btn btn-link menuristt" onclick="toggleHelpSidebar()">閉じる</button>
@@ -186,7 +186,7 @@ function toggleHelpSidebar() {
     </div>
   </div>
   <aside class="related-videos">
-    <h3>関連動画</h3>
+    <h4>   関連動画</h4>
     <div class="video-frame"　style="height: 5600px; text-decoration: none !important;">
       <iframe src="/videores/<%= videoId %>" scrolling="no" allowfullscreen></iframe>
     </div>
