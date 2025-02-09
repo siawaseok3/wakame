@@ -66,7 +66,7 @@ function toggleHelpSidebar() {
     text-decoration: none;
 }
 </style>
-</header>
+</header><br>
 <nav id="side-menu" class="side-menu">
     <ul>
         <li><label for="loopCheck" class="custom-checkbox">
@@ -139,7 +139,7 @@ function toggleHelpSidebar() {
       </div>
       <div class="video-description">
   <p id="videoDescription"><%- (videoData.videoDes || "").replace(/\n/g, "<br>") %></p>
-  <button id="toggleDescription" style="display: none;">もっと見る…</button>
+  <button id="toggleDescription" style="display: none;">もっと見る…<></button>
 </div>
 
 <style>
@@ -159,7 +159,7 @@ function toggleHelpSidebar() {
     color: black;
     padding: 5px 10px;
     border-radius: 5px;
-    
+    float: right;
 }
 
 </style>
@@ -175,7 +175,7 @@ function toggleHelpSidebar() {
 
     toggleButton.addEventListener("click", function() {
       document.querySelector(".video-description").classList.toggle("expanded");
-      toggleButton.textContent = description.parentElement.classList.contains("expanded") ? "閉じる" : "もっと見る";
+      toggleButton.textContent = description.parentElement.classList.contains("expanded") ? "閉じる" : "もっと見る…";
     });
   });
 </script>
