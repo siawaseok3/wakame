@@ -101,18 +101,25 @@ function toggleHelpSidebar() {
         <button class="favorite-btn" onclick="toggleFavorite('<%= videoData.videoId %>', '<%= videoData.channelId %>', '<%= videoData.channelName %>','<%= videoData.videoTitle %>')">&#9733; お気に入り</button>
       </div>
       <div class="video-info">
-  <span><%= formatNumber(videoData.videoViews) %> 回視聴</span>
-  <span><%= formatNumber(videoData.likeCount) %> いいね</span>
+        
+         
+  <span id="views"><%= videoData.videoViews %></span> 回視聴
+  <span id="likes"><%= videoData.likeCount %></span> いいね
   <button id="reloadButton">&#x21bb; 再読み込み</button>
   <button onclick="location.href='/difserver/<%= videoId %>'">サーバーを変更</button>
 </div>
 
 <script>
   function formatNumber(num) {
-    if (num < 10000) return num; // 9999以下はそのまま
-    if (num < 100000000) return (num / 10000).toFixed(1).replace(/\.0$/, '') + '万'; // 1万以上1億未満は「○.○万」
-    return (num / 100000000).toFixed(1).replace(/\.0$/, '') + '億'; // 1億以上は「○.○億」
+    if (num < 10000) return num; 
+    if (num < 100000000) return (num / 10000).toFixed(1).replace(/\.0$/, '') + '万';
+    return (num / 100000000).toFixed(1).replace(/\.0$/, '') + '億';
   }
+
+  document.addEventListener("DOMContentLoaded", function() {
+    document.getElementById("views").textContent = formatNumber(parseInt(document.getElementById("views").textContent));
+    document.getElementById("likes").textContent = formatNumber(parseInt(document.getElementById("likes").textContent));
+  });
 </script>
 
       <div class="channel-info">
@@ -122,8 +129,46 @@ function toggleHelpSidebar() {
         </a>
       </div>
       <div class="video-description">
-        <p><%- (videoData.videoDes || "").replace(/\n/g, "<br>") %></p>
-      </div>
+  <p id="videoDescription"><%- (videoData.videoDes || "").replace(/\n/g, "<br>") %></p>
+  <button id="toggleDescription" style="display: none;">もっと見る</button>
+</div>
+
+<style>
+  .video-description p {
+    max-height: 300px; /* 300pxまで表示 */
+    overflow: hidden;
+    position: relative;
+  }
+  .video-description.expanded p {
+    max-height: none; /* 展開時は高さ制限解除 */
+  }
+  .video-description button {
+    margin-top: 5px;
+    cursor: pointer;
+    border: none;
+    background: #0073e6;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const description = document.getElementById("videoDescription");
+    const toggleButton = document.getElementById("toggleDescription");
+
+    if (description.scrollHeight > 300) {
+      toggleButton.style.display = "block"; // もっと見るボタン表示
+    }
+
+    toggleButton.addEventListener("click", function() {
+      document.querySelector(".video-description").classList.toggle("expanded");
+      toggleButton.textContent = description.parentElement.classList.contains("expanded") ? "閉じる" : "もっと見る";
+    });
+  });
+</script>
+
     </div>
     <div class="comment-section">
       <h3>コメント</h3>
