@@ -83,45 +83,66 @@ function toggleHelpSidebar() {
     </ul>
 </nav>
 <div id="overlay" class="overlay"></div>
-  
-<div class="card">
-    <div class="loading-indicator">
+
+<div class="main-content">
+  <div class="video-section">
+    <div class="card">
+      <div class="loading-indicator">
         <img src="https://cdn.glitch.global/3128bf45-3a23-4695-81ba-3aba21b8585b/IMG_1966.gif?v=1729824394361" alt="Loading..." />
+      </div>
+      <video id="wakameVideo" controls autoplay poster="/vi/<%= videoData.videoId %>/maxresdefault.jpg">
+        <source src="<%= videoData.stream_url %>" type="video/mp4">
+        読み込み失敗。ブラウザをアップデートしてどうぞ。
+      </video>
     </div>
-  <video id="wakameVideo" controls autoplay poster="/vi/<%= videoData.videoId %>/maxresdefault.jpg">
-    <source src="<%= videoData.stream_url %>" type="video/mp4">
-    読み込み失敗。ブラウザをアップデートしてどうぞ。
-  </video>
+    <div class="video-container">
+      <div class="video-header">
+        <h2><%= videoData.videoTitle %></h2>
+        <button class="favorite-btn" onclick="toggleFavorite('<%= videoData.videoId %>', '<%= videoData.channelId %>', '<%= videoData.channelName %>','<%= videoData.videoTitle %>')">&#9733; お気に入り</button>
+      </div>
+      <div class="video-info">
+        <span><%= videoData.videoViews %> 回視聴</span>
+        <span><%= videoData.likeCount %> いいね</span>
+        <button id="reloadButton">&#x21bb; 再読み込み</button>
+        <button onclick="location.href='/difserver/<%= videoId %>'">サーバーを変更</button>
+      </div>
+      <div class="channel-info">
+        <a href="/c/<%= videoData.channelId %>">
+          <img src="<%= videoData.channelImage %>" alt="チャンネル画像">
+          <span><%= videoData.channelName %></span>
+        </a>
+      </div>
+      <div class="video-description">
+        <p><%- (videoData.videoDes || "").replace(/\n/g, "<br>") %></p>
+      </div>
+    </div>
+    <div class="comment-section">
+      <h3>コメント</h3>
+      <iframe src="/comment/<%= videoId %>" scrolling="yes"></iframe>
+    </div>
+  </div>
+  <aside class="related-videos">
+    <h3>関連動画</h3>
+    <div class="video-frame">
+      <iframe src="/videores/<%= videoId %>" scrolling="no" allowfullscreen></iframe>
+    </div>
+  </aside>
 </div>
-<div class="video-container">
-  <div class="video-header">
-    <h2><%= videoData.videoTitle %></h2>
-    <button class="favorite-btn" onclick="toggleFavorite('<%= videoData.videoId %>', '<%= videoData.channelId %>', '<%= videoData.channelName %>','<%= videoData.videoTitle %>')">&#9733; お気に入り</button>
-  </div>
-  <div class="video-info">
-    <span><%= videoData.videoViews %> 回視聴</span>
-    <span><%= videoData.likeCount %> いいね</span>
-    <button id="reloadButton">&#x21bb; 再読み込み</button>
-    <button onclick="location.href='/difserver/<%= videoId %>'">サーバーを変更</button>
-  </div>
-  <div class="channel-info">
-    <a href="/c/<%= videoData.channelId %>">
-      <img src="<%= videoData.channelImage %>" alt="チャンネル画像">
-      <span><%= videoData.channelName %></span>
-    </a>
-  </div>
-  <div class="video-description">
-    <p><%- (videoData.videoDes || "").replace(/\n/g, "<br>") %></p>
-  </div>
-</div>
-<div class="comment-section">
-  <h3>コメント</h3>
-  <iframe src="/comment/<%= videoId %>" scrolling="yes"></iframe>
-</div>
-  <div class="video-frame">
-    <iframe src="/videores/<%= videoId %>" scrolling="no" allowfullscreen></iframe>
-  </div>
+
 <style>
+  .main-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .video-section {
+    max-width: 800px;
+    flex: 1;
+  }
+  .related-videos {
+    width: 320px;
+    margin-left: 20px;
+  }
   .video-container {
     max-width: 800px;
     margin: auto;
@@ -165,6 +186,15 @@ function toggleHelpSidebar() {
     width: 100%;
     height: 500px;
     border: none;
+  }
+  @media (max-width: 768px) {
+    .main-content {
+      flex-direction: column;
+    }
+    .related-videos {
+      width: 100%;
+      margin-left: 0;
+    }
   }
 </style>
 
