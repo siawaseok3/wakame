@@ -40,17 +40,50 @@
             </button>
         </form>
     </div>
+  <button style="text-align: end;" id="goToBbsButton">掲示板</button>
 </div>
 
 <div id="a-help-sidebar" class="a-sidebar" style="position: fixed; top: 0; left: -200px; width: 180px; height: auto; background: #f8f9fa; box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2); padding: 10px; transition: left 0.3s ease-in-out;">
    <button class="btn btn-link menuristt" onclick="window.location.href='/send'">問い合わせ</button><br><br>
    <button class="btn btn-link menuristt" onclick="window.location.href='/blog/help'">ヘルプ</button><br><br>
    <button class="btn btn-link menuristt" onclick="toggleHelpSidebar()">閉じる</button>
-        <button style="text-align: end;" id="goToBbsButton">掲示板</button>
 </div>
+<style>
+
+    #goToBbsButton {
+            padding: 8px 18px;
+            font-size: 15px;
+            color: black;
+            background-color: #c0c0c0;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        #goToBbsButton:hover {
+            background-color: #a9a9a9;
+        }
+
+
+.menuristt {
+    text-decoration: none;
+}
+.menuristt {
+    text-decoration: none;
+}
+
+    </style>
+
+
 
 
 <script>
+  
+document.getElementById('goToBbsButton').addEventListener('click', function() {
+    window.location.href = '/bbs';
+});
+  
 function toggleHelpSidebar() {
     var sidebar = document.getElementById("a-help-sidebar");
     if (sidebar.style.left === "-200px" || sidebar.style.left === "") {
