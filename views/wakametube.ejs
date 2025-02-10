@@ -44,10 +44,37 @@
   </main>
   <br>
   
-  <h2>
-    <span style="color: white;">白色のテキスト</span>
-  </h2>
-  <button id="goToBbsButton">掲示板(yukibbs)</button>
+
+  <div class="container">
+        <button id="goToBbsButton">掲示板(yukibbs)</button>
+    </div>
+   <style>
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #goToBbsButton {
+            padding: 10px 20px;
+            font-size: 16px;
+            color: white;
+            background-color: #007BFF;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        #goToBbsButton:hover {
+            background-color: #0056b3;
+        }
+
+        #goToBbsButton:active {
+            background-color: #004085;
+        }
+    </style>
+
 
     <script>
         document.getElementById('goToBbsButton').addEventListener('click', function() {
