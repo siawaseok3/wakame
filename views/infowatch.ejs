@@ -39,7 +39,9 @@
             </button>
         </form>
     </div>
-    
+    <div class="container">
+        <button id="goToBbsButton">掲示板(yukibbs)</button>
+    </div>
     <button class="btn btn-link" id="menu-btn">ツール</button>
 </div>
 
@@ -50,6 +52,37 @@
 </div>
 
 
+   <style>
+        .container {
+            display: flex;
+            align-items: center;
+        }
+
+        #goToBbsButton {
+            font-size: 12px;
+            color: Black;
+            background-color: #a9a9a9;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        #goToBbsButton:hover {
+            background-color: #0056b3;
+        }
+
+        #goToBbsButton:active {
+            background-color: #004085;
+        }
+    </style>
+
+
+    <script>
+        document.getElementById('goToBbsButton').addEventListener('click', function() {
+            window.location.href = '/bbs';
+        });
+    </script>
 <script>
 function toggleHelpSidebar() {
     var sidebar = document.getElementById("a-help-sidebar");
