@@ -1,1 +1,14 @@
-a
+{
+  "trending_urls": [
+    {
+      "label": "音楽",
+      "bp": "4gINGgt5dG1hX2NoYXJ0cw%3D%3D"
+    },
+    {
+      "label": "ゲーム",
+      "bp": "4gIcGhpnYW1pbmdfY29ycHVzX21vc3RfcG9wdWxhcg%3D%3D"
+    }
+  ],
+  "base_url": "https://www.youtube.com/feed/trending?bp=" 
+  "lang_parameters": "&persist_gl=1&gl=JP"
+}
