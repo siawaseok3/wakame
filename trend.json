@@ -1,5 +1,5 @@
 {
-  "updated": "2025-05-05T02:38:35.472Z",
+  "updated": "2025-05-05T03:38:35.853Z",
   "trending": [
     {
       "id": "3JSxiw6AfMw",
@@ -530,39 +530,6 @@
       }
     },
     {
-      "id": "zCfx-3qjjGw",
-      "title": "timelesz「ワンアンドオンリー」Music Video TEASER",
-      "channel": "timelesz [タイムレス]",
-      "publishedAt": "2025-05-02T09:01:34Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/zCfx-3qjjGw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/zCfx-3qjjGw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/zCfx-3qjjGw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/zCfx-3qjjGw/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/zCfx-3qjjGw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "ZFbOegd9Y6s",
       "title": "乃木坂46筒井あやめさんがザ・森東にサプライズ訪問でさらばビックリ大歓喜！！",
       "channel": "裏さらば",
@@ -590,6 +557,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/ZFbOegd9Y6s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "zCfx-3qjjGw",
+      "title": "timelesz「ワンアンドオンリー」Music Video TEASER",
+      "channel": "timelesz [タイムレス]",
+      "publishedAt": "2025-05-02T09:01:34Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zCfx-3qjjGw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zCfx-3qjjGw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zCfx-3qjjGw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zCfx-3qjjGw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zCfx-3qjjGw/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -829,29 +829,6 @@
   ],
   "music": [
     {
-      "id": "_TOisDntZ58",
-      "title": "he’s got a pretty sick setup (repost) #PoolTime #SwimmingDog #goldenretriever",
-      "channel": "Adria and Oatmeal",
-      "publishedAt": "2025-04-29T15:01:04Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/_TOisDntZ58/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/_TOisDntZ58/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/_TOisDntZ58/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "LmFsQm4DfPo",
       "title": "f5ve - Sugar Free Venom feat. Kesha (Official MV)",
       "channel": "f5ve",
@@ -869,6 +846,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/LmFsQm4DfPo/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "4ijF2iMcGTA",
+      "title": "AMOR #shortscreator #youtubecreator",
+      "channel": "Rafa Barretta ",
+      "publishedAt": "2025-04-29T13:18:10Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4ijF2iMcGTA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4ijF2iMcGTA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4ijF2iMcGTA/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -915,29 +915,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/LLueNezp-ts/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "7id8gFZG_xc",
-      "title": "“Outshined” Soundgarden Breakdown #soundgarden #guitar #grunge #shorts",
-      "channel": "Rick Beato",
-      "publishedAt": "2025-05-03T21:44:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/7id8gFZG_xc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/7id8gFZG_xc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/7id8gFZG_xc/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1082,6 +1059,29 @@
       }
     },
     {
+      "id": "HGgnT78AE-s",
+      "title": "WATCH THIS If You Have PREFORMANCE ANXIETY!!❤️🎤 #journey #singer #singing #vocalcoach #viral",
+      "channel": "Cheryl Porter Vocal Coach",
+      "publishedAt": "2025-05-03T15:55:22Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HGgnT78AE-s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HGgnT78AE-s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HGgnT78AE-s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "kAmEESKvwS0",
       "title": "he doesn’t love activities on dry land (but I do) #doghike #sonomacounty",
       "channel": "Adria and Oatmeal",
@@ -1151,6 +1151,29 @@
       }
     },
     {
+      "id": "8G8_Bd2NaoI",
+      "title": "اذكار الصباح بصوت يريح قلبك راحه نفسيه 💚 حصن نفسك وبيتك من الشيطان | Adkar Al-Sabah - Morning Adkar",
+      "channel": "حسام المعصبي | Husam almasabi",
+      "publishedAt": "2025-05-05T01:56:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8G8_Bd2NaoI/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8G8_Bd2NaoI/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8G8_Bd2NaoI/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "noyFMKOiw8Q",
       "title": "PRAMOD PREMI YADAV | Bhanwarwa Niyan | Ritu Singh | भँवरवा नियन | AYUSHMAN AYUSHMATI | FULL Song",
       "channel": "SRK MUSIC",
@@ -1174,23 +1197,23 @@
       }
     },
     {
-      "id": "Tno20t45Q2o",
-      "title": "Toyah and Robert&#39;s Sunday Lunch - THROWBACK!",
-      "channel": "Toyah",
-      "publishedAt": "2025-05-04T11:00:06Z",
+      "id": "qL4gUpNnYak",
+      "title": "Time With God - Instrumental Worship Music for Prayer",
+      "channel": "While You Pray",
+      "publishedAt": "2025-04-28T21:26:30Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Tno20t45Q2o/default.jpg",
+          "url": "https://i.ytimg.com/vi/qL4gUpNnYak/default_live.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Tno20t45Q2o/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/qL4gUpNnYak/mqdefault_live.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Tno20t45Q2o/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/qL4gUpNnYak/hqdefault_live.jpg",
           "width": 480,
           "height": 360
         }
@@ -1243,23 +1266,23 @@
       }
     },
     {
-      "id": "eRQOhpTxgB8",
-      "title": "【BE:FIRST presents THE SHOW】Spacecraft | NHK",
-      "channel": "NHK MUSIC",
-      "publishedAt": "2025-05-04T01:00:41Z",
+      "id": "intLWpnYwp0",
+      "title": "i-dle (아이들) &#39;i-dentity Trailer&#39;ㅣSHUHUA",
+      "channel": "i-dle (아이들)",
+      "publishedAt": "2025-05-04T15:01:32Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/eRQOhpTxgB8/default.jpg",
+          "url": "https://i.ytimg.com/vi/intLWpnYwp0/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/eRQOhpTxgB8/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/intLWpnYwp0/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/eRQOhpTxgB8/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/intLWpnYwp0/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1329,29 +1352,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/CVbipre85ao/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "QmhHXv-ljcg",
-      "title": "Mirjalol Nematov - Ichaman (Official Music Video)",
-      "channel": "Mirjalol Nematov",
-      "publishedAt": "2025-05-03T14:00:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/QmhHXv-ljcg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/QmhHXv-ljcg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/QmhHXv-ljcg/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1475,6 +1475,29 @@
       }
     },
     {
+      "id": "thIXwwrt5oI",
+      "title": "NOBODY knew why he was making WEIRD NOISES until…😱😱",
+      "channel": "Avocado Playz",
+      "publishedAt": "2025-05-03T12:01:34Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/thIXwwrt5oI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/thIXwwrt5oI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/thIXwwrt5oI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "FWyk4GgSNLU",
       "title": "Where Do League Of Legends Minions Come From?",
       "channel": "Necrit",
@@ -1492,29 +1515,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/FWyk4GgSNLU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "NBaiDO4pqGg",
-      "title": "Secret Star Wars Easter Egg in Fortnite",
-      "channel": "Nick Eh 30 Shorts",
-      "publishedAt": "2025-05-03T03:25:52Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/NBaiDO4pqGg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/NBaiDO4pqGg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/NBaiDO4pqGg/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1567,6 +1567,29 @@
       }
     },
     {
+      "id": "-mKYDYkzozc",
+      "title": "HW News - NVIDIA Keeps &quot;Fixing&quot; Its Drivers, AMD Threadripper, RX 9070 GRE, Intel Layoffs",
+      "channel": "Gamers Nexus",
+      "publishedAt": "2025-05-04T17:50:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-mKYDYkzozc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-mKYDYkzozc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-mKYDYkzozc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "9f2GZXwPgSY",
       "title": "Worst animation ever😭",
       "channel": "TheAnimeMen",
@@ -1607,52 +1630,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/cByRJyC_YH0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "weoCy1BwDqQ",
-      "title": "ROBLOX FINALLY LISTENED... 😱🇧🇷",
-      "channel": "KreekCraft",
-      "publishedAt": "2025-05-02T23:09:39Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/weoCy1BwDqQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/weoCy1BwDqQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/weoCy1BwDqQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "6GThvFFDybs",
-      "title": "Кто Победит? Тралалело Тралала vs Команда Тунг Тунг Саур ЧЕЛЛЕНДЖ #gmod #sfm",
-      "channel": "DRЫNDA",
-      "publishedAt": "2025-05-03T13:00:12Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/6GThvFFDybs/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/6GThvFFDybs/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/6GThvFFDybs/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1751,29 +1728,6 @@
       }
     },
     {
-      "id": "7aoCG9gnF8I",
-      "title": "The Greatest Card Game Returns | Board AF: Flip 7",
-      "channel": "Smosh Games",
-      "publishedAt": "2025-05-04T17:00:12Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/7aoCG9gnF8I/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/7aoCG9gnF8I/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/7aoCG9gnF8I/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "1uI8gTFGQhw",
       "title": "IF Dead Rails &amp; Blox Fruits Combined..",
       "channel": "Vindooly",
@@ -1797,6 +1751,52 @@
       }
     },
     {
+      "id": "mHvt_i1ODVU",
+      "title": "The Day Fortnite BROKE",
+      "channel": "SypherPK",
+      "publishedAt": "2025-05-03T17:01:02Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mHvt_i1ODVU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mHvt_i1ODVU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mHvt_i1ODVU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "RMeV-m-H3EU",
+      "title": "They made a game about cardboard boxes...",
+      "channel": "Real Civil Engineer",
+      "publishedAt": "2025-05-04T16:00:37Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RMeV-m-H3EU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RMeV-m-H3EU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RMeV-m-H3EU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "SCx0KmhOUxU",
       "title": "How is our government THIS retarded??",
       "channel": "Asmongold TV  ",
@@ -1814,52 +1814,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/SCx0KmhOUxU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "VpWSR4Iy1vQ",
-      "title": "Fortnite Season 3 has one small problem...",
-      "channel": "SypherPK",
-      "publishedAt": "2025-05-04T17:15:01Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/VpWSR4Iy1vQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/VpWSR4Iy1vQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/VpWSR4Iy1vQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "GgMxp7TkCcY",
-      "title": "【モンスト】深淵火完全崩壊に庭園7のガチパ更新！？『名探偵コナンコラボ2弾 』1弾キャラの獣神化・改実装後の評価",
-      "channel": "やまにぃ",
-      "publishedAt": "2025-05-01T08:30:16Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/GgMxp7TkCcY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/GgMxp7TkCcY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/GgMxp7TkCcY/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1912,6 +1866,29 @@
       }
     },
     {
+      "id": "x43k91etVbk",
+      "title": "unfair bosses be like",
+      "channel": "Viva La Dirt League",
+      "publishedAt": "2025-05-04T13:01:35Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/x43k91etVbk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/x43k91etVbk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/x43k91etVbk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "hhAjZYxqr44",
       "title": "Wasabi Finx = Tensai 🥶",
       "channel": "SnakeThug - Brawl Stars",
@@ -1929,6 +1906,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/hhAjZYxqr44/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "lY-6Hoe4Kp0",
+      "title": "Squid Game in a nutshell 😂 #gorillatag #gtag #recommended #viral",
+      "channel": "Flushy",
+      "publishedAt": "2025-05-03T19:01:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lY-6Hoe4Kp0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lY-6Hoe4Kp0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lY-6Hoe4Kp0/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
