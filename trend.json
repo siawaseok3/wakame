@@ -1,5 +1,5 @@
 {
-  "updated": "2025-05-08T22:38:35.706Z",
+  "updated": "2025-05-08T23:38:36.115Z",
   "trending": [
     {
       "id": "nDFR_gROx6I",
@@ -596,6 +596,39 @@
       }
     },
     {
+      "id": "4OtBXMAH28M",
+      "title": "ショートムービー「リコリス・リコイル Friends are thieves of time.」｜第４話「Watch out!」",
+      "channel": "アニプレックス チャンネル",
+      "publishedAt": "2025-05-07T12:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4OtBXMAH28M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4OtBXMAH28M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4OtBXMAH28M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4OtBXMAH28M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4OtBXMAH28M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
       "id": "DIcqorvQnEY",
       "title": "【マリオカート8DX】第7回マリオカートにじさんじ杯 本戦【#マリカにじさんじ杯】",
       "channel": "にじさんじ",
@@ -689,39 +722,6 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/QBAKQC5ILD8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
-      "id": "4OtBXMAH28M",
-      "title": "ショートムービー「リコリス・リコイル Friends are thieves of time.」｜第４話「Watch out!」",
-      "channel": "アニプレックス チャンネル",
-      "publishedAt": "2025-05-07T12:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/4OtBXMAH28M/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/4OtBXMAH28M/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/4OtBXMAH28M/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/4OtBXMAH28M/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/4OtBXMAH28M/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -921,29 +921,6 @@
       }
     },
     {
-      "id": "d6i4AtCxrDo",
-      "title": "Hump Back - 「拝啓、少年よ」Music Video",
-      "channel": "Hump Back Official",
-      "publishedAt": "2018-05-27T06:00:04Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/d6i4AtCxrDo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/d6i4AtCxrDo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/d6i4AtCxrDo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "Ff7kdaIQvQM",
       "title": "Mrs. GREEN APPLE - lovin&#39;",
       "channel": "Mrs. GREEN APPLE",
@@ -967,6 +944,52 @@
       }
     },
     {
+      "id": "d6i4AtCxrDo",
+      "title": "Hump Back - 「拝啓、少年よ」Music Video",
+      "channel": "Hump Back Official",
+      "publishedAt": "2018-05-27T06:00:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d6i4AtCxrDo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d6i4AtCxrDo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d6i4AtCxrDo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "fMIn43MiwG8",
+      "title": "TWICE 「Celebrate」 Music Video",
+      "channel": "TWICE JAPAN OFFICIAL YouTube Channel",
+      "publishedAt": "2022-07-14T15:00:32Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "wfCcs0vLysk",
       "title": "Mrs. GREEN APPLE - インフェルノ（Inferno）",
       "channel": "Mrs. GREEN APPLE",
@@ -984,6 +1007,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/wfCcs0vLysk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "cyq5-StPISU",
+      "title": "【Ado】阿修羅ちゃん",
+      "channel": "Ado",
+      "publishedAt": "2021-10-28T11:30:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cyq5-StPISU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cyq5-StPISU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cyq5-StPISU/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1030,29 +1076,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/x2rvSf0STBM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "fMIn43MiwG8",
-      "title": "TWICE 「Celebrate」 Music Video",
-      "channel": "TWICE JAPAN OFFICIAL YouTube Channel",
-      "publishedAt": "2022-07-14T15:00:32Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1358,46 +1381,23 @@
       }
     },
     {
-      "id": "O1bhZgkC4Gw",
-      "title": "Official髭男dism - Cry Baby［Official Video］",
+      "id": "DuMqFknYHBs",
+      "title": "Official髭男dism - イエスタデイ［Official Video］",
       "channel": "Official髭男dism",
-      "publishedAt": "2021-05-06T15:00:16Z",
+      "publishedAt": "2019-09-20T12:00:05Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/O1bhZgkC4Gw/default.jpg",
+          "url": "https://i.ytimg.com/vi/DuMqFknYHBs/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/O1bhZgkC4Gw/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/DuMqFknYHBs/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/O1bhZgkC4Gw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "Q5JytNgQzqk",
-      "title": "Novelbright - 愛とか恋とか [Official Music Video]",
-      "channel": "Novelbright",
-      "publishedAt": "2022-04-22T11:00:11Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Q5JytNgQzqk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Q5JytNgQzqk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Q5JytNgQzqk/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/DuMqFknYHBs/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1521,29 +1521,6 @@
       }
     },
     {
-      "id": "wW8FnNghyvI",
-      "title": "1000 People Build 10 Countries!",
-      "channel": "MrBeast Gaming",
-      "publishedAt": "2021-04-15T19:07:15Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/wW8FnNghyvI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/wW8FnNghyvI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/wW8FnNghyvI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "sKU9Pg2oZXI",
       "title": "万波中正 起死回生の同点ソロホームラン#shorts  #野球 #プロ野球 #万波中正",
       "channel": "きなお",
@@ -1561,6 +1538,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/sKU9Pg2oZXI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "wW8FnNghyvI",
+      "title": "1000 People Build 10 Countries!",
+      "channel": "MrBeast Gaming",
+      "publishedAt": "2021-04-15T19:07:15Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wW8FnNghyvI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wW8FnNghyvI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wW8FnNghyvI/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1613,6 +1613,52 @@
       }
     },
     {
+      "id": "hpuKJzzWq1U",
+      "title": "【「名探偵コナン」×モンスト】京極真 登場！ペディオ以来2体目となる貴重な「コーナーボム」を所持！SSターン短縮で早めに使用可能なオリジナルSSにも注目！【新キャラ使ってみた｜モンスト公式】",
+      "channel": "モンスト（モンスターストライク）公式",
+      "publishedAt": "2025-05-08T09:01:03Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hpuKJzzWq1U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hpuKJzzWq1U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hpuKJzzWq1U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "zjCpmmzUNNo",
+      "title": "This Is The WRONG Way To Prepare A Crab 😔 #badidea",
+      "channel": "IdkSterling",
+      "publishedAt": "2025-05-07T22:01:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zjCpmmzUNNo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zjCpmmzUNNo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zjCpmmzUNNo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "xN8ENrfE-TY",
       "title": "If You Build a House, I&#39;ll Pay For It!",
       "channel": "MrBeast Gaming",
@@ -1659,6 +1705,29 @@
       }
     },
     {
+      "id": "jJ8bPDWJnHE",
+      "title": "The Oldest Graphics Cards I Own 💀",
+      "channel": "Zach's Tech Turf",
+      "publishedAt": "2025-05-07T18:37:40Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jJ8bPDWJnHE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jJ8bPDWJnHE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jJ8bPDWJnHE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "KztwRPc-y5U",
       "title": "Helldivers 2 - Masters of Ceremony Warbond | PS5 and PC Games",
       "channel": "PlayStation",
@@ -1682,23 +1751,23 @@
       }
     },
     {
-      "id": "RBOFErTk67w",
-      "title": "Is Covid cool now?",
-      "channel": "Smosh Games",
-      "publishedAt": "2025-05-08T00:00:22Z",
+      "id": "QaMGw5mTggs",
+      "title": "Why Vergil Dies Instantly...",
+      "channel": "ZERO",
+      "publishedAt": "2025-05-08T04:57:29Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/RBOFErTk67w/default.jpg",
+          "url": "https://i.ytimg.com/vi/QaMGw5mTggs/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/RBOFErTk67w/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/QaMGw5mTggs/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/RBOFErTk67w/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/QaMGw5mTggs/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1866,29 +1935,6 @@
       }
     },
     {
-      "id": "tBNPmyFiBEA",
-      "title": "Fortnite Pro’s Strangest Strategy: The Storm Meta",
-      "channel": "Reisshub",
-      "publishedAt": "2025-05-08T13:26:35Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/tBNPmyFiBEA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/tBNPmyFiBEA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/tBNPmyFiBEA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "yGaHC0MvgHk",
       "title": "13 Tiny Details &amp; Easter Eggs I Missed in GTA 6 Trailer 2",
       "channel": "TGG",
@@ -1929,52 +1975,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/t5wJksT8Gzw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "9zVIy_La7nk",
-      "title": "Grand Theft Auto 6 Trailer 2 Tech Breakdown - Incredible Realism, Impressive RT, Astonishing Detail",
-      "channel": "Digital Foundry",
-      "publishedAt": "2025-05-07T18:23:31Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/9zVIy_La7nk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/9zVIy_La7nk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/9zVIy_La7nk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "8_c-UKWk1uo",
-      "title": "Trying To Afford Nintendo Switch 2!",
-      "channel": "EmSwizzle",
-      "publishedAt": "2025-05-07T19:00:16Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/8_c-UKWk1uo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/8_c-UKWk1uo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/8_c-UKWk1uo/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
