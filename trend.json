@@ -1,5 +1,5 @@
 {
-  "updated": "2025-05-08T10:38:35.791Z",
+  "updated": "2025-05-08T11:38:35.281Z",
   "trending": [
     {
       "id": "T0ffTWSo6I8",
@@ -464,6 +464,39 @@
       }
     },
     {
+      "id": "uZZ2zpcsrVU",
+      "title": "Mrs. GREEN APPLE – アニバーサリーベストアルバム「10」Highlight",
+      "channel": "Mrs. GREEN APPLE",
+      "publishedAt": "2025-05-07T12:01:41Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uZZ2zpcsrVU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uZZ2zpcsrVU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uZZ2zpcsrVU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uZZ2zpcsrVU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uZZ2zpcsrVU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
       "id": "gGGTggCuaEg",
       "title": "King Gnu - TWILIGHT!!! ＜PLATINUM LIVE ver.＞【TBS系「CDTVライブ！ライブ！」】",
       "channel": "King Gnu official YouTube channel",
@@ -524,39 +557,6 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/VQRLujxTm3c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
-      "id": "uZZ2zpcsrVU",
-      "title": "Mrs. GREEN APPLE – アニバーサリーベストアルバム「10」Highlight",
-      "channel": "Mrs. GREEN APPLE",
-      "publishedAt": "2025-05-07T12:01:41Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/uZZ2zpcsrVU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/uZZ2zpcsrVU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/uZZ2zpcsrVU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/uZZ2zpcsrVU/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/uZZ2zpcsrVU/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -695,39 +695,6 @@
       }
     },
     {
-      "id": "_c5fqb9aDas",
-      "title": "【Mrs. GREEN APPLE 10 YEARS SPECIAL】天国 │NHK",
-      "channel": "NHK MUSIC",
-      "publishedAt": "2025-05-05T13:45:04Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/_c5fqb9aDas/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/_c5fqb9aDas/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/_c5fqb9aDas/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/_c5fqb9aDas/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/_c5fqb9aDas/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "lMBje0K98YY",
       "title": "【間違えた】１チームメダル10万枚使い切るまで帰れない対決が普通にやばすぎて終了。",
       "channel": "東海オンエア",
@@ -755,6 +722,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/lMBje0K98YY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "_c5fqb9aDas",
+      "title": "【Mrs. GREEN APPLE 10 YEARS SPECIAL】天国 │NHK",
+      "channel": "NHK MUSIC",
+      "publishedAt": "2025-05-05T13:45:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_c5fqb9aDas/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_c5fqb9aDas/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_c5fqb9aDas/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_c5fqb9aDas/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_c5fqb9aDas/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -869,6 +869,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/VTCQBuYhq_s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "sLmLwgxnPUE",
+      "title": "TWICE 「BETTER」 Music Video",
+      "channel": "TWICE JAPAN OFFICIAL YouTube Channel",
+      "publishedAt": "2020-11-10T15:00:23Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sLmLwgxnPUE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sLmLwgxnPUE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sLmLwgxnPUE/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1379,29 +1402,6 @@
           "height": 360
         }
       }
-    },
-    {
-      "id": "TcLLpZBWsck",
-      "title": "Fujii Kaze - Kirari (Official Video)",
-      "channel": "Fujii Kaze",
-      "publishedAt": "2021-05-21T13:00:11Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/TcLLpZBWsck/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/TcLLpZBWsck/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/TcLLpZBWsck/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
     }
   ],
   "gaming": [
@@ -1843,6 +1843,29 @@
       }
     },
     {
+      "id": "5UKjefYHdgI",
+      "title": "31 Ways to Keep Your House Safe in Minecraft",
+      "channel": "Skip the Tutorial",
+      "publishedAt": "2021-05-24T15:33:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5UKjefYHdgI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5UKjefYHdgI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5UKjefYHdgI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "kDYWlY7qWAM",
       "title": "勝手に牛を手術して新しい動物に大改造してみた！🐮【マイクラ/まいくら】【マイクラリレー2021】【ゲーム実況】",
       "channel": "ちろぴの",
@@ -1906,29 +1929,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/jSSKOziX_v0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "5UKjefYHdgI",
-      "title": "31 Ways to Keep Your House Safe in Minecraft",
-      "channel": "Skip the Tutorial",
-      "publishedAt": "2021-05-24T15:33:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/5UKjefYHdgI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/5UKjefYHdgI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/5UKjefYHdgI/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
