@@ -1,5 +1,5 @@
 {
-  "updated": "2025-05-08T23:38:36.115Z",
+  "updated": "2025-05-09T00:38:35.105Z",
   "trending": [
     {
       "id": "nDFR_gROx6I",
@@ -398,39 +398,6 @@
       }
     },
     {
-      "id": "VQRLujxTm3c",
-      "title": "Grand Theft Auto VI Trailer 2",
-      "channel": "Rockstar Games",
-      "publishedAt": "2025-05-06T13:29:04Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/VQRLujxTm3c/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/VQRLujxTm3c/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/VQRLujxTm3c/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/VQRLujxTm3c/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/VQRLujxTm3c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "fip1DZDBWBY",
       "title": "ファタール / ぴくと×きんとき【歌ってみた】",
       "channel": "ぴくとはうす",
@@ -458,6 +425,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/fip1DZDBWBY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "VQRLujxTm3c",
+      "title": "Grand Theft Auto VI Trailer 2",
+      "channel": "Rockstar Games",
+      "publishedAt": "2025-05-06T13:29:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VQRLujxTm3c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VQRLujxTm3c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VQRLujxTm3c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VQRLujxTm3c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VQRLujxTm3c/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -596,39 +596,6 @@
       }
     },
     {
-      "id": "4OtBXMAH28M",
-      "title": "ショートムービー「リコリス・リコイル Friends are thieves of time.」｜第４話「Watch out!」",
-      "channel": "アニプレックス チャンネル",
-      "publishedAt": "2025-05-07T12:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/4OtBXMAH28M/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/4OtBXMAH28M/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/4OtBXMAH28M/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/4OtBXMAH28M/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/4OtBXMAH28M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "DIcqorvQnEY",
       "title": "【マリオカート8DX】第7回マリオカートにじさんじ杯 本戦【#マリカにじさんじ杯】",
       "channel": "にじさんじ",
@@ -722,6 +689,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/QBAKQC5ILD8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "4OtBXMAH28M",
+      "title": "ショートムービー「リコリス・リコイル Friends are thieves of time.」｜第４話「Watch out!」",
+      "channel": "アニプレックス チャンネル",
+      "publishedAt": "2025-05-07T12:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4OtBXMAH28M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4OtBXMAH28M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4OtBXMAH28M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4OtBXMAH28M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4OtBXMAH28M/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -1521,29 +1521,6 @@
       }
     },
     {
-      "id": "sKU9Pg2oZXI",
-      "title": "万波中正 起死回生の同点ソロホームラン#shorts  #野球 #プロ野球 #万波中正",
-      "channel": "きなお",
-      "publishedAt": "2025-05-05T09:01:15Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/sKU9Pg2oZXI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/sKU9Pg2oZXI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/sKU9Pg2oZXI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "wW8FnNghyvI",
       "title": "1000 People Build 10 Countries!",
       "channel": "MrBeast Gaming",
@@ -1590,6 +1567,29 @@
       }
     },
     {
+      "id": "xN8ENrfE-TY",
+      "title": "If You Build a House, I&#39;ll Pay For It!",
+      "channel": "MrBeast Gaming",
+      "publishedAt": "2021-01-02T19:07:38Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "ANpP2PebOW0",
       "title": "PIKMIN Short Movies - Treasure in a Bottle - Nintendo",
       "channel": "Nintendo of America",
@@ -1607,29 +1607,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/ANpP2PebOW0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "hpuKJzzWq1U",
-      "title": "【「名探偵コナン」×モンスト】京極真 登場！ペディオ以来2体目となる貴重な「コーナーボム」を所持！SSターン短縮で早めに使用可能なオリジナルSSにも注目！【新キャラ使ってみた｜モンスト公式】",
-      "channel": "モンスト（モンスターストライク）公式",
-      "publishedAt": "2025-05-08T09:01:03Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/hpuKJzzWq1U/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/hpuKJzzWq1U/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/hpuKJzzWq1U/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1659,29 +1636,6 @@
       }
     },
     {
-      "id": "xN8ENrfE-TY",
-      "title": "If You Build a House, I&#39;ll Pay For It!",
-      "channel": "MrBeast Gaming",
-      "publishedAt": "2021-01-02T19:07:38Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "HIozno3IfWE",
       "title": "Dante Does This Forever...",
       "channel": "ZERO",
@@ -1705,69 +1659,23 @@
       }
     },
     {
-      "id": "jJ8bPDWJnHE",
-      "title": "The Oldest Graphics Cards I Own 💀",
-      "channel": "Zach's Tech Turf",
-      "publishedAt": "2025-05-07T18:37:40Z",
+      "id": "RBOFErTk67w",
+      "title": "Is Covid cool now?",
+      "channel": "Smosh Games",
+      "publishedAt": "2025-05-08T00:00:22Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/jJ8bPDWJnHE/default.jpg",
+          "url": "https://i.ytimg.com/vi/RBOFErTk67w/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/jJ8bPDWJnHE/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/RBOFErTk67w/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/jJ8bPDWJnHE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "KztwRPc-y5U",
-      "title": "Helldivers 2 - Masters of Ceremony Warbond | PS5 and PC Games",
-      "channel": "PlayStation",
-      "publishedAt": "2025-05-08T13:00:46Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/KztwRPc-y5U/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/KztwRPc-y5U/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/KztwRPc-y5U/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "QaMGw5mTggs",
-      "title": "Why Vergil Dies Instantly...",
-      "channel": "ZERO",
-      "publishedAt": "2025-05-08T04:57:29Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/QaMGw5mTggs/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/QaMGw5mTggs/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/QaMGw5mTggs/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/RBOFErTk67w/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1866,29 +1774,6 @@
       }
     },
     {
-      "id": "mulKmC101eM",
-      "title": "Dembele Cooked Rice 🍚 #fcmobile #fc25 #fcmobile25",
-      "channel": "RkReddy",
-      "publishedAt": "2025-05-08T08:14:55Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/mulKmC101eM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/mulKmC101eM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/mulKmC101eM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "n3lN1TWHyJ8",
       "title": "【モンスト】黎絶デティアカルのガチパ更新！『名探偵コナンコラボ』2弾キャラ実装後の評価",
       "channel": "やまにぃ",
@@ -1975,6 +1860,121 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/t5wJksT8Gzw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "8_c-UKWk1uo",
+      "title": "Trying To Afford Nintendo Switch 2!",
+      "channel": "EmSwizzle",
+      "publishedAt": "2025-05-07T19:00:16Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8_c-UKWk1uo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8_c-UKWk1uo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8_c-UKWk1uo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "rt5IIo_H2f4",
+      "title": "退団して涙が出た日ハム助っ人外国人14選(直近)",
+      "channel": "サトユー【日ハム純正】",
+      "publishedAt": "2025-05-08T10:13:47Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rt5IIo_H2f4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rt5IIo_H2f4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rt5IIo_H2f4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "qZwymxeDlRY",
+      "title": "【公式】「ポケモンたちとの甘い冬」最終話「甘い飴は冬の味」",
+      "channel": "ポケモン公式YouTubeチャンネル",
+      "publishedAt": "2022-02-22T02:45:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qZwymxeDlRY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qZwymxeDlRY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qZwymxeDlRY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "DxX3-ZX5P1k",
+      "title": "The Complete Red Dead Redemption Timeline! | The Leaderboard",
+      "channel": "The Leaderboard",
+      "publishedAt": "2018-11-25T15:00:00Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DxX3-ZX5P1k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DxX3-ZX5P1k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DxX3-ZX5P1k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "kDYWlY7qWAM",
+      "title": "勝手に牛を手術して新しい動物に大改造してみた！🐮【マイクラ/まいくら】【マイクラリレー2021】【ゲーム実況】",
+      "channel": "ちろぴの",
+      "publishedAt": "2021-12-28T07:45:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kDYWlY7qWAM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kDYWlY7qWAM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kDYWlY7qWAM/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
