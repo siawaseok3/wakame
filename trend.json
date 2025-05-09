@@ -1,5 +1,5 @@
 {
-  "updated": "2025-05-09T00:38:35.105Z",
+  "updated": "2025-05-09T01:38:35.213Z",
   "trending": [
     {
       "id": "nDFR_gROx6I",
@@ -35,39 +35,6 @@
       }
     },
     {
-      "id": "T0ffTWSo6I8",
-      "title": "【大谷翔平出場】【ドジャース】ドジャース対マーリンズ 5/8 【ラジオ調実況】",
-      "channel": "ハムショーのメジャー実況ch",
-      "publishedAt": "2025-05-07T23:43:53Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/T0ffTWSo6I8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/T0ffTWSo6I8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/T0ffTWSo6I8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/T0ffTWSo6I8/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/T0ffTWSo6I8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "B7rQUbpKk9w",
       "title": "なにも見ずにライチュウ描けるやつマジで0人説【ライチュウ凸】",
       "channel": "月ノ美兎",
@@ -95,6 +62,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/B7rQUbpKk9w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "T0ffTWSo6I8",
+      "title": "【大谷翔平出場】【ドジャース】ドジャース対マーリンズ 5/8 【ラジオ調実況】",
+      "channel": "ハムショーのメジャー実況ch",
+      "publishedAt": "2025-05-07T23:43:53Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/T0ffTWSo6I8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/T0ffTWSo6I8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/T0ffTWSo6I8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/T0ffTWSo6I8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/T0ffTWSo6I8/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -596,39 +596,6 @@
       }
     },
     {
-      "id": "DIcqorvQnEY",
-      "title": "【マリオカート8DX】第7回マリオカートにじさんじ杯 本戦【#マリカにじさんじ杯】",
-      "channel": "にじさんじ",
-      "publishedAt": "2025-05-05T12:39:04Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/DIcqorvQnEY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/DIcqorvQnEY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/DIcqorvQnEY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/DIcqorvQnEY/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/DIcqorvQnEY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "_c5fqb9aDas",
       "title": "【Mrs. GREEN APPLE 10 YEARS SPECIAL】天国 │NHK",
       "channel": "NHK MUSIC",
@@ -656,6 +623,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/_c5fqb9aDas/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "DIcqorvQnEY",
+      "title": "【マリオカート8DX】第7回マリオカートにじさんじ杯 本戦【#マリカにじさんじ杯】",
+      "channel": "にじさんじ",
+      "publishedAt": "2025-05-05T12:39:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DIcqorvQnEY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DIcqorvQnEY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DIcqorvQnEY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DIcqorvQnEY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DIcqorvQnEY/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -728,39 +728,6 @@
       }
     },
     {
-      "id": "lMBje0K98YY",
-      "title": "【間違えた】１チームメダル10万枚使い切るまで帰れない対決が普通にやばすぎて終了。",
-      "channel": "東海オンエア",
-      "publishedAt": "2025-05-06T12:00:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/lMBje0K98YY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/lMBje0K98YY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/lMBje0K98YY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/lMBje0K98YY/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/lMBje0K98YY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "gP2UIp79eqg",
       "title": "【5/6ハイライト】㊗️中川プロ初ヒット&森下が3試合連発！",
       "channel": "ytv阪神応援チャンネル「トラトラタイガース」",
@@ -788,6 +755,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/gP2UIp79eqg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "lMBje0K98YY",
+      "title": "【間違えた】１チームメダル10万枚使い切るまで帰れない対決が普通にやばすぎて終了。",
+      "channel": "東海オンエア",
+      "publishedAt": "2025-05-06T12:00:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lMBje0K98YY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lMBje0K98YY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lMBje0K98YY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lMBje0K98YY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lMBje0K98YY/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -921,29 +921,6 @@
       }
     },
     {
-      "id": "Ff7kdaIQvQM",
-      "title": "Mrs. GREEN APPLE - lovin&#39;",
-      "channel": "Mrs. GREEN APPLE",
-      "publishedAt": "2019-08-24T03:00:01Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Ff7kdaIQvQM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Ff7kdaIQvQM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Ff7kdaIQvQM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "d6i4AtCxrDo",
       "title": "Hump Back - 「拝啓、少年よ」Music Video",
       "channel": "Hump Back Official",
@@ -967,23 +944,23 @@
       }
     },
     {
-      "id": "fMIn43MiwG8",
-      "title": "TWICE 「Celebrate」 Music Video",
-      "channel": "TWICE JAPAN OFFICIAL YouTube Channel",
-      "publishedAt": "2022-07-14T15:00:32Z",
+      "id": "Ff7kdaIQvQM",
+      "title": "Mrs. GREEN APPLE - lovin&#39;",
+      "channel": "Mrs. GREEN APPLE",
+      "publishedAt": "2019-08-24T03:00:01Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/default.jpg",
+          "url": "https://i.ytimg.com/vi/Ff7kdaIQvQM/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Ff7kdaIQvQM/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Ff7kdaIQvQM/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1030,6 +1007,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/cyq5-StPISU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "fMIn43MiwG8",
+      "title": "TWICE 「Celebrate」 Music Video",
+      "channel": "TWICE JAPAN OFFICIAL YouTube Channel",
+      "publishedAt": "2022-07-14T15:00:32Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1381,23 +1381,23 @@
       }
     },
     {
-      "id": "DuMqFknYHBs",
-      "title": "Official髭男dism - イエスタデイ［Official Video］",
+      "id": "O1bhZgkC4Gw",
+      "title": "Official髭男dism - Cry Baby［Official Video］",
       "channel": "Official髭男dism",
-      "publishedAt": "2019-09-20T12:00:05Z",
+      "publishedAt": "2021-05-06T15:00:16Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/DuMqFknYHBs/default.jpg",
+          "url": "https://i.ytimg.com/vi/O1bhZgkC4Gw/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/DuMqFknYHBs/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/O1bhZgkC4Gw/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/DuMqFknYHBs/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/O1bhZgkC4Gw/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1475,23 +1475,23 @@
       }
     },
     {
-      "id": "g2PwNsc601g",
-      "title": "FINAL FANTASY XIV: Starter Guide Series - Episode 4: Do Your Duty",
-      "channel": "FINAL FANTASY XIV",
-      "publishedAt": "2022-08-08T12:59:16Z",
+      "id": "NwwUduQG_tc",
+      "title": "Dante&#39;s Hat Cost How Much Money?",
+      "channel": "ZERO",
+      "publishedAt": "2025-05-08T06:17:28Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/g2PwNsc601g/default.jpg",
+          "url": "https://i.ytimg.com/vi/NwwUduQG_tc/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/g2PwNsc601g/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/NwwUduQG_tc/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/g2PwNsc601g/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/NwwUduQG_tc/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1515,6 +1515,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/VQY_m3wCBCE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "g2PwNsc601g",
+      "title": "FINAL FANTASY XIV: Starter Guide Series - Episode 4: Do Your Duty",
+      "channel": "FINAL FANTASY XIV",
+      "publishedAt": "2022-08-08T12:59:16Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g2PwNsc601g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g2PwNsc601g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g2PwNsc601g/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1567,29 +1590,6 @@
       }
     },
     {
-      "id": "xN8ENrfE-TY",
-      "title": "If You Build a House, I&#39;ll Pay For It!",
-      "channel": "MrBeast Gaming",
-      "publishedAt": "2021-01-02T19:07:38Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "ANpP2PebOW0",
       "title": "PIKMIN Short Movies - Treasure in a Bottle - Nintendo",
       "channel": "Nintendo of America",
@@ -1607,6 +1607,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/ANpP2PebOW0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "xN8ENrfE-TY",
+      "title": "If You Build a House, I&#39;ll Pay For It!",
+      "channel": "MrBeast Gaming",
+      "publishedAt": "2021-01-02T19:07:38Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1636,23 +1659,23 @@
       }
     },
     {
-      "id": "HIozno3IfWE",
-      "title": "Dante Does This Forever...",
-      "channel": "ZERO",
-      "publishedAt": "2025-05-08T05:29:59Z",
+      "id": "jJ8bPDWJnHE",
+      "title": "The Oldest Graphics Cards I Own 💀",
+      "channel": "Zach's Tech Turf",
+      "publishedAt": "2025-05-07T18:37:40Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/HIozno3IfWE/default.jpg",
+          "url": "https://i.ytimg.com/vi/jJ8bPDWJnHE/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/HIozno3IfWE/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jJ8bPDWJnHE/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/HIozno3IfWE/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jJ8bPDWJnHE/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1682,6 +1705,29 @@
       }
     },
     {
+      "id": "QaMGw5mTggs",
+      "title": "Why Vergil Dies Instantly...",
+      "channel": "ZERO",
+      "publishedAt": "2025-05-08T04:57:29Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QaMGw5mTggs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QaMGw5mTggs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QaMGw5mTggs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "KpEHo9j2LNg",
       "title": "『eBASEBALLパワフルプロ野球2022』オープニングムービー",
       "channel": "パワプロ・プロスピ公式チャンネル",
@@ -1699,6 +1745,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/KpEHo9j2LNg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "PyrKwEYiYXU",
+      "title": "I Reunited With My Dad In Genshin Impact",
+      "channel": "Doro44",
+      "publishedAt": "2025-05-07T22:59:22Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PyrKwEYiYXU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PyrKwEYiYXU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PyrKwEYiYXU/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1728,29 +1797,6 @@
       }
     },
     {
-      "id": "Kff3p-spt28",
-      "title": "振付師がうっちゃい(ゆーり)/踊ってみた【轟はじめ】#vtuber #dance",
-      "channel": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-      "publishedAt": "2025-05-08T08:00:32Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Kff3p-spt28/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Kff3p-spt28/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Kff3p-spt28/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "Wzk_KJQh-FA",
       "title": "I spent 4 days playing Death Stranding 2... (Spoiler-Free Hands-On Impressions)",
       "channel": "Skill Up",
@@ -1774,23 +1820,23 @@
       }
     },
     {
-      "id": "n3lN1TWHyJ8",
-      "title": "【モンスト】黎絶デティアカルのガチパ更新！『名探偵コナンコラボ』2弾キャラ実装後の評価",
-      "channel": "やまにぃ",
-      "publishedAt": "2025-05-05T08:30:34Z",
+      "id": "5O84BAbkfTE",
+      "title": "Steve&#39;s Saddest Day (A Minecraft Movie meme Animation) #shorts #cartoon",
+      "channel": "toonz CRAFT",
+      "publishedAt": "2025-05-07T12:00:14Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/n3lN1TWHyJ8/default.jpg",
+          "url": "https://i.ytimg.com/vi/5O84BAbkfTE/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/n3lN1TWHyJ8/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/5O84BAbkfTE/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/n3lN1TWHyJ8/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/5O84BAbkfTE/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1820,6 +1866,29 @@
       }
     },
     {
+      "id": "tBNPmyFiBEA",
+      "title": "Fortnite Pro’s Strangest Strategy: The Storm Meta",
+      "channel": "Reisshub",
+      "publishedAt": "2025-05-08T13:26:35Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tBNPmyFiBEA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tBNPmyFiBEA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tBNPmyFiBEA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "yGaHC0MvgHk",
       "title": "13 Tiny Details &amp; Easter Eggs I Missed in GTA 6 Trailer 2",
       "channel": "TGG",
@@ -1837,29 +1906,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/yGaHC0MvgHk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "t5wJksT8Gzw",
-      "title": "What actually happened in India",
-      "channel": "Asmongold TV  ",
-      "publishedAt": "2025-05-08T03:30:37Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/t5wJksT8Gzw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/t5wJksT8Gzw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/t5wJksT8Gzw/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1889,29 +1935,6 @@
       }
     },
     {
-      "id": "rt5IIo_H2f4",
-      "title": "退団して涙が出た日ハム助っ人外国人14選(直近)",
-      "channel": "サトユー【日ハム純正】",
-      "publishedAt": "2025-05-08T10:13:47Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/rt5IIo_H2f4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/rt5IIo_H2f4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/rt5IIo_H2f4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "qZwymxeDlRY",
       "title": "【公式】「ポケモンたちとの甘い冬」最終話「甘い飴は冬の味」",
       "channel": "ポケモン公式YouTubeチャンネル",
@@ -1935,46 +1958,23 @@
       }
     },
     {
-      "id": "DxX3-ZX5P1k",
-      "title": "The Complete Red Dead Redemption Timeline! | The Leaderboard",
-      "channel": "The Leaderboard",
-      "publishedAt": "2018-11-25T15:00:00Z",
+      "id": "oeG5g3fOrCc",
+      "title": "Another secret Star Wars easter egg in Fortnite",
+      "channel": "Nick Eh 30 Shorts",
+      "publishedAt": "2025-05-07T13:38:09Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/DxX3-ZX5P1k/default.jpg",
+          "url": "https://i.ytimg.com/vi/oeG5g3fOrCc/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/DxX3-ZX5P1k/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/oeG5g3fOrCc/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/DxX3-ZX5P1k/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "kDYWlY7qWAM",
-      "title": "勝手に牛を手術して新しい動物に大改造してみた！🐮【マイクラ/まいくら】【マイクラリレー2021】【ゲーム実況】",
-      "channel": "ちろぴの",
-      "publishedAt": "2021-12-28T07:45:13Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/kDYWlY7qWAM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/kDYWlY7qWAM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/kDYWlY7qWAM/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/oeG5g3fOrCc/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
