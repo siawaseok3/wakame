@@ -1,5 +1,5 @@
 {
-  "updated": "2025-05-09T22:38:35.402Z",
+  "updated": "2025-05-09T23:38:35.197Z",
   "trending": [
     {
       "id": "y21vu-M30gg",
@@ -1174,6 +1174,29 @@
       }
     },
     {
+      "id": "3ymwOvzhwHs",
+      "title": "TWICE &quot;Feel Special&quot; M/V",
+      "channel": "JYP Entertainment",
+      "publishedAt": "2019-09-23T09:00:11Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3ymwOvzhwHs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3ymwOvzhwHs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3ymwOvzhwHs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "jYSlpC6Ud2A",
       "title": "Stray Kids &quot;CASE 143&quot; M/V",
       "channel": "JYP Entertainment",
@@ -1260,6 +1283,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/UM9XNpgrqVk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "hP6VM6YAMIE",
+      "title": "ビッケブランカ - Black Catcher / Vicke Blanka - Black Catcher",
+      "channel": "VK Blanka - ビッケブランカ",
+      "publishedAt": "2020-01-08T09:00:16Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hP6VM6YAMIE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hP6VM6YAMIE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hP6VM6YAMIE/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1356,55 +1402,32 @@
           "height": 360
         }
       }
-    },
-    {
-      "id": "ptnYBctoexk",
-      "title": "米津玄師  - 馬と鹿   Kenshi Yonezu - Uma to Shika",
-      "channel": "Kenshi Yonezu  米津玄師",
-      "publishedAt": "2019-09-02T23:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ptnYBctoexk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ptnYBctoexk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ptnYBctoexk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "DuMqFknYHBs",
-      "title": "Official髭男dism - イエスタデイ［Official Video］",
-      "channel": "Official髭男dism",
-      "publishedAt": "2019-09-20T12:00:05Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/DuMqFknYHBs/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/DuMqFknYHBs/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/DuMqFknYHBs/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
     }
   ],
   "gaming": [
+    {
+      "id": "oXfmedyg-ec",
+      "title": "Hoy Peta Peta y Evento De Roblox",
+      "channel": "Omenasito",
+      "publishedAt": "2025-05-09T23:21:57Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oXfmedyg-ec/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oXfmedyg-ec/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oXfmedyg-ec/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
     {
       "id": "qb5Ya1sRRKY",
       "title": "Dominating with the WORST HAND 😎 #Shorts",
@@ -1452,29 +1475,6 @@
       }
     },
     {
-      "id": "wpnb9mJ83SU",
-      "title": "Treasure in a Bottle – Pikmin Short Movie",
-      "channel": "Nintendo UK",
-      "publishedAt": "2020-10-08T08:00:14Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/wpnb9mJ83SU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/wpnb9mJ83SU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/wpnb9mJ83SU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "r6zIGXun57U",
       "title": "Legends Never Die (ft. Against The Current) | Worlds 2017 - League of Legends",
       "channel": "League of Legends",
@@ -1492,6 +1492,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/r6zIGXun57U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "wpnb9mJ83SU",
+      "title": "Treasure in a Bottle – Pikmin Short Movie",
+      "channel": "Nintendo UK",
+      "publishedAt": "2020-10-08T08:00:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wpnb9mJ83SU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wpnb9mJ83SU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wpnb9mJ83SU/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1590,6 +1613,29 @@
       }
     },
     {
+      "id": "wW8FnNghyvI",
+      "title": "1000 People Build 10 Countries!",
+      "channel": "MrBeast Gaming",
+      "publishedAt": "2021-04-15T19:07:15Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wW8FnNghyvI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wW8FnNghyvI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wW8FnNghyvI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "ANpP2PebOW0",
       "title": "PIKMIN Short Movies - Treasure in a Bottle - Nintendo",
       "channel": "Nintendo of America",
@@ -1636,46 +1682,46 @@
       }
     },
     {
-      "id": "sKU9Pg2oZXI",
-      "title": "万波中正 起死回生の同点ソロホームラン#shorts  #野球 #プロ野球 #万波中正",
-      "channel": "きなお",
-      "publishedAt": "2025-05-05T09:01:15Z",
+      "id": "KTmJDf6CuZs",
+      "title": "Mafia: The Old Country - “Whatever it Takes” Gameplay Trailer | PS5 Games",
+      "channel": "PlayStation",
+      "publishedAt": "2025-05-08T15:15:02Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/sKU9Pg2oZXI/default.jpg",
+          "url": "https://i.ytimg.com/vi/KTmJDf6CuZs/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/sKU9Pg2oZXI/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/KTmJDf6CuZs/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/sKU9Pg2oZXI/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/KTmJDf6CuZs/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       }
     },
     {
-      "id": "wW8FnNghyvI",
-      "title": "1000 People Build 10 Countries!",
+      "id": "xN8ENrfE-TY",
+      "title": "If You Build a House, I&#39;ll Pay For It!",
       "channel": "MrBeast Gaming",
-      "publishedAt": "2021-04-15T19:07:15Z",
+      "publishedAt": "2021-01-02T19:07:38Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/wW8FnNghyvI/default.jpg",
+          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/wW8FnNghyvI/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/wW8FnNghyvI/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1728,29 +1774,6 @@
       }
     },
     {
-      "id": "xN8ENrfE-TY",
-      "title": "If You Build a House, I&#39;ll Pay For It!",
-      "channel": "MrBeast Gaming",
-      "publishedAt": "2021-01-02T19:07:38Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "WasqZHYV-n0",
       "title": "『OCTOPATH TRAVELER II / オクトパストラベラーII』60秒 実写Web CM",
       "channel": "スクウェア・エニックス",
@@ -1797,23 +1820,23 @@
       }
     },
     {
-      "id": "8IXmnCJ29bo",
-      "title": "Never Pull For 4* In Genshin...",
-      "channel": "BranOnline",
-      "publishedAt": "2025-05-08T10:30:51Z",
+      "id": "e-sDP9MsTQM",
+      "title": "NEVER Buy this For Dante...",
+      "channel": "ZERO",
+      "publishedAt": "2025-05-08T23:50:06Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/8IXmnCJ29bo/default.jpg",
+          "url": "https://i.ytimg.com/vi/e-sDP9MsTQM/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/8IXmnCJ29bo/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/e-sDP9MsTQM/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/8IXmnCJ29bo/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/e-sDP9MsTQM/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1837,6 +1860,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/BtPVxkHoYTA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "pbjuNPXa38g",
+      "title": "7 Hidden Effects in the Naruto Map",
+      "channel": "Elgin",
+      "publishedAt": "2025-05-09T08:32:20Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pbjuNPXa38g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pbjuNPXa38g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pbjuNPXa38g/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1929,52 +1975,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/yWbFXxzHxk8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "aU1giydNzzE",
-      "title": "GTA 6 Graphics: How Rockstar Set a New Photorealism Standard | IGN x Digital Foundry",
-      "channel": "IGN",
-      "publishedAt": "2025-05-09T13:15:00Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/aU1giydNzzE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/aU1giydNzzE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/aU1giydNzzE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "9gLLLeHdfNA",
-      "title": "It&#39;s like the game industry wants to fail",
-      "channel": "Legendary Drops",
-      "publishedAt": "2025-05-09T14:00:24Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/9gLLLeHdfNA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/9gLLLeHdfNA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/9gLLLeHdfNA/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
