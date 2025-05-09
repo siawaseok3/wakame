@@ -1,5 +1,5 @@
 {
-  "updated": "2025-05-09T14:38:35.223Z",
+  "updated": "2025-05-09T15:38:35.404Z",
   "trending": [
     {
       "id": "y21vu-M30gg",
@@ -497,39 +497,6 @@
       }
     },
     {
-      "id": "ZZQ7zCLt-oM",
-      "title": "【チリモンバトル】ちりめんじゃこから激レア生物を見つけ出せ！",
-      "channel": "ROF-MAO / ろふまおチャンネル【にじさんじ】",
-      "publishedAt": "2025-05-08T13:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ZZQ7zCLt-oM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ZZQ7zCLt-oM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ZZQ7zCLt-oM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ZZQ7zCLt-oM/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ZZQ7zCLt-oM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "pesbT6KgN8c",
       "title": "RIP SLYME - 「JAPAN JAM 2025」Behind the Scenes",
       "channel": "RIP SLYME",
@@ -590,6 +557,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/ntlfVW-1wl8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "ZZQ7zCLt-oM",
+      "title": "【チリモンバトル】ちりめんじゃこから激レア生物を見つけ出せ！",
+      "channel": "ROF-MAO / ろふまおチャンネル【にじさんじ】",
+      "publishedAt": "2025-05-08T13:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZZQ7zCLt-oM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZZQ7zCLt-oM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZZQ7zCLt-oM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZZQ7zCLt-oM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZZQ7zCLt-oM/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -852,23 +852,23 @@
       }
     },
     {
-      "id": "sLmLwgxnPUE",
-      "title": "TWICE 「BETTER」 Music Video",
-      "channel": "TWICE JAPAN OFFICIAL YouTube Channel",
-      "publishedAt": "2020-11-10T15:00:23Z",
+      "id": "VTCQBuYhq_s",
+      "title": "Westlife - The Rose (Official Video)",
+      "channel": "westlifeVEVO",
+      "publishedAt": "2009-10-03T19:51:58Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/sLmLwgxnPUE/default.jpg",
+          "url": "https://i.ytimg.com/vi/VTCQBuYhq_s/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/sLmLwgxnPUE/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/VTCQBuYhq_s/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/sLmLwgxnPUE/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/VTCQBuYhq_s/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -898,6 +898,29 @@
       }
     },
     {
+      "id": "sLmLwgxnPUE",
+      "title": "TWICE 「BETTER」 Music Video",
+      "channel": "TWICE JAPAN OFFICIAL YouTube Channel",
+      "publishedAt": "2020-11-10T15:00:23Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sLmLwgxnPUE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sLmLwgxnPUE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sLmLwgxnPUE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "d6i4AtCxrDo",
       "title": "Hump Back - 「拝啓、少年よ」Music Video",
       "channel": "Hump Back Official",
@@ -915,29 +938,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/d6i4AtCxrDo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "wfCcs0vLysk",
-      "title": "Mrs. GREEN APPLE - インフェルノ（Inferno）",
-      "channel": "Mrs. GREEN APPLE",
-      "publishedAt": "2019-08-02T09:00:10Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/wfCcs0vLysk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/wfCcs0vLysk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/wfCcs0vLysk/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -967,23 +967,69 @@
       }
     },
     {
-      "id": "VTCQBuYhq_s",
-      "title": "Westlife - The Rose (Official Video)",
-      "channel": "westlifeVEVO",
-      "publishedAt": "2009-10-03T19:51:58Z",
+      "id": "wfCcs0vLysk",
+      "title": "Mrs. GREEN APPLE - インフェルノ（Inferno）",
+      "channel": "Mrs. GREEN APPLE",
+      "publishedAt": "2019-08-02T09:00:10Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/VTCQBuYhq_s/default.jpg",
+          "url": "https://i.ytimg.com/vi/wfCcs0vLysk/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/VTCQBuYhq_s/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wfCcs0vLysk/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/VTCQBuYhq_s/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wfCcs0vLysk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "cyq5-StPISU",
+      "title": "【Ado】阿修羅ちゃん",
+      "channel": "Ado",
+      "publishedAt": "2021-10-28T11:30:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cyq5-StPISU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cyq5-StPISU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cyq5-StPISU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "fMIn43MiwG8",
+      "title": "TWICE 「Celebrate」 Music Video",
+      "channel": "TWICE JAPAN OFFICIAL YouTube Channel",
+      "publishedAt": "2022-07-14T15:00:32Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1053,29 +1099,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/EHw005ZqCXk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "fMIn43MiwG8",
-      "title": "TWICE 「Celebrate」 Music Video",
-      "channel": "TWICE JAPAN OFFICIAL YouTube Channel",
-      "publishedAt": "2022-07-14T15:00:32Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1243,6 +1266,29 @@
       }
     },
     {
+      "id": "9j6_KM-uzfY",
+      "title": "TWICE &quot;The Feels&quot; Choreography Video (Moving Ver.)",
+      "channel": "TWICE",
+      "publishedAt": "2021-10-03T12:59:54Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9j6_KM-uzfY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9j6_KM-uzfY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9j6_KM-uzfY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "IGInsosP0Ac",
       "title": "ONE OK ROCK: Stand Out Fit In [OFFICIAL VIDEO]",
       "channel": "ONE OK ROCK",
@@ -1352,52 +1398,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/Q5JytNgQzqk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "E7YAf0O02Ms",
-      "title": "Mrs. GREEN APPLE「ニュー・マイ・ノーマル」Official Music Video",
-      "channel": "Mrs. GREEN APPLE",
-      "publishedAt": "2022-03-18T11:58:00Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/E7YAf0O02Ms/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/E7YAf0O02Ms/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/E7YAf0O02Ms/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "TcLLpZBWsck",
-      "title": "Fujii Kaze - Kirari (Official Video)",
-      "channel": "Fujii Kaze",
-      "publishedAt": "2021-05-21T13:00:11Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/TcLLpZBWsck/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/TcLLpZBWsck/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/TcLLpZBWsck/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1820,29 +1820,6 @@
       }
     },
     {
-      "id": "Fz7r08HT7z8",
-      "title": "ぷちセカ#03「アイドルの才能」",
-      "channel": "プロジェクトセカイ カラフルステージ! feat. 初音ミク",
-      "publishedAt": "2022-01-27T10:00:13Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Fz7r08HT7z8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Fz7r08HT7z8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Fz7r08HT7z8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "5UKjefYHdgI",
       "title": "31 Ways to Keep Your House Safe in Minecraft",
       "channel": "Skip the Tutorial",
@@ -1958,23 +1935,46 @@
       }
     },
     {
-      "id": "kDYWlY7qWAM",
-      "title": "勝手に牛を手術して新しい動物に大改造してみた！🐮【マイクラ/まいくら】【マイクラリレー2021】【ゲーム実況】",
-      "channel": "ちろぴの",
-      "publishedAt": "2021-12-28T07:45:13Z",
+      "id": "jSSKOziX_v0",
+      "title": "初心者がまず覚えたいマイクラの小技・テク11選【マインクラフト】　統合版 Java PS4 switch スウィッチ",
+      "channel": "たにしらいす",
+      "publishedAt": "2022-06-10T10:54:41Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/kDYWlY7qWAM/default.jpg",
+          "url": "https://i.ytimg.com/vi/jSSKOziX_v0/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/kDYWlY7qWAM/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jSSKOziX_v0/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/kDYWlY7qWAM/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jSSKOziX_v0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "YA74GTxZzPY",
+      "title": "Epic GT Sport final lap battle in Sydney",
+      "channel": "GRAN TURISMO TV",
+      "publishedAt": "2020-03-03T15:30:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YA74GTxZzPY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YA74GTxZzPY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YA74GTxZzPY/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
