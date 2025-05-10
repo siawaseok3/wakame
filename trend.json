@@ -1,5 +1,5 @@
 {
-  "updated": "2025-05-10T02:38:35.320Z",
+  "updated": "2025-05-10T03:38:35.150Z",
   "trending": [
     {
       "id": "y21vu-M30gg",
@@ -563,39 +563,6 @@
       }
     },
     {
-      "id": "ntlfVW-1wl8",
-      "title": "RIZIN試合前日ヒロヤが5.7kgの壮絶な水抜き。",
-      "channel": "近藤大耶　ヒロヤ",
-      "publishedAt": "2025-05-07T11:10:54Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ntlfVW-1wl8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ntlfVW-1wl8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ntlfVW-1wl8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ntlfVW-1wl8/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ntlfVW-1wl8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "lnMhWpMxNUg",
       "title": "プロの斬新な料理の盛り付けを再現しろ！！！",
       "channel": "東海オンエア",
@@ -623,6 +590,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/lnMhWpMxNUg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "ntlfVW-1wl8",
+      "title": "RIZIN試合前日ヒロヤが5.7kgの壮絶な水抜き。",
+      "channel": "近藤大耶　ヒロヤ",
+      "publishedAt": "2025-05-07T11:10:54Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ntlfVW-1wl8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ntlfVW-1wl8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ntlfVW-1wl8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ntlfVW-1wl8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ntlfVW-1wl8/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -875,52 +875,6 @@
       }
     },
     {
-      "id": "Ff7kdaIQvQM",
-      "title": "Mrs. GREEN APPLE - lovin&#39;",
-      "channel": "Mrs. GREEN APPLE",
-      "publishedAt": "2019-08-24T03:00:01Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Ff7kdaIQvQM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Ff7kdaIQvQM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Ff7kdaIQvQM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "aBtZWIxcGFE",
-      "title": "SixTONES - Gum Tape [PLAYLIST -SixTONES YouTube Limited Performance- Day.5]",
-      "channel": "SixTONES",
-      "publishedAt": "2022-03-04T13:00:32Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/aBtZWIxcGFE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/aBtZWIxcGFE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/aBtZWIxcGFE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "sLmLwgxnPUE",
       "title": "TWICE 「BETTER」 Music Video",
       "channel": "TWICE JAPAN OFFICIAL YouTube Channel",
@@ -944,23 +898,23 @@
       }
     },
     {
-      "id": "fMIn43MiwG8",
-      "title": "TWICE 「Celebrate」 Music Video",
-      "channel": "TWICE JAPAN OFFICIAL YouTube Channel",
-      "publishedAt": "2022-07-14T15:00:32Z",
+      "id": "Ff7kdaIQvQM",
+      "title": "Mrs. GREEN APPLE - lovin&#39;",
+      "channel": "Mrs. GREEN APPLE",
+      "publishedAt": "2019-08-24T03:00:01Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/default.jpg",
+          "url": "https://i.ytimg.com/vi/Ff7kdaIQvQM/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Ff7kdaIQvQM/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Ff7kdaIQvQM/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1007,6 +961,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/wfCcs0vLysk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "fMIn43MiwG8",
+      "title": "TWICE 「Celebrate」 Music Video",
+      "channel": "TWICE JAPAN OFFICIAL YouTube Channel",
+      "publishedAt": "2022-07-14T15:00:32Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fMIn43MiwG8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1168,29 +1145,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/rSD7jb4Xjq8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "3ymwOvzhwHs",
-      "title": "TWICE &quot;Feel Special&quot; M/V",
-      "channel": "JYP Entertainment",
-      "publishedAt": "2019-09-23T09:00:11Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/3ymwOvzhwHs/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/3ymwOvzhwHs/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/3ymwOvzhwHs/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1402,6 +1356,52 @@
           "height": 360
         }
       }
+    },
+    {
+      "id": "ptnYBctoexk",
+      "title": "米津玄師  - 馬と鹿   Kenshi Yonezu - Uma to Shika",
+      "channel": "Kenshi Yonezu  米津玄師",
+      "publishedAt": "2019-09-02T23:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ptnYBctoexk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ptnYBctoexk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ptnYBctoexk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "O1bhZgkC4Gw",
+      "title": "Official髭男dism - Cry Baby［Official Video］",
+      "channel": "Official髭男dism",
+      "publishedAt": "2021-05-06T15:00:16Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/O1bhZgkC4Gw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/O1bhZgkC4Gw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/O1bhZgkC4Gw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
     }
   ],
   "gaming": [
@@ -1452,29 +1452,6 @@
       }
     },
     {
-      "id": "wpnb9mJ83SU",
-      "title": "Treasure in a Bottle – Pikmin Short Movie",
-      "channel": "Nintendo UK",
-      "publishedAt": "2020-10-08T08:00:14Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/wpnb9mJ83SU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/wpnb9mJ83SU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/wpnb9mJ83SU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "r6zIGXun57U",
       "title": "Legends Never Die (ft. Against The Current) | Worlds 2017 - League of Legends",
       "channel": "League of Legends",
@@ -1492,6 +1469,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/r6zIGXun57U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "wpnb9mJ83SU",
+      "title": "Treasure in a Bottle – Pikmin Short Movie",
+      "channel": "Nintendo UK",
+      "publishedAt": "2020-10-08T08:00:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wpnb9mJ83SU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wpnb9mJ83SU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wpnb9mJ83SU/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1521,6 +1521,29 @@
       }
     },
     {
+      "id": "g2PwNsc601g",
+      "title": "FINAL FANTASY XIV: Starter Guide Series - Episode 4: Do Your Duty",
+      "channel": "FINAL FANTASY XIV",
+      "publishedAt": "2022-08-08T12:59:16Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g2PwNsc601g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g2PwNsc601g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g2PwNsc601g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "VQY_m3wCBCE",
       "title": "1000 vs 1000 Player War!",
       "channel": "MrBeast Gaming",
@@ -1544,23 +1567,23 @@
       }
     },
     {
-      "id": "AMtLTi0koGE",
-      "title": "Mafia: The Old Country - Official Gameplay Trailer",
-      "channel": "IGN",
-      "publishedAt": "2025-05-08T15:13:22Z",
+      "id": "f5CYXoOXEmk",
+      "title": "The new recipe could save him...",
+      "channel": "Mogswamp",
+      "publishedAt": "2025-05-08T14:00:56Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/AMtLTi0koGE/default.jpg",
+          "url": "https://i.ytimg.com/vi/f5CYXoOXEmk/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/AMtLTi0koGE/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/f5CYXoOXEmk/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/AMtLTi0koGE/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/f5CYXoOXEmk/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1590,23 +1613,23 @@
       }
     },
     {
-      "id": "ANpP2PebOW0",
-      "title": "PIKMIN Short Movies - Treasure in a Bottle - Nintendo",
-      "channel": "Nintendo of America",
-      "publishedAt": "2020-10-08T14:15:01Z",
+      "id": "AMtLTi0koGE",
+      "title": "Mafia: The Old Country - Official Gameplay Trailer",
+      "channel": "IGN",
+      "publishedAt": "2025-05-08T15:13:22Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/ANpP2PebOW0/default.jpg",
+          "url": "https://i.ytimg.com/vi/AMtLTi0koGE/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/ANpP2PebOW0/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/AMtLTi0koGE/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/ANpP2PebOW0/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/AMtLTi0koGE/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1636,29 +1659,6 @@
       }
     },
     {
-      "id": "zWX62wtKofk",
-      "title": "ぷちセカ#05「25時やめない？」",
-      "channel": "プロジェクトセカイ カラフルステージ! feat. 初音ミク",
-      "publishedAt": "2022-02-10T10:00:13Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/zWX62wtKofk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/zWX62wtKofk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/zWX62wtKofk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "xN8ENrfE-TY",
       "title": "If You Build a House, I&#39;ll Pay For It!",
       "channel": "MrBeast Gaming",
@@ -1676,6 +1676,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "zWX62wtKofk",
+      "title": "ぷちセカ#05「25時やめない？」",
+      "channel": "プロジェクトセカイ カラフルステージ! feat. 初音ミク",
+      "publishedAt": "2022-02-10T10:00:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zWX62wtKofk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zWX62wtKofk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zWX62wtKofk/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1705,23 +1728,23 @@
       }
     },
     {
-      "id": "8IXmnCJ29bo",
-      "title": "Never Pull For 4* In Genshin...",
-      "channel": "BranOnline",
-      "publishedAt": "2025-05-08T10:30:51Z",
+      "id": "e8suWXD8jso",
+      "title": "Version 3.3 Trailer - &quot;The Fall at Dawn&#39;s Rise&quot; | Honkai: Star Rail",
+      "channel": "Honkai: Star Rail",
+      "publishedAt": "2025-05-09T12:01:14Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/8IXmnCJ29bo/default.jpg",
+          "url": "https://i.ytimg.com/vi/e8suWXD8jso/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/8IXmnCJ29bo/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/e8suWXD8jso/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/8IXmnCJ29bo/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/e8suWXD8jso/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1745,29 +1768,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/BtPVxkHoYTA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "pbjuNPXa38g",
-      "title": "7 Hidden Effects in the Naruto Map",
-      "channel": "Elgin",
-      "publishedAt": "2025-05-09T08:32:20Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/pbjuNPXa38g/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/pbjuNPXa38g/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/pbjuNPXa38g/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1820,6 +1820,29 @@
       }
     },
     {
+      "id": "NdqnimhVrhQ",
+      "title": "This Is What Makes Gaming Fun… #shorts #viral",
+      "channel": "mango",
+      "publishedAt": "2025-05-09T01:02:59Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NdqnimhVrhQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NdqnimhVrhQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NdqnimhVrhQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "pIWmxnPQYrQ",
       "title": "Michael&#39;s Boat Is In GTA 6?! #gta6 #gta5 #gta6trailer - DarkViperAU",
       "channel": "DarkViperAU",
@@ -1837,29 +1860,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/pIWmxnPQYrQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "yWbFXxzHxk8",
-      "title": "Hugo Character Demo - &quot;Leading Man of the Apocalypse&quot; | Zenless Zone Zero",
-      "channel": "Zenless Zone Zero",
-      "publishedAt": "2025-05-09T03:59:59Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/yWbFXxzHxk8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/yWbFXxzHxk8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/yWbFXxzHxk8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
