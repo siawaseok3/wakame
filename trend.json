@@ -1,5 +1,5 @@
 {
-  "updated": "2025-05-11T01:38:35.040Z",
+  "updated": "2025-05-11T02:38:35.212Z",
   "trending": [
     {
       "id": "OLRbIc8KZ_8",
@@ -200,6 +200,39 @@
       }
     },
     {
+      "id": "1nP45TNIIKM",
+      "title": "iPhone 16 Proで撮影 | 是枝裕和監督作品「ラストシーン」 | Apple",
+      "channel": "Apple Japan",
+      "publishedAt": "2025-05-09T02:00:44Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1nP45TNIIKM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1nP45TNIIKM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1nP45TNIIKM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1nP45TNIIKM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1nP45TNIIKM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
       "id": "3erWhiw3ckI",
       "title": "メンバー発表＆抽選会【第2回おえもりにじさんじ杯】",
       "channel": "剣持刀也",
@@ -260,39 +293,6 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/R-xKvF_Fpxo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
-      "id": "1nP45TNIIKM",
-      "title": "iPhone 16 Proで撮影 | 是枝裕和監督作品「ラストシーン」 | Apple",
-      "channel": "Apple Japan",
-      "publishedAt": "2025-05-09T02:00:44Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/1nP45TNIIKM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/1nP45TNIIKM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/1nP45TNIIKM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/1nP45TNIIKM/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/1nP45TNIIKM/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -728,39 +728,6 @@
       }
     },
     {
-      "id": "AssGg-sBXOg",
-      "title": "【まさかの】パパに妊娠報告してみた！！【第三子】",
-      "channel": "きりすけファミリー",
-      "publishedAt": "2025-05-08T12:06:03Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/AssGg-sBXOg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/AssGg-sBXOg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/AssGg-sBXOg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/AssGg-sBXOg/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/AssGg-sBXOg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "ia2Ph61bYzc",
       "title": "ROSÉ - Messy (From F1® The Movie) [Official Music Video]",
       "channel": "ROSÉ",
@@ -788,6 +755,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/ia2Ph61bYzc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "AssGg-sBXOg",
+      "title": "【まさかの】パパに妊娠報告してみた！！【第三子】",
+      "channel": "きりすけファミリー",
+      "publishedAt": "2025-05-08T12:06:03Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AssGg-sBXOg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AssGg-sBXOg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AssGg-sBXOg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AssGg-sBXOg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AssGg-sBXOg/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -828,6 +828,29 @@
     }
   ],
   "music": [
+    {
+      "id": "FLg9ezB_JV0",
+      "title": "LIVE रविवार स्पेशल:  विष्णु मंत्र - Vishnu Mantra श्रीमन नारायण हरि हरि | Shriman Narayan Hari",
+      "channel": "Taal Studio Bhakti",
+      "publishedAt": "2025-05-10T23:34:40Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FLg9ezB_JV0/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FLg9ezB_JV0/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FLg9ezB_JV0/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
     {
       "id": "pTh-ncw31ZA",
       "title": "SixTONES - Imitation Rain [YouTube Ver.]",
@@ -1076,6 +1099,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/EHw005ZqCXk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "py5U_GQj6DY",
+      "title": "ちゃんみな - 花火（THE PRINCESS PROJECT - FINAL - @ 日本武道館）-",
+      "channel": "ちゃんみな [CHANMINA]",
+      "publishedAt": "2022-04-27T11:00:33Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/py5U_GQj6DY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/py5U_GQj6DY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/py5U_GQj6DY/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1356,52 +1402,6 @@
           "height": 360
         }
       }
-    },
-    {
-      "id": "Q5JytNgQzqk",
-      "title": "Novelbright - 愛とか恋とか [Official Music Video]",
-      "channel": "Novelbright",
-      "publishedAt": "2022-04-22T11:00:11Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Q5JytNgQzqk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Q5JytNgQzqk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Q5JytNgQzqk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "E7YAf0O02Ms",
-      "title": "Mrs. GREEN APPLE「ニュー・マイ・ノーマル」Official Music Video",
-      "channel": "Mrs. GREEN APPLE",
-      "publishedAt": "2022-03-18T11:58:00Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/E7YAf0O02Ms/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/E7YAf0O02Ms/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/E7YAf0O02Ms/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
     }
   ],
   "gaming": [
@@ -1613,23 +1613,23 @@
       }
     },
     {
-      "id": "VQY_m3wCBCE",
-      "title": "1000 vs 1000 Player War!",
-      "channel": "MrBeast Gaming",
-      "publishedAt": "2021-09-11T18:03:40Z",
+      "id": "dVPnh4BNS0Y",
+      "title": "Name a better duo...",
+      "channel": "Mogswamp",
+      "publishedAt": "2025-05-10T14:01:01Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/VQY_m3wCBCE/default.jpg",
+          "url": "https://i.ytimg.com/vi/dVPnh4BNS0Y/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/VQY_m3wCBCE/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/dVPnh4BNS0Y/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/VQY_m3wCBCE/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/dVPnh4BNS0Y/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1653,6 +1653,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/ANpP2PebOW0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "VQY_m3wCBCE",
+      "title": "1000 vs 1000 Player War!",
+      "channel": "MrBeast Gaming",
+      "publishedAt": "2021-09-11T18:03:40Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VQY_m3wCBCE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VQY_m3wCBCE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VQY_m3wCBCE/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1728,29 +1751,6 @@
       }
     },
     {
-      "id": "xN8ENrfE-TY",
-      "title": "If You Build a House, I&#39;ll Pay For It!",
-      "channel": "MrBeast Gaming",
-      "publishedAt": "2021-01-02T19:07:38Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "zWX62wtKofk",
       "title": "ぷちセカ#05「25時やめない？」",
       "channel": "プロジェクトセカイ カラフルステージ! feat. 初音ミク",
@@ -1774,23 +1774,46 @@
       }
     },
     {
-      "id": "YIUeywqDw84",
-      "title": "Dumbest Hacker Ever...",
-      "channel": "WesleyWAT",
-      "publishedAt": "2025-05-09T20:15:01Z",
+      "id": "CEZxPNDi0rA",
+      "title": "GTA 6 Will Be 30 FPS? #gta6 #gta6trailer - DarkViperAU",
+      "channel": "DarkViperAU",
+      "publishedAt": "2025-05-10T10:00:31Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/YIUeywqDw84/default.jpg",
+          "url": "https://i.ytimg.com/vi/CEZxPNDi0rA/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/YIUeywqDw84/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/CEZxPNDi0rA/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/YIUeywqDw84/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/CEZxPNDi0rA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "xN8ENrfE-TY",
+      "title": "If You Build a House, I&#39;ll Pay For It!",
+      "channel": "MrBeast Gaming",
+      "publishedAt": "2021-01-02T19:07:38Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1814,29 +1837,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/O7qgM-HmebQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "yN026f4mU3Q",
-      "title": "Fortnite Is Giving Players FREE Vbucks!",
-      "channel": "Top5Gaming",
-      "publishedAt": "2025-05-09T23:06:44Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/yN026f4mU3Q/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/yN026f4mU3Q/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/yN026f4mU3Q/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1889,29 +1889,6 @@
       }
     },
     {
-      "id": "Ohjm84bCMhY",
-      "title": "OK Take Two! (A Minecraft Movie Meme Animation) #shorts #cartoon",
-      "channel": "toonz CRAFT",
-      "publishedAt": "2025-05-10T12:00:44Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Ohjm84bCMhY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Ohjm84bCMhY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Ohjm84bCMhY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "ymT67xz5u_0",
       "title": "The GTA 6 Trailer Was GAMEPLAY! #gta6 #gta6trailer - DarkViperAU",
       "channel": "DarkViperAU",
@@ -1958,23 +1935,46 @@
       }
     },
     {
-      "id": "--AktMCOrwE",
-      "title": "If You Find This, You Are Now Rich? 🤑 #interesting",
-      "channel": "IdkSterling",
-      "publishedAt": "2025-05-09T23:48:07Z",
+      "id": "M7FQSttmmxY",
+      "title": "Game Theory: What is a Pikmin?",
+      "channel": "The Game Theorists",
+      "publishedAt": "2025-05-10T17:08:49Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/--AktMCOrwE/default.jpg",
+          "url": "https://i.ytimg.com/vi/M7FQSttmmxY/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/--AktMCOrwE/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/M7FQSttmmxY/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/--AktMCOrwE/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/M7FQSttmmxY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "ua_n6MNGkrA",
+      "title": "They Glazed Kenji TOO Hard",
+      "channel": "BrawlReflex",
+      "publishedAt": "2025-05-09T20:30:47Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ua_n6MNGkrA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ua_n6MNGkrA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ua_n6MNGkrA/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
