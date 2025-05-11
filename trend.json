@@ -1,5 +1,5 @@
 {
-  "updated": "2025-05-11T20:38:35.390Z",
+  "updated": "2025-05-11T21:38:35.217Z",
   "trending": [
     {
       "id": "UVwpQn84l2Y",
@@ -962,29 +962,6 @@
       }
     },
     {
-      "id": "wfCcs0vLysk",
-      "title": "Mrs. GREEN APPLE - インフェルノ（Inferno）",
-      "channel": "Mrs. GREEN APPLE",
-      "publishedAt": "2019-08-02T09:00:10Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/wfCcs0vLysk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/wfCcs0vLysk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/wfCcs0vLysk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "fMIn43MiwG8",
       "title": "TWICE 「Celebrate」 Music Video",
       "channel": "TWICE JAPAN OFFICIAL YouTube Channel",
@@ -1002,6 +979,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/fMIn43MiwG8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "wfCcs0vLysk",
+      "title": "Mrs. GREEN APPLE - インフェルノ（Inferno）",
+      "channel": "Mrs. GREEN APPLE",
+      "publishedAt": "2019-08-02T09:00:10Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wfCcs0vLysk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wfCcs0vLysk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wfCcs0vLysk/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1353,6 +1353,29 @@
       }
     },
     {
+      "id": "DuMqFknYHBs",
+      "title": "Official髭男dism - イエスタデイ［Official Video］",
+      "channel": "Official髭男dism",
+      "publishedAt": "2019-09-20T12:00:05Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DuMqFknYHBs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DuMqFknYHBs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DuMqFknYHBs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "O1bhZgkC4Gw",
       "title": "Official髭男dism - Cry Baby［Official Video］",
       "channel": "Official髭男dism",
@@ -1370,29 +1393,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/O1bhZgkC4Gw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "Q5JytNgQzqk",
-      "title": "Novelbright - 愛とか恋とか [Official Music Video]",
-      "channel": "Novelbright",
-      "publishedAt": "2022-04-22T11:00:11Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Q5JytNgQzqk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Q5JytNgQzqk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Q5JytNgQzqk/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1447,29 +1447,6 @@
       }
     },
     {
-      "id": "r6zIGXun57U",
-      "title": "Legends Never Die (ft. Against The Current) | Worlds 2017 - League of Legends",
-      "channel": "League of Legends",
-      "publishedAt": "2017-10-18T13:00:08Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/r6zIGXun57U/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/r6zIGXun57U/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/r6zIGXun57U/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "DZcQEdiSoQI",
       "title": "Minecraft, But I Shapeshift Every Minute",
       "channel": "Maizen",
@@ -1516,6 +1493,52 @@
       }
     },
     {
+      "id": "r6zIGXun57U",
+      "title": "Legends Never Die (ft. Against The Current) | Worlds 2017 - League of Legends",
+      "channel": "League of Legends",
+      "publishedAt": "2017-10-18T13:00:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/r6zIGXun57U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/r6zIGXun57U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/r6zIGXun57U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "lghlkDA1gVY",
+      "title": "Minecraft, But Everything is Random!",
+      "channel": "MrBeast Gaming",
+      "publishedAt": "2020-08-02T17:17:36Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lghlkDA1gVY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lghlkDA1gVY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lghlkDA1gVY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "VQY_m3wCBCE",
       "title": "1000 vs 1000 Player War!",
       "channel": "MrBeast Gaming",
@@ -1539,92 +1562,46 @@
       }
     },
     {
-      "id": "g2PwNsc601g",
-      "title": "FINAL FANTASY XIV: Starter Guide Series - Episode 4: Do Your Duty",
-      "channel": "FINAL FANTASY XIV",
-      "publishedAt": "2022-08-08T12:59:16Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/g2PwNsc601g/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/g2PwNsc601g/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/g2PwNsc601g/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "KVWCn0jgebM",
-      "title": "Do Not Let Chickens Eat Their Own Eggs 🤔 #badidea",
-      "channel": "IdkSterling",
-      "publishedAt": "2025-05-10T20:30:02Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/KVWCn0jgebM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/KVWCn0jgebM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/KVWCn0jgebM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "xN8ENrfE-TY",
-      "title": "If You Build a House, I&#39;ll Pay For It!",
+      "id": "wW8FnNghyvI",
+      "title": "1000 People Build 10 Countries!",
       "channel": "MrBeast Gaming",
-      "publishedAt": "2021-01-02T19:07:38Z",
+      "publishedAt": "2021-04-15T19:07:15Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/default.jpg",
+          "url": "https://i.ytimg.com/vi/wW8FnNghyvI/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wW8FnNghyvI/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wW8FnNghyvI/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       }
     },
     {
-      "id": "dVPnh4BNS0Y",
-      "title": "This Minecraft block is weirder than you think...",
-      "channel": "Mogswamp",
-      "publishedAt": "2025-05-10T14:01:01Z",
+      "id": "6_nJUE0t6Ys",
+      "title": "Types of Super Flat Worlds in Minecraft",
+      "channel": "Crave",
+      "publishedAt": "2025-05-10T20:20:55Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/dVPnh4BNS0Y/default.jpg",
+          "url": "https://i.ytimg.com/vi/6_nJUE0t6Ys/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/dVPnh4BNS0Y/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6_nJUE0t6Ys/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/dVPnh4BNS0Y/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6_nJUE0t6Ys/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1654,23 +1631,23 @@
       }
     },
     {
-      "id": "wW8FnNghyvI",
-      "title": "1000 People Build 10 Countries!",
+      "id": "xN8ENrfE-TY",
+      "title": "If You Build a House, I&#39;ll Pay For It!",
       "channel": "MrBeast Gaming",
-      "publishedAt": "2021-04-15T19:07:15Z",
+      "publishedAt": "2021-01-02T19:07:38Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/wW8FnNghyvI/default.jpg",
+          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/wW8FnNghyvI/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/wW8FnNghyvI/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/xN8ENrfE-TY/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1746,6 +1723,29 @@
       }
     },
     {
+      "id": "qJKushZcar4",
+      "title": "🌟 考えたマイクラ進捗４　#minecraft  #マインクラフト #マイクラ #ゆっくり #ゆっくり実況",
+      "channel": "🌟 / ほし",
+      "publishedAt": "2025-05-11T00:01:00Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qJKushZcar4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qJKushZcar4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qJKushZcar4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "KpEHo9j2LNg",
       "title": "『eBASEBALLパワフルプロ野球2022』オープニングムービー",
       "channel": "パワプロ・プロスピ公式チャンネル",
@@ -1786,29 +1786,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/jk6thMe6Vq8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "ua_n6MNGkrA",
-      "title": "They Glazed Kenji TOO Hard",
-      "channel": "BrawlReflex",
-      "publishedAt": "2025-05-09T20:30:47Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ua_n6MNGkrA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ua_n6MNGkrA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ua_n6MNGkrA/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1861,6 +1838,29 @@
       }
     },
     {
+      "id": "J8ZKj-cLpII",
+      "title": "When The Intrusive Thoughts Win In Minecraft",
+      "channel": "Daily Dose of Gaming",
+      "publishedAt": "2025-05-10T21:00:16Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/J8ZKj-cLpII/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/J8ZKj-cLpII/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/J8ZKj-cLpII/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "qZwymxeDlRY",
       "title": "【公式】「ポケモンたちとの甘い冬」最終話「甘い飴は冬の味」",
       "channel": "ポケモン公式YouTubeチャンネル",
@@ -1907,46 +1907,23 @@
       }
     },
     {
-      "id": "DxX3-ZX5P1k",
-      "title": "The Complete Red Dead Redemption Timeline! | The Leaderboard",
-      "channel": "The Leaderboard",
-      "publishedAt": "2018-11-25T15:00:00Z",
+      "id": "Ym4HhPr7be0",
+      "title": "When you run out of gold 💀",
+      "channel": "HamoodeG",
+      "publishedAt": "2025-05-11T08:08:47Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/DxX3-ZX5P1k/default.jpg",
+          "url": "https://i.ytimg.com/vi/Ym4HhPr7be0/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/DxX3-ZX5P1k/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Ym4HhPr7be0/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/DxX3-ZX5P1k/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "6GR1VILDpnM",
-      "title": "LazarBeam And I STOLE Sypher’s Record.",
-      "channel": "Aid",
-      "publishedAt": "2025-05-10T18:10:11Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/6GR1VILDpnM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/6GR1VILDpnM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/6GR1VILDpnM/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Ym4HhPr7be0/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1970,6 +1947,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/6BWMv5_RQ1M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "6GR1VILDpnM",
+      "title": "LazarBeam And I STOLE Sypher’s Record.",
+      "channel": "Aid",
+      "publishedAt": "2025-05-10T18:10:11Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6GR1VILDpnM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6GR1VILDpnM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6GR1VILDpnM/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
