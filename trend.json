@@ -1,5 +1,5 @@
 {
-  "updated": "2025-05-16T16:38:35.598Z",
+  "updated": "2025-05-16T17:38:35.485Z",
   "trending": [
     {
       "id": "QZGZ749jcGA",
@@ -723,39 +723,6 @@
       }
     },
     {
-      "id": "k1G3iLYMuiA",
-      "title": "彼女と別れました",
-      "channel": "相馬トランジスタ",
-      "publishedAt": "2025-05-15T11:00:14Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/k1G3iLYMuiA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/k1G3iLYMuiA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/k1G3iLYMuiA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/k1G3iLYMuiA/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/k1G3iLYMuiA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "8Bg5gC2Iq-c",
       "title": "REJECT EVERYTHING, BUT VICTORY.【SFL2025】",
       "channel": "REJECT",
@@ -783,6 +750,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/8Bg5gC2Iq-c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "k1G3iLYMuiA",
+      "title": "彼女と別れました",
+      "channel": "相馬トランジスタ",
+      "publishedAt": "2025-05-15T11:00:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/k1G3iLYMuiA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/k1G3iLYMuiA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/k1G3iLYMuiA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/k1G3iLYMuiA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/k1G3iLYMuiA/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
