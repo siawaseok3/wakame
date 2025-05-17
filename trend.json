@@ -1,5 +1,5 @@
 {
-  "updated": "2025-05-17T12:38:35.281Z",
+  "updated": "2025-05-17T13:38:35.289Z",
   "trending": [
     {
       "id": "CFBStXempJY",
@@ -233,39 +233,6 @@
       }
     },
     {
-      "id": "o7BcyAd6rqg",
-      "title": "진 (Jin) 'Don't Say You Love Me' Official MV",
-      "channel": "HYBE LABELS",
-      "publishedAt": "2025-05-16T03:59:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/o7BcyAd6rqg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/o7BcyAd6rqg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/o7BcyAd6rqg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/o7BcyAd6rqg/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/o7BcyAd6rqg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "WChxX7USYD0",
       "title": "＜期間限定公開＞Mrs. GREEN APPLE – クスシキ【LIVE on TBS “CDTVライブ!ライブ!”】",
       "channel": "Mrs. GREEN APPLE",
@@ -293,6 +260,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/WChxX7USYD0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "o7BcyAd6rqg",
+      "title": "진 (Jin) 'Don't Say You Love Me' Official MV",
+      "channel": "HYBE LABELS",
+      "publishedAt": "2025-05-16T03:59:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/o7BcyAd6rqg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/o7BcyAd6rqg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/o7BcyAd6rqg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/o7BcyAd6rqg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/o7BcyAd6rqg/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -355,39 +355,6 @@
       }
     },
     {
-      "id": "KR92UJgz4bs",
-      "title": "Number_iに地味な特技聞いたら自由すぎた【Mステ】",
-      "channel": "MUSIC STATION",
-      "publishedAt": "2025-05-16T10:21:32Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/KR92UJgz4bs/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/KR92UJgz4bs/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/KR92UJgz4bs/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/KR92UJgz4bs/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/KR92UJgz4bs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "NRGQH5pl0qw",
       "title": "Motoki Ohmori – 「絵画」Concept Movie",
       "channel": "大森元貴 / Motoki Ohmori",
@@ -415,6 +382,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/NRGQH5pl0qw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "KR92UJgz4bs",
+      "title": "Number_iに地味な特技聞いたら自由すぎた【Mステ】",
+      "channel": "MUSIC STATION",
+      "publishedAt": "2025-05-16T10:21:32Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KR92UJgz4bs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KR92UJgz4bs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KR92UJgz4bs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KR92UJgz4bs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KR92UJgz4bs/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -817,582 +817,6 @@
       }
     }
   ],
-  "music": [
-    {
-      "id": "HhGVmOmmuQI",
-      "title": "Fat Joe: “I Was New York’s Suge Knight” 😳",
-      "channel": "Classic Rap Shorts",
-      "publishedAt": "2025-05-12T16:31:01Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/HhGVmOmmuQI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/HhGVmOmmuQI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/HhGVmOmmuQI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "rBns4HjEabo",
-      "title": "he never lets anyone know his next move #funnydog #doggrooming",
-      "channel": "Adria and Oatmeal",
-      "publishedAt": "2025-05-12T15:01:30Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/rBns4HjEabo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/rBns4HjEabo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/rBns4HjEabo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "twPR8E03tvE",
-      "title": "SixTONES – サブスク配信解禁90秒SPOT",
-      "channel": "SixTONES",
-      "publishedAt": "2025-05-16T03:00:55Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/twPR8E03tvE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/twPR8E03tvE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/twPR8E03tvE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "Fz_HFxYtxnk",
-      "title": "Athra Ghora | ਅੱਥਰਾ ਘੋੜਾ - (Music Video) Surjit Bhullar | Sudesh Kumari | Joy Atul | Lakhwinder Maan",
-      "channel": "Surjit Bhullar",
-      "publishedAt": "2025-05-16T04:30:26Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Fz_HFxYtxnk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Fz_HFxYtxnk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Fz_HFxYtxnk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "o7BcyAd6rqg",
-      "title": "진 (Jin) &#39;Don&#39;t Say You Love Me&#39; Official MV",
-      "channel": "HYBE LABELS",
-      "publishedAt": "2025-05-16T03:59:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/o7BcyAd6rqg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/o7BcyAd6rqg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/o7BcyAd6rqg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "Yd1smtHpxaY",
-      "title": "GIVĒON - RATHER BE (Official Music Video)",
-      "channel": "GiveonVEVO",
-      "publishedAt": "2025-05-16T04:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Yd1smtHpxaY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Yd1smtHpxaY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Yd1smtHpxaY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "yRqJ6gbkBA0",
-      "title": "manifest - KTS | Music Video",
-      "channel": "manifest",
-      "publishedAt": "2025-05-15T21:00:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/yRqJ6gbkBA0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/yRqJ6gbkBA0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/yRqJ6gbkBA0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "bvYxplaQ9i0",
-      "title": "언젠가는 슬기로울 전공의생활 OST Part 9 투모로우바이투게더 - &#39;그날이 오면&#39; 챌린지 (고윤정 X 신시아 X 강유석 X 한예지 Ver.)｜#Shorts",
-      "channel": "Stone Music Entertainment",
-      "publishedAt": "2025-05-16T03:00:51Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/bvYxplaQ9i0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/bvYxplaQ9i0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/bvYxplaQ9i0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "ElMD-Fnjcf8",
-      "title": "VIBE (Official Video): GURU RANDHAWA | FRENCH MONTANA | SHANAYA KAPOOR | JSL, DJ SHADOW | BHUSHAN K",
-      "channel": "T-Series",
-      "publishedAt": "2025-05-16T05:30:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ElMD-Fnjcf8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ElMD-Fnjcf8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ElMD-Fnjcf8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "WPg4mK5Q5Yg",
-      "title": "اغنية &quot; المقص &quot;تامر حسني و رضا البحراوي من فيلم ريستارت / ElMa2as - from Restart movie",
-      "channel": "Tamer Hosny",
-      "publishedAt": "2025-05-15T19:04:42Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/WPg4mK5Q5Yg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/WPg4mK5Q5Yg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/WPg4mK5Q5Yg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "eW0OeD2nELw",
-      "title": "this made me tear up bro",
-      "channel": "Benson Boone",
-      "publishedAt": "2025-05-16T01:28:14Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/eW0OeD2nELw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/eW0OeD2nELw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/eW0OeD2nELw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "EmaICuW7teU",
-      "title": "Paulo &amp; Nathan e Murilo Huff - Camisa De Força",
-      "channel": "Paulo e Nathan",
-      "publishedAt": "2025-05-16T15:00:24Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/EmaICuW7teU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/EmaICuW7teU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/EmaICuW7teU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "wuhY2fnN4_o",
-      "title": "announcement",
-      "channel": "CG5",
-      "publishedAt": "2025-05-16T22:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/wuhY2fnN4_o/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/wuhY2fnN4_o/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/wuhY2fnN4_o/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "Zkq5eBi5Slc",
-      "title": "Douaa Lahyaoui - Belbala [Official Music Video] | (دعاء لحياوي - بلبالة (فيديو كليب",
-      "channel": "Douaa Lahyaoui ",
-      "publishedAt": "2025-05-16T14:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Zkq5eBi5Slc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Zkq5eBi5Slc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Zkq5eBi5Slc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "iW3LSGbZ6E8",
-      "title": "It’s like a real life Shrek movie 👀😂 #couple #comedy #shrek #funny",
-      "channel": "Eric & Mani",
-      "publishedAt": "2025-05-16T10:17:02Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/iW3LSGbZ6E8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/iW3LSGbZ6E8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/iW3LSGbZ6E8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "xX-VpTN2gGc",
-      "title": "BOYNEXTDOOR - I Feel Good [더 시즌즈-박보검의 칸타빌레] | KBS 250516 방송",
-      "channel": "KBS Kpop",
-      "publishedAt": "2025-05-16T16:47:00Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xX-VpTN2gGc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xX-VpTN2gGc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xX-VpTN2gGc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "GFspzVuXlNM",
-      "title": "Diva Sa Bale - Harjeet Diwana, Shiva Choudhry, Feat. Anjali Ragav, Kay D | New Haryanvi Song 2025",
-      "channel": "T-SERIES HARYANVI",
-      "publishedAt": "2025-05-16T05:28:56Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/GFspzVuXlNM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/GFspzVuXlNM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/GFspzVuXlNM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "XJGZHGeLBT4",
-      "title": "🧚🏻🧚🏻 #LE_SSERAFIM #르세라핌  #KAZUHA #카즈하 #HONGEUNCHAE  #홍은채",
-      "channel": "LE SSERAFIM",
-      "publishedAt": "2025-05-15T13:00:27Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/XJGZHGeLBT4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/XJGZHGeLBT4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/XJGZHGeLBT4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "u00JqdBkAxQ",
-      "title": "#Video | #Khesari Lal Yadav |Hello Guys | New Bhojpuri Comedy Song 2025",
-      "channel": "Khesari Music World",
-      "publishedAt": "2025-05-16T03:30:39Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/u00JqdBkAxQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/u00JqdBkAxQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/u00JqdBkAxQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "EEmnjfEX__U",
-      "title": "this duo, Gnarly #KATSEYE #KATSEYE_Gnarly #Gnarly",
-      "channel": "KATSEYE",
-      "publishedAt": "2025-05-16T15:00:23Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/EEmnjfEX__U/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/EEmnjfEX__U/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/EEmnjfEX__U/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "R7EhfVrk0Eg",
-      "title": "DENNIS, Luísa Sonza, Kenia Os - BATE  (CLIPE OFICIAL)",
-      "channel": "DENNIS",
-      "publishedAt": "2025-05-16T15:00:17Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/R7EhfVrk0Eg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/R7EhfVrk0Eg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/R7EhfVrk0Eg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "qJyS9Vft_pA",
-      "title": "Siilawy - Mahkamt El Deni (Official Music Video) | محكمة الدني",
-      "channel": "Siilawy - سيلاوي",
-      "publishedAt": "2025-05-15T16:59:32Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/qJyS9Vft_pA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/qJyS9Vft_pA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/qJyS9Vft_pA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "WChxX7USYD0",
-      "title": "＜期間限定公開＞Mrs. GREEN APPLE – クスシキ【LIVE on TBS “CDTVライブ!ライブ!”】",
-      "channel": "Mrs. GREEN APPLE",
-      "publishedAt": "2025-05-16T09:00:48Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/WChxX7USYD0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/WChxX7USYD0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/WChxX7USYD0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "u19vhq29-PQ",
-      "title": "VOYAGE X EDITA - DJAVOLE (OFFICIAL VIDEO)",
-      "channel": "IDJVideos.TV",
-      "publishedAt": "2025-05-16T11:00:08Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/u19vhq29-PQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/u19vhq29-PQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/u19vhq29-PQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "k1L6G83JEEY",
-      "title": "＜期間限定公開＞Mrs. GREEN APPLE – 天国(Movie ver.)【LIVE on TBS “CDTVライブ!ライブ!”】",
-      "channel": "Mrs. GREEN APPLE",
-      "publishedAt": "2025-05-16T09:01:12Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/k1L6G83JEEY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/k1L6G83JEEY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/k1L6G83JEEY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    }
-  ],
+  "music": [],
   "gaming": []
 }
