@@ -1,5 +1,5 @@
 {
-  "updated": "2025-05-18T12:38:35.192Z",
+  "updated": "2025-05-18T13:38:35.034Z",
   "trending": [
     {
       "id": "CFBStXempJY",
@@ -464,29 +464,6 @@
       }
     },
     {
-      "id": "s9rxidVMNO0",
-      "title": "13年間ありがとう。重大発表があります。",
-      "channel": "タケヤキ翔",
-      "publishedAt": "2025-05-17T11:00:16Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/s9rxidVMNO0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/s9rxidVMNO0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/s9rxidVMNO0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "s6nXIpOLQz0",
       "title": "YOASOBI - LIVE AT “Echoes Baa”［Day2］- MUSIC AWARDS JAPAN 2025",
       "channel": "Ayase / YOASOBI",
@@ -516,6 +493,29 @@
           "url": "https://i.ytimg.com/vi/s6nXIpOLQz0/maxresdefault.jpg",
           "width": 1280,
           "height": 720
+        }
+      }
+    },
+    {
+      "id": "s9rxidVMNO0",
+      "title": "13年間ありがとう。重大発表があります。",
+      "channel": "タケヤキ翔",
+      "publishedAt": "2025-05-17T11:00:16Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/s9rxidVMNO0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/s9rxidVMNO0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/s9rxidVMNO0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
         }
       }
     },
@@ -818,5 +818,581 @@
     }
   ],
   "music": [],
-  "gaming": []
+  "gaming": [
+    {
+      "id": "AEEweWDQA9k",
+      "title": "Is More VRAM Always Better for a GPU?",
+      "channel": "Zach's Tech Turf",
+      "publishedAt": "2025-05-17T21:00:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AEEweWDQA9k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AEEweWDQA9k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AEEweWDQA9k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "78XrAD2U_-Q",
+      "title": "Leads are better",
+      "channel": "CheezyChez",
+      "publishedAt": "2025-05-17T10:00:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/78XrAD2U_-Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/78XrAD2U_-Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/78XrAD2U_-Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "oaVQjOVY4WE",
+      "title": "what made Phineas and Ferb so good? #phineasandferb #disney #opinion",
+      "channel": "Bacon Guy",
+      "publishedAt": "2025-05-17T13:01:34Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oaVQjOVY4WE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oaVQjOVY4WE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oaVQjOVY4WE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "IDAQs2CNb5I",
+      "title": "Nintendo Switch Airplane Mode Trick?",
+      "channel": "EmSwizzle",
+      "publishedAt": "2025-05-17T19:00:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IDAQs2CNb5I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IDAQs2CNb5I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IDAQs2CNb5I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "GiP4O_t_-3k",
+      "title": "How to break AI Darth Vader...",
+      "channel": "Nick Eh 30 Shorts",
+      "publishedAt": "2025-05-17T01:36:00Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GiP4O_t_-3k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GiP4O_t_-3k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GiP4O_t_-3k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "edQPKthMRQw",
+      "title": "minecraft is getting HARDER… on bedrock edition",
+      "channel": "DashPum4",
+      "publishedAt": "2025-05-17T14:27:34Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/edQPKthMRQw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/edQPKthMRQw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/edQPKthMRQw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "7qwbR4hN1JM",
+      "title": "What&#39;s the most toxic thing about your family?",
+      "channel": "Requested Reads",
+      "publishedAt": "2025-05-17T18:30:09Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7qwbR4hN1JM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7qwbR4hN1JM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7qwbR4hN1JM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "9M-8DGrjQlc",
+      "title": "Infinite MILK In Deadrails!",
+      "channel": "Ezzie",
+      "publishedAt": "2025-05-17T00:47:05Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9M-8DGrjQlc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9M-8DGrjQlc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9M-8DGrjQlc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "70K5cwysfYQ",
+      "title": "ULTRON IS INSANE IN MARVEL RIVALS",
+      "channel": "Khyomaru",
+      "publishedAt": "2025-05-17T16:45:00Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/70K5cwysfYQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/70K5cwysfYQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/70K5cwysfYQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "h6asCjdYp9Q",
+      "title": "What&#39;s the most embarrassing moment of your entire life?",
+      "channel": "Requested Reads",
+      "publishedAt": "2025-05-18T03:15:05Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/h6asCjdYp9Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/h6asCjdYp9Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/h6asCjdYp9Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "18AQUgW-of4",
+      "title": "This is for my Beloved Runes 💀 #eldenring",
+      "channel": "Cell ",
+      "publishedAt": "2025-05-17T10:58:52Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/18AQUgW-of4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/18AQUgW-of4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/18AQUgW-of4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "VkP2t1iFm8M",
+      "title": "Accurate? 😂",
+      "channel": "Jeffrey Bui",
+      "publishedAt": "2025-05-16T13:01:00Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VkP2t1iFm8M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VkP2t1iFm8M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VkP2t1iFm8M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "UEh7nuHpz2o",
+      "title": "We Broke Fortnite&#39;s ELIMINATION Record. (W/O Creative &amp; Playground)",
+      "channel": "Aid",
+      "publishedAt": "2025-05-17T03:25:36Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UEh7nuHpz2o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UEh7nuHpz2o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UEh7nuHpz2o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "RERWBm_UFSw",
+      "title": "Fortnite is 100% getting cancelled..",
+      "channel": "Asmongold Clips",
+      "publishedAt": "2025-05-18T02:53:31Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RERWBm_UFSw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RERWBm_UFSw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RERWBm_UFSw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "Jbs8Yk851_8",
+      "title": "How I Won a Tournament with the Hardest Strategy",
+      "channel": "WolfeyVGC",
+      "publishedAt": "2025-05-17T15:00:23Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Jbs8Yk851_8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Jbs8Yk851_8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Jbs8Yk851_8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "KqZVhZEM314",
+      "title": "Ranking Convenience Store Chocolate Bars!",
+      "channel": "Koreanosh",
+      "publishedAt": "2025-05-17T16:25:32Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KqZVhZEM314/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KqZVhZEM314/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KqZVhZEM314/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "-7i0UxViYLs",
+      "title": "happy ghast house",
+      "channel": "Prism",
+      "publishedAt": "2025-05-17T15:00:00Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-7i0UxViYLs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-7i0UxViYLs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-7i0UxViYLs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "gQg4PCbedWk",
+      "title": "¿Cuál es el récord más difícil de superar en el fútbol? 😱⚽️ #footballfans #footballfunny #messi",
+      "channel": "Jose Cobo",
+      "publishedAt": "2025-05-17T17:53:52Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gQg4PCbedWk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gQg4PCbedWk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gQg4PCbedWk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "uhSEyzkfAoY",
+      "title": "Female gymnast tries my grips 😂 #olympics #olympic #gymnastics #sports #sport #gymnast #bars #lol",
+      "channel": "Ian Gunther",
+      "publishedAt": "2025-05-17T22:39:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uhSEyzkfAoY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uhSEyzkfAoY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uhSEyzkfAoY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "llzPppfId3Q",
+      "title": "Can a 747 Actually Land in GTA5?",
+      "channel": "Any Austin",
+      "publishedAt": "2025-05-18T03:07:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/llzPppfId3Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/llzPppfId3Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/llzPppfId3Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "fEFfmau-g1k",
+      "title": "If ROBLOX Had A Lie Detector",
+      "channel": "Vindooly",
+      "publishedAt": "2025-05-17T18:00:40Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fEFfmau-g1k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fEFfmau-g1k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fEFfmau-g1k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "APy9kGJLf10",
+      "title": "ILLEGAL TRICKS THAT WORKS IN MINECRAFT! ⛏️ #shorts",
+      "channel": "Knoxy",
+      "publishedAt": "2025-05-17T22:00:19Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/APy9kGJLf10/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/APy9kGJLf10/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/APy9kGJLf10/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "P-gfHJhBnyo",
+      "title": "Minecraft Meme",
+      "channel": "Froppy Craft",
+      "publishedAt": "2025-05-17T13:15:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/P-gfHJhBnyo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/P-gfHJhBnyo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/P-gfHJhBnyo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "LCE1QtLDix0",
+      "title": "This “Dog” Creeps A Lot Of People Out 😰 #interesting",
+      "channel": "IdkSterling",
+      "publishedAt": "2025-05-17T20:30:02Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LCE1QtLDix0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LCE1QtLDix0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LCE1QtLDix0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "lBppegqFr30",
+      "title": "THE WORST SUPERPOWERS YOU COULD HAVE",
+      "channel": "RoyalProtoM",
+      "publishedAt": "2025-05-17T22:10:35Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lBppegqFr30/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lBppegqFr30/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lBppegqFr30/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    }
+  ]
 }
