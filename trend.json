@@ -1,5 +1,5 @@
 {
-  "updated": "2025-05-21T07:38:34.948Z",
+  "updated": "2025-05-21T08:38:34.662Z",
   "trending": [
     {
       "id": "aHccVyq504Y",
@@ -68,6 +68,39 @@
       }
     },
     {
+      "id": "2ozyrLtgnc8",
+      "title": "「ズートピア２」ジュディ🐰とニック🦊が再びバディに！特報解禁｜2025年冬 劇場公開！",
+      "channel": "ディズニー・スタジオ公式",
+      "publishedAt": "2025-05-20T21:00:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2ozyrLtgnc8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2ozyrLtgnc8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2ozyrLtgnc8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2ozyrLtgnc8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2ozyrLtgnc8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
       "id": "V6S4-kbi4KI",
       "title": "【宮迫博之x土田晃之】最近、ツッチーが蛍原から預かった宮迫への伝言",
       "channel": "宮迫ですッ!【宮迫博之】",
@@ -128,39 +161,6 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/IDxyFCnWG1U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
-      "id": "2ozyrLtgnc8",
-      "title": "「ズートピア２」ジュディ🐰とニック🦊が再びバディに！特報解禁｜2025年冬 劇場公開！",
-      "channel": "ディズニー・スタジオ公式",
-      "publishedAt": "2025-05-20T21:00:04Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/2ozyrLtgnc8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/2ozyrLtgnc8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/2ozyrLtgnc8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/2ozyrLtgnc8/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/2ozyrLtgnc8/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
