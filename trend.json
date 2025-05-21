@@ -1,5 +1,5 @@
 {
-  "updated": "2025-05-21T10:38:34.920Z",
+  "updated": "2025-05-21T11:38:34.753Z",
   "trending": [
     {
       "id": "aHccVyq504Y",
@@ -299,39 +299,6 @@
       }
     },
     {
-      "id": "BpiNajBKuWE",
-      "title": "スーパーロボット大戦Y 配信番組「スパロボY情報局」",
-      "channel": "Bandai Namco Entertainment",
-      "publishedAt": "2025-05-20T11:58:36Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/BpiNajBKuWE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/BpiNajBKuWE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/BpiNajBKuWE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/BpiNajBKuWE/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/BpiNajBKuWE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "zc_lEL9Cv5c",
       "title": "[MOVE TO PERFORMANCE] &TEAM(앤팀) - Run Wild (Korean ver.) (4K)",
       "channel": "M2",
@@ -359,39 +326,6 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/zc_lEL9Cv5c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
-      "id": "fw7ADPjnI9k",
-      "title": "【Luxiem 3D Concert】Spend a musical moment with us!【#LuxiemRoyalFlash3D】",
-      "channel": "NIJISANJI EN Official",
-      "publishedAt": "2025-05-20T12:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/fw7ADPjnI9k/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/fw7ADPjnI9k/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/fw7ADPjnI9k/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/fw7ADPjnI9k/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/fw7ADPjnI9k/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -431,6 +365,72 @@
       }
     },
     {
+      "id": "fw7ADPjnI9k",
+      "title": "【Luxiem 3D Concert】Spend a musical moment with us!【#LuxiemRoyalFlash3D】",
+      "channel": "NIJISANJI EN Official",
+      "publishedAt": "2025-05-20T12:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fw7ADPjnI9k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fw7ADPjnI9k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fw7ADPjnI9k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fw7ADPjnI9k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fw7ADPjnI9k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "BpiNajBKuWE",
+      "title": "スーパーロボット大戦Y 配信番組「スパロボY情報局」",
+      "channel": "Bandai Namco Entertainment",
+      "publishedAt": "2025-05-20T11:58:36Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BpiNajBKuWE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BpiNajBKuWE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BpiNajBKuWE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BpiNajBKuWE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BpiNajBKuWE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
       "id": "iYbD6m6K0lE",
       "title": "【Lobotomy Corporation】最初で最後のリスタートpart44【未遭遇アブノマ回収編】【ゆっくり実況】",
       "channel": "天色鮫",
@@ -464,39 +464,6 @@
       }
     },
     {
-      "id": "0aeMtFczFww",
-      "title": "【 Switch2 】当落を確認するだけの枠【ホロライブ/さくらみこ】",
-      "channel": "Miko Ch. さくらみこ",
-      "publishedAt": "2025-05-20T11:50:18Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/0aeMtFczFww/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/0aeMtFczFww/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/0aeMtFczFww/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/0aeMtFczFww/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/0aeMtFczFww/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "dmj9E7Juywo",
       "title": "【盛れてはいけない旅行】すっぴんで高級ホテル堪能してたら神降臨したwww",
       "channel": "平成フラミンゴ",
@@ -524,6 +491,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/dmj9E7Juywo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "0aeMtFczFww",
+      "title": "【 Switch2 】当落を確認するだけの枠【ホロライブ/さくらみこ】",
+      "channel": "Miko Ch. さくらみこ",
+      "publishedAt": "2025-05-20T11:50:18Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0aeMtFczFww/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0aeMtFczFww/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0aeMtFczFww/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0aeMtFczFww/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0aeMtFczFww/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
