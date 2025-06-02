@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-02T03:38:35.251Z",
+  "updated": "2025-06-02T04:38:35.317Z",
   "trending": [
     {
       "id": "66DgwxB475o",
@@ -464,39 +464,6 @@
       }
     },
     {
-      "id": "ZGvqvkIhCFo",
-      "title": "自分で自分のカスタムドールを作るぞ！【もう戻れない】",
-      "channel": "月ノ美兎",
-      "publishedAt": "2025-05-30T13:30:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ZGvqvkIhCFo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ZGvqvkIhCFo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ZGvqvkIhCFo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ZGvqvkIhCFo/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ZGvqvkIhCFo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "BQkbyLvtUYk",
       "title": "【トーク】令和ロマンくるま 芸能界天下取り将棋！劇場最強・ハードなお笑いから言葉が強い芸人まで最強布陣！",
       "channel": "佐久間宣行のNOBROCK TV",
@@ -524,6 +491,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/BQkbyLvtUYk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "ZGvqvkIhCFo",
+      "title": "自分で自分のカスタムドールを作るぞ！【もう戻れない】",
+      "channel": "月ノ美兎",
+      "publishedAt": "2025-05-30T13:30:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZGvqvkIhCFo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZGvqvkIhCFo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZGvqvkIhCFo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZGvqvkIhCFo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZGvqvkIhCFo/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -819,29 +819,6 @@
   ],
   "music": [
     {
-      "id": "Cuc1m-lY1dA",
-      "title": "Tom Filho - Sétimo Andar (Clipe Oficial)",
-      "channel": "Tom Filho",
-      "publishedAt": "2025-05-31T23:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Cuc1m-lY1dA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Cuc1m-lY1dA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Cuc1m-lY1dA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "VFyC_8yIbRg",
       "title": "#THUNDER ⚡️ with #준 #JUN #SEVENTEEN #세븐틴 #HAPPY_BURSTDAY #SVT_THUNDER",
       "channel": "SEVENTEEN",
@@ -859,6 +836,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/VFyC_8yIbRg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "aTSpbU5n7OQ",
+      "title": "Katy Perry’s SECRET Song 🤫🎶",
+      "channel": "Katy Perry's Place",
+      "publishedAt": "2025-05-31T00:17:38Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aTSpbU5n7OQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aTSpbU5n7OQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aTSpbU5n7OQ/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1118,29 +1118,6 @@
       }
     },
     {
-      "id": "SSfWPhTQrl8",
-      "title": "#video Made In India | Latest Bhojpuri Song 2025 | Awanish Babu | T-Series",
-      "channel": "T-Series Hamaar Bhojpuri",
-      "publishedAt": "2025-05-31T05:47:34Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/SSfWPhTQrl8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/SSfWPhTQrl8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/SSfWPhTQrl8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "x2a2CyHjzLE",
       "title": "Rail Banaungi | Vijay Varma (Official Video) Jaat Nia |Raj Mawar | New Haryanvi Songs Haryanavi 2025",
       "channel": "VATS RECORDS",
@@ -1181,29 +1158,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/5CO4qKAoMlY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "iqFC0X0jxb0",
-      "title": "Sherwani - Official Teaser 2025 - Arvind Akela Kallu, Shilpi Raj Ft.Sapna Chauhan T-Series",
-      "channel": "T-Series Hamaar Bhojpuri",
-      "publishedAt": "2025-06-02T01:45:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/iqFC0X0jxb0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/iqFC0X0jxb0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/iqFC0X0jxb0/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1325,69 +1279,115 @@
       }
     },
     {
-      "id": "56HuLXJQ7s4",
-      "title": "Tu Hamar Na Bhailu 💔 #Mahi Shrivastava #Arrjun Pandey #Kalpana Patowary #bhojpuri #song #video",
-      "channel": "Worldwide Records Bhojpuri",
-      "publishedAt": "2025-06-01T00:30:03Z",
+      "id": "w9eOYymba1Y",
+      "title": "getting a DM from your former bully asking for a ticket to Hamilton 🙃 #actor #pov #theatre #musical",
+      "channel": "JJ Niemann",
+      "publishedAt": "2025-05-31T19:16:34Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/56HuLXJQ7s4/default.jpg",
+          "url": "https://i.ytimg.com/vi/w9eOYymba1Y/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/56HuLXJQ7s4/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/w9eOYymba1Y/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/56HuLXJQ7s4/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/w9eOYymba1Y/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       }
     },
     {
-      "id": "QLIOiYdXQ8g",
-      "title": "Mike McCready on ￼ “Yellow Ledbetter” #guitar #pearljam #mikemccready #shorts",
-      "channel": "Rick Beato",
-      "publishedAt": "2025-05-31T15:31:42Z",
+      "id": "C2et-uJ5OWA",
+      "title": "Khan Bhaini - WHY (Official Video) | Guri Nimana | New Punjabi Songs 2025",
+      "channel": "Khan Bhaini",
+      "publishedAt": "2025-05-31T04:33:56Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/QLIOiYdXQ8g/default.jpg",
+          "url": "https://i.ytimg.com/vi/C2et-uJ5OWA/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/QLIOiYdXQ8g/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/C2et-uJ5OWA/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/QLIOiYdXQ8g/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/C2et-uJ5OWA/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       }
     },
     {
-      "id": "Zye3UHq7hPs",
-      "title": "Superfly - 僕のこと（Mrs. GREEN APPLE cover）【Music Video】／6.18発売 カバーアルバム『Amazing』収録",
-      "channel": "Superfly",
-      "publishedAt": "2025-06-01T12:00:06Z",
+      "id": "lzEpmCqSXho",
+      "title": "فرحة الأب بنجاح ابنه لا تنوصف..#اكسبلور #اقتباسات #quotes #لايك #حالات_واتس |عبارات جميلة|",
+      "channel": "SYDYツ - سيْــدي",
+      "publishedAt": "2025-06-01T16:37:16Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Zye3UHq7hPs/default.jpg",
+          "url": "https://i.ytimg.com/vi/lzEpmCqSXho/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Zye3UHq7hPs/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/lzEpmCqSXho/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Zye3UHq7hPs/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/lzEpmCqSXho/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "gF8Pxz370YI",
+      "title": "Playing Old Spice on EVERY Instrument",
+      "channel": "Landen Purifoy",
+      "publishedAt": "2025-05-31T15:01:11Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gF8Pxz370YI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gF8Pxz370YI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gF8Pxz370YI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "2lnRgGW2wqY",
+      "title": "June is gonna be a GOD month😭🙌 #god #jesus #christian",
+      "channel": "Mike Malagies",
+      "publishedAt": "2025-06-01T13:07:44Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2lnRgGW2wqY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2lnRgGW2wqY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2lnRgGW2wqY/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1419,23 +1419,46 @@
       }
     },
     {
-      "id": "EvQfUTd5H6s",
-      "title": "Only guys will understand 💀",
-      "channel": "ibekeigh",
-      "publishedAt": "2025-06-01T18:31:10Z",
+      "id": "7HbQz_h1504",
+      "title": "GAME DROP NAME REVEAL! | MINECRAFT MONTHLY",
+      "channel": "Minecraft",
+      "publishedAt": "2025-06-01T15:00:17Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/EvQfUTd5H6s/default.jpg",
+          "url": "https://i.ytimg.com/vi/7HbQz_h1504/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/EvQfUTd5H6s/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7HbQz_h1504/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/EvQfUTd5H6s/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7HbQz_h1504/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "edkkB6qSONM",
+      "title": "Have you ever felt helpless after your daughter whispered, &quot;Please don&#39;t leave me here&quot;?",
+      "channel": "Requested Reads",
+      "publishedAt": "2025-06-01T01:00:29Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/edkkB6qSONM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/edkkB6qSONM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/edkkB6qSONM/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1482,52 +1505,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/Tk73NR3w6zc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "hY_2oZAFg0o",
-      "title": "🌟 考えたマイクラ進捗６　#minecraft  #マインクラフト #マイクラ #ゆっくり #ゆっくり実況",
-      "channel": "🌟 / ほし",
-      "publishedAt": "2025-06-01T01:00:44Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/hY_2oZAFg0o/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/hY_2oZAFg0o/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/hY_2oZAFg0o/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "73L-opAgA2w",
-      "title": "what current Disney&#39;s done RIGHT #disney #movie #opinion",
-      "channel": "Bacon Guy",
-      "publishedAt": "2025-06-01T13:00:16Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/73L-opAgA2w/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/73L-opAgA2w/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/73L-opAgA2w/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1626,29 +1603,6 @@
       }
     },
     {
-      "id": "FD3aT4h9fJg",
-      "title": "What made you realize we are progressing way too fast as a society?",
-      "channel": "Requested Reads",
-      "publishedAt": "2025-06-01T08:30:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/FD3aT4h9fJg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/FD3aT4h9fJg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/FD3aT4h9fJg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "oRRIZHyfo0g",
       "title": "When Genshin Characters Swap Colors #32",
       "channel": "BranOnline",
@@ -1666,6 +1620,52 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/oRRIZHyfo0g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "PlC9HUiimw4",
+      "title": "The PROBLEM with ELDEN RING NIGHTREIGN #shorts",
+      "channel": "jacobweeby",
+      "publishedAt": "2025-06-01T01:40:30Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PlC9HUiimw4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PlC9HUiimw4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PlC9HUiimw4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "-T-fb2cRUWM",
+      "title": "Men cooking be like 💀",
+      "channel": "ibekeigh",
+      "publishedAt": "2025-06-01T04:06:02Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-T-fb2cRUWM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-T-fb2cRUWM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-T-fb2cRUWM/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1718,6 +1718,29 @@
       }
     },
     {
+      "id": "lC_ZfLPTzvc",
+      "title": "Why won’t your family talk to you?",
+      "channel": "Requested Reads",
+      "publishedAt": "2025-06-01T16:01:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lC_ZfLPTzvc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lC_ZfLPTzvc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lC_ZfLPTzvc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "5T92hUfgvHw",
       "title": "Roblox games that require the most teamwork:",
       "channel": "Willyandgaming",
@@ -1764,29 +1787,6 @@
       }
     },
     {
-      "id": "vGMTVwHmnao",
-      "title": "11時ガチャ更新待機配信【eFootballアプリ2025/イーフト】",
-      "channel": "シュート。",
-      "publishedAt": "2025-06-02T01:49:42Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/vGMTVwHmnao/default_live.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/vGMTVwHmnao/mqdefault_live.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/vGMTVwHmnao/hqdefault_live.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "HTjugYfFKz0",
       "title": "I Tried Working in a ZOMBIE Quarantine Zone ...but I Trust EVERYONE",
       "channel": "LaurenZside",
@@ -1804,29 +1804,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/HTjugYfFKz0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "FYEPcYTo6HM",
-      "title": "HELP Herobrine To Power Up Then Break Bigger And Bigger Bedrock Outlines #shorts",
-      "channel": "Mr_Sus",
-      "publishedAt": "2025-05-31T16:29:40Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/FYEPcYTo6HM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/FYEPcYTo6HM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/FYEPcYTo6HM/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1856,6 +1833,29 @@
       }
     },
     {
+      "id": "DcnQPiD-b9s",
+      "title": "Team Code Leo Thách Đấuuuu | Việt Tiger VQC",
+      "channel": "Việt Tiger ＶＱＣ",
+      "publishedAt": "2025-06-02T02:39:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DcnQPiD-b9s/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DcnQPiD-b9s/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DcnQPiD-b9s/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "f_K7eQbVaYM",
       "title": "GROW A GARDEN BOTS EXPOSED",
       "channel": "KreekCraft",
@@ -1873,6 +1873,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/f_K7eQbVaYM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "hxYJfZspUoI",
+      "title": "🤔 WHO IS THE REAL INDRA CHAN? ⛏️ #shorts",
+      "channel": "Zoomy",
+      "publishedAt": "2025-06-01T12:01:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hxYJfZspUoI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hxYJfZspUoI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hxYJfZspUoI/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1942,29 +1965,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/KDc9fK0tjL8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "VIQJZpzYnk4",
-      "title": "Nick Eh 30 BLIND RANKS icon skins 😮",
-      "channel": "Loserfruit",
-      "publishedAt": "2025-06-01T15:08:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/VIQJZpzYnk4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/VIQJZpzYnk4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/VIQJZpzYnk4/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
