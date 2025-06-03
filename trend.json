@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-03T01:38:35.626Z",
+  "updated": "2025-06-03T02:38:35.557Z",
   "trending": [
     {
       "id": "tCi6x8Zgdzw",
@@ -233,6 +233,39 @@
       }
     },
     {
+      "id": "szyPY8nbBF4",
+      "title": "Mili - TIAN TIAN [Limbus Company]",
+      "channel": "Mili",
+      "publishedAt": "2025-06-01T11:00:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/szyPY8nbBF4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/szyPY8nbBF4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/szyPY8nbBF4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/szyPY8nbBF4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/szyPY8nbBF4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
       "id": "slOsEzypyT0",
       "title": "『イカゲーム』シーズン3 予告編 - Netflix",
       "channel": "Netflix Japan",
@@ -293,39 +326,6 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/ITX9E8OXYaM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
-      "id": "szyPY8nbBF4",
-      "title": "Mili - TIAN TIAN [Limbus Company]",
-      "channel": "Mili",
-      "publishedAt": "2025-06-01T11:00:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/szyPY8nbBF4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/szyPY8nbBF4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/szyPY8nbBF4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/szyPY8nbBF4/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/szyPY8nbBF4/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -695,39 +695,6 @@
       }
     },
     {
-      "id": "Pu5Hy6vzKD0",
-      "title": "姉妹で弟が参加してる今日好き鑑賞会したら、まさかの展開すぎて全員大号泣・・・？",
-      "channel": "おさき日記",
-      "publishedAt": "2025-06-01T09:00:29Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Pu5Hy6vzKD0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Pu5Hy6vzKD0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Pu5Hy6vzKD0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/Pu5Hy6vzKD0/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/Pu5Hy6vzKD0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "tAgKTI7Pm0g",
       "title": "『俺たちの旅』50周年で映画化　懐かしのメンバー勢ぞろい「かつて若者だった3人がどうなってんのか」",
       "channel": "日テレNEWSカルチャー【公式】",
@@ -755,6 +722,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/tAgKTI7Pm0g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "Pu5Hy6vzKD0",
+      "title": "姉妹で弟が参加してる今日好き鑑賞会したら、まさかの展開すぎて全員大号泣・・・？",
+      "channel": "おさき日記",
+      "publishedAt": "2025-06-01T09:00:29Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Pu5Hy6vzKD0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Pu5Hy6vzKD0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Pu5Hy6vzKD0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Pu5Hy6vzKD0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Pu5Hy6vzKD0/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -829,29 +829,6 @@
   ],
   "music": [
     {
-      "id": "VWGuzTTMo5o",
-      "title": "Live: Maa Vaishno Devi Aarti From Bhawan | माता वैष्णो देवी आरती | 03 June 2025",
-      "channel": "Shraddha MH ONE",
-      "publishedAt": "2025-06-03T00:37:45Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/VWGuzTTMo5o/default_live.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/VWGuzTTMo5o/mqdefault_live.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/VWGuzTTMo5o/hqdefault_live.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "-IOBIE5Zvhg",
       "title": "Haqeeqat (Official Music Video): Akhil Sachdeva | Sahiba Bali | Bhushan Kumar",
       "channel": "T-Series",
@@ -869,6 +846,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/-IOBIE5Zvhg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "l_01KXjxVr4",
+      "title": "백현 (BAEKHYUN) &#39;Lemonade&#39; MV",
+      "channel": "INB100",
+      "publishedAt": "2025-06-02T11:00:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l_01KXjxVr4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l_01KXjxVr4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l_01KXjxVr4/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -915,29 +915,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/hnwg9FnF0tY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "l_01KXjxVr4",
-      "title": "백현 (BAEKHYUN) &#39;Lemonade&#39; MV",
-      "channel": "INB100",
-      "publishedAt": "2025-06-02T11:00:01Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/l_01KXjxVr4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/l_01KXjxVr4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/l_01KXjxVr4/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1053,6 +1030,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/gzU63wLp9sM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "jgbOZpLIqYM",
+      "title": "【弾いてみた(笑)】ギタリストが動画編集を出来た方がいい理由 ライラック編 #ギター #shorts",
+      "channel": "ギターで変なことしてる坂本",
+      "publishedAt": "2025-05-31T09:35:00Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jgbOZpLIqYM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jgbOZpLIqYM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jgbOZpLIqYM/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1197,6 +1197,52 @@
       }
     },
     {
+      "id": "BwUdP8V5ajk",
+      "title": "Tomar Kheyale | তোমার খেয়ালে | INSAAF | Sariful Raz &amp; Tasnia Farin | Habib Wahid | Arafat | Anupam",
+      "channel": "Anupam Movie Songs",
+      "publishedAt": "2025-06-01T13:00:29Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BwUdP8V5ajk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BwUdP8V5ajk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BwUdP8V5ajk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "eSDurX1n8gQ",
+      "title": "Siempre un gusto 😂 (Marcelo Real Madrid)",
+      "channel": "B' Rek",
+      "publishedAt": "2025-05-31T13:51:46Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eSDurX1n8gQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eSDurX1n8gQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eSDurX1n8gQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "phOqSBmuoaQ",
       "title": "Step by step*･#BOYNEXTDOOR #보이넥스트도어 #BND #성호 #SUNGHO #명재현 #JAEHYUN #Step_By_Step",
       "channel": "BOYNEXTDOOR",
@@ -1266,23 +1312,23 @@
       }
     },
     {
-      "id": "bhSJ-hVCGFc",
-      "title": "Dream Everyday! (Daydream Critters Theme Song) | Poppy Playtime: Chapter 4",
-      "channel": "Cougar macdowall Va",
-      "publishedAt": "2025-05-31T18:30:07Z",
+      "id": "ywiktcfTJMQ",
+      "title": "레전드 한 손 드러머의 리듬 수업.. 선생님 진도가 너무 빨라요.. #drums #elestepariosiberiano #reaction",
+      "channel": "오!연하 Oh!yeonha",
+      "publishedAt": "2025-05-31T12:32:08Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/bhSJ-hVCGFc/default.jpg",
+          "url": "https://i.ytimg.com/vi/ywiktcfTJMQ/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/bhSJ-hVCGFc/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ywiktcfTJMQ/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/bhSJ-hVCGFc/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ywiktcfTJMQ/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1318,17 +1364,17 @@
       "publishedAt": "2025-06-03T01:00:05Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/jswhVlhWzlc/default_live.jpg",
+          "url": "https://i.ytimg.com/vi/jswhVlhWzlc/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/jswhVlhWzlc/mqdefault_live.jpg",
+          "url": "https://i.ytimg.com/vi/jswhVlhWzlc/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/jswhVlhWzlc/hqdefault_live.jpg",
+          "url": "https://i.ytimg.com/vi/jswhVlhWzlc/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1352,52 +1398,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/-7b9vWRGtsU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "2XGnrspmn6c",
-      "title": "Pahina (Live at The Cozy Cove) - Cup of Joe",
-      "channel": "Nine Degrees North",
-      "publishedAt": "2025-06-02T11:00:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/2XGnrspmn6c/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/2XGnrspmn6c/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/2XGnrspmn6c/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "tmX6kmVkRCg",
-      "title": "Tyla - Bliss (Official Music Video)",
-      "channel": "TylaVEVO",
-      "publishedAt": "2025-06-02T13:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/tmX6kmVkRCg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/tmX6kmVkRCg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/tmX6kmVkRCg/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1492,6 +1492,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/a5-SZIFAlTM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "3UjoD1QJVPs",
+      "title": "what makes &quot;adorkable&quot; characters work? #disney #princess #opinion",
+      "channel": "Bacon Guy",
+      "publishedAt": "2025-06-02T13:00:05Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3UjoD1QJVPs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3UjoD1QJVPs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3UjoD1QJVPs/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1682,23 +1705,23 @@
       }
     },
     {
-      "id": "8zsXinsMbXM",
-      "title": "This isn&#39;t Minecraft",
-      "channel": "Boffy",
-      "publishedAt": "2025-06-02T12:00:16Z",
+      "id": "YDG1Z7sY-FU",
+      "title": "Special Tank Suspensions 2",
+      "channel": "Zenturion7",
+      "publishedAt": "2025-06-02T12:02:09Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/8zsXinsMbXM/default.jpg",
+          "url": "https://i.ytimg.com/vi/YDG1Z7sY-FU/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/8zsXinsMbXM/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YDG1Z7sY-FU/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/8zsXinsMbXM/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YDG1Z7sY-FU/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1843,46 +1866,23 @@
       }
     },
     {
-      "id": "iu3VeUOfSL8",
-      "title": "I SPENT ALL MY STEPS! (😱 NO ONE BELIEVED WHAT HE DID AT THE END) ⛏️ #shorts",
-      "channel": "Zoomy",
-      "publishedAt": "2025-06-01T22:00:46Z",
+      "id": "icNKDs5EkhY",
+      "title": "Don’t Pop The Red Balloon In This Game! #boardgames #gamenight #couple #fun",
+      "channel": "Games4two",
+      "publishedAt": "2025-06-02T01:48:26Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/iu3VeUOfSL8/default.jpg",
+          "url": "https://i.ytimg.com/vi/icNKDs5EkhY/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/iu3VeUOfSL8/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/icNKDs5EkhY/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/iu3VeUOfSL8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "C2S5zVbXr_E",
-      "title": "It FINALLY Happened.. 😭",
-      "channel": "CouRage",
-      "publishedAt": "2025-06-01T17:40:13Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/C2S5zVbXr_E/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/C2S5zVbXr_E/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/C2S5zVbXr_E/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/icNKDs5EkhY/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1912,52 +1912,6 @@
       }
     },
     {
-      "id": "J_SsB1Ai5Vw",
-      "title": "World No.1 Magnus Carlsen&#39;s BLUNDER Against World Champion Gukesh",
-      "channel": "chess24",
-      "publishedAt": "2025-06-01T22:29:50Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/J_SsB1Ai5Vw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/J_SsB1Ai5Vw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/J_SsB1Ai5Vw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "9PW87jN9PTA",
-      "title": "FREE FLOWER SEED PACKS in Roblox Grow a Garden..",
-      "channel": "RFG",
-      "publishedAt": "2025-06-01T21:58:29Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/9PW87jN9PTA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/9PW87jN9PTA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/9PW87jN9PTA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "EBMyiek-u_o",
       "title": "Child Emperor is RICH... #thestrongestbattlegrounds",
       "channel": "Natezo",
@@ -1975,6 +1929,52 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/EBMyiek-u_o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "u7mknvjcxP0",
+      "title": "Technoblade&#39;s Spectacular 20 Million Substravaganza (contains swearing) #techno20mil",
+      "channel": "Technoblade",
+      "publishedAt": "2025-06-01T16:00:11Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/u7mknvjcxP0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/u7mknvjcxP0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/u7mknvjcxP0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "vOEOghnfi-4",
+      "title": "JJ Sister or the Man – Who Truly Owns the Crown?",
+      "channel": "Haha Animations - Minecraft Monster School",
+      "publishedAt": "2025-06-02T10:01:29Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vOEOghnfi-4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vOEOghnfi-4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vOEOghnfi-4/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
