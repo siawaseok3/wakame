@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-07T22:38:36.254Z",
+  "updated": "2025-06-07T23:38:34.945Z",
   "trending": [
     {
       "id": "6LRGJqK96ZM",
@@ -829,6 +829,29 @@
   ],
   "music": [
     {
+      "id": "dNlZ2NO5vg8",
+      "title": "The Perfect Marble Divider just got Better",
+      "channel": "Wintergatan",
+      "publishedAt": "2025-06-06T14:01:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dNlZ2NO5vg8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dNlZ2NO5vg8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dNlZ2NO5vg8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "jlOgjHOBFww",
       "title": "努力 未来 a beautiful star【町田ちま】 #varkshorts",
       "channel": "町田ちま【にじさんじ】",
@@ -852,23 +875,23 @@
       }
     },
     {
-      "id": "Uglsm7efuzw",
-      "title": "Raanjhan - 8K Video | Do Patti | Kriti Sanon, Shaheer Sheikh | Parampara Tandon | Sachet-Parampara",
-      "channel": "T-Series",
-      "publishedAt": "2025-06-07T05:32:24Z",
+      "id": "-kR9cUu1J9M",
+      "title": "عيد أضحى مبارك من سمرا!🥰🌹🌙",
+      "channel": "Talia Lahoud",
+      "publishedAt": "2025-06-06T17:32:03Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Uglsm7efuzw/default.jpg",
+          "url": "https://i.ytimg.com/vi/-kR9cUu1J9M/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Uglsm7efuzw/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-kR9cUu1J9M/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Uglsm7efuzw/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-kR9cUu1J9M/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -898,23 +921,69 @@
       }
     },
     {
-      "id": "JZWuKQFprSQ",
-      "title": "Ozuna - SIRENITA (Video Oficial)",
-      "channel": "Ozuna",
-      "publishedAt": "2025-06-05T20:44:14Z",
+      "id": "zb-iRlaUbYc",
+      "title": "ENHYPEN(엔하이픈) - Bad Desire (With or Without You) [더 시즌즈-박보검의 칸타빌레] | KBS 250606 방송",
+      "channel": "KBS Kpop",
+      "publishedAt": "2025-06-06T16:42:02Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/JZWuKQFprSQ/default.jpg",
+          "url": "https://i.ytimg.com/vi/zb-iRlaUbYc/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/JZWuKQFprSQ/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/zb-iRlaUbYc/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/JZWuKQFprSQ/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/zb-iRlaUbYc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "WeQrCMwD5-E",
+      "title": "Marshmello, Ellie Goulding, AVAION - Save My Love (Official Visualizer)",
+      "channel": "MarshmelloVEVO",
+      "publishedAt": "2025-06-06T04:00:40Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WeQrCMwD5-E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WeQrCMwD5-E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WeQrCMwD5-E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "Uglsm7efuzw",
+      "title": "Raanjhan - 8K Video | Do Patti | Kriti Sanon, Shaheer Sheikh | Parampara Tandon | Sachet-Parampara",
+      "channel": "T-Series",
+      "publishedAt": "2025-06-07T05:32:24Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Uglsm7efuzw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Uglsm7efuzw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Uglsm7efuzw/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1151,23 +1220,23 @@
       }
     },
     {
-      "id": "9ne1PDknJXE",
-      "title": "Jaipur Ki Jutti | Shiva Choudhary | Parry Mounn | Shweta Mahara | Latest Haryanvi Songs",
-      "channel": "Times Music Haryanvi",
-      "publishedAt": "2025-06-06T04:33:25Z",
+      "id": "IWZoChJI5bc",
+      "title": "Elvis Crespo, Arcangel | Cora Roto (Video Oficial)",
+      "channel": "Elvis Crespo",
+      "publishedAt": "2025-06-06T01:00:07Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/9ne1PDknJXE/default.jpg",
+          "url": "https://i.ytimg.com/vi/IWZoChJI5bc/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/9ne1PDknJXE/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/IWZoChJI5bc/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/9ne1PDknJXE/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/IWZoChJI5bc/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1220,29 +1289,6 @@
       }
     },
     {
-      "id": "hUX1DfHZnm0",
-      "title": "Elvana Gjata - Knojna (Official Music Video)",
-      "channel": "Elvana Gjata",
-      "publishedAt": "2025-06-06T16:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/hUX1DfHZnm0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/hUX1DfHZnm0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/hUX1DfHZnm0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "8zHWTsdnC7A",
       "title": "The Weeknd - Baptized In Fear (Official Music Video)",
       "channel": "TheWeekndVEVO",
@@ -1283,29 +1329,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/oFwUiMAF1WM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "PjqBUM4AP9A",
-      "title": "Skippa - Jr Gong (Official Music Video)",
-      "channel": "Skippa",
-      "publishedAt": "2025-06-06T22:34:43Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/PjqBUM4AP9A/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/PjqBUM4AP9A/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/PjqBUM4AP9A/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1379,29 +1402,6 @@
           "height": 360
         }
       }
-    },
-    {
-      "id": "9eQ2kY-AAQc",
-      "title": "Phương Mỹ Chi x DTAP - Rock Hạt Gạo | Live Performance | Sing!Asia",
-      "channel": "Phương Mỹ Chi",
-      "publishedAt": "2025-06-07T07:32:20Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/9eQ2kY-AAQc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/9eQ2kY-AAQc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/9eQ2kY-AAQc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
     }
   ],
   "gaming": [
@@ -1429,29 +1429,6 @@
       }
     },
     {
-      "id": "M0GCr2P9510",
-      "title": "Dying Light: The Beast - Gameplay Premiere Trailer | Summer Game Fest 2025",
-      "channel": "Dying Light",
-      "publishedAt": "2025-06-06T22:09:41Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/M0GCr2P9510/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/M0GCr2P9510/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/M0GCr2P9510/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "HxWAZQ0iSqM",
       "title": "New Fortnite Live Event Gameplay!",
       "channel": "Nick Eh 30 Shorts",
@@ -1469,6 +1446,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/HxWAZQ0iSqM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "219vW0b-1aY",
+      "title": "Chronicles: Medieval - Official Announcement Trailer | Summer Game Fest 2025",
+      "channel": "IGN",
+      "publishedAt": "2025-06-06T21:21:26Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/219vW0b-1aY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/219vW0b-1aY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/219vW0b-1aY/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1515,29 +1515,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/TrxJn962-94/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "ZBPi85S2MmA",
-      "title": "ILL - Official Trailer I SGF25",
-      "channel": "Mundfish #AtomicHeart",
-      "publishedAt": "2025-06-06T22:36:19Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ZBPi85S2MmA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ZBPi85S2MmA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ZBPi85S2MmA/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1636,46 +1613,23 @@
       }
     },
     {
-      "id": "H8MOiJ74g2o",
-      "title": "Scott Pilgrim EX - Announcement Trailer | Summer Game Fest 2025",
-      "channel": "IGN",
-      "publishedAt": "2025-06-06T22:28:34Z",
+      "id": "nTu1irAMKSA",
+      "title": "Looking Back At MEGA Pokemon..!",
+      "channel": "Newsteevie",
+      "publishedAt": "2025-06-06T16:01:19Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/H8MOiJ74g2o/default.jpg",
+          "url": "https://i.ytimg.com/vi/nTu1irAMKSA/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/H8MOiJ74g2o/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/nTu1irAMKSA/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/H8MOiJ74g2o/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "E5JWw6cC_6s",
-      "title": "This Mario Kart World Shortcut is UNREAL! #shorts",
-      "channel": "JPGiviner",
-      "publishedAt": "2025-06-06T17:18:35Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/E5JWw6cC_6s/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/E5JWw6cC_6s/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/E5JWw6cC_6s/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/nTu1irAMKSA/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1774,29 +1728,6 @@
       }
     },
     {
-      "id": "-MjltZKc86I",
-      "title": "Everything That Happened in The Last 7 Days 🤔",
-      "channel": "hxsain",
-      "publishedAt": "2025-06-06T21:39:30Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/-MjltZKc86I/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/-MjltZKc86I/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/-MjltZKc86I/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "kyJwjmoqUVA",
       "title": "The Best “First Time Builder” PC I’ve Ever Seen 🤯",
       "channel": "Zach's Tech Turf",
@@ -1814,29 +1745,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/kyJwjmoqUVA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "QBgDQscLgV4",
-      "title": "I ruined my daughter’s childhood.",
-      "channel": "Requested Reads",
-      "publishedAt": "2025-06-06T16:00:44Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/QBgDQscLgV4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/QBgDQscLgV4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/QBgDQscLgV4/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1912,23 +1820,23 @@
       }
     },
     {
-      "id": "wMADTp7z6LU",
-      "title": "The Types of Grow a Garden Players 2",
-      "channel": "Vindooly",
-      "publishedAt": "2025-06-06T18:31:15Z",
+      "id": "mT0d-A24xK8",
+      "title": "Sonic Racing: CrossWorlds - Official Hatsune Miku, Joker &amp; More Trailer | Summer Game Fest 2025",
+      "channel": "IGN",
+      "publishedAt": "2025-06-06T21:27:08Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/wMADTp7z6LU/default.jpg",
+          "url": "https://i.ytimg.com/vi/mT0d-A24xK8/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/wMADTp7z6LU/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/mT0d-A24xK8/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/wMADTp7z6LU/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/mT0d-A24xK8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1975,6 +1883,98 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/d_mqdlDyjAg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "8kciTA-zcYI",
+      "title": "Italian Brainrot Extinction vs Massive Spikes 😔🦈🐊",
+      "channel": "Chief Brioso",
+      "publishedAt": "2025-06-06T21:36:38Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8kciTA-zcYI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8kciTA-zcYI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8kciTA-zcYI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "vjH1m9fTNTU",
+      "title": "🔴LIVE! - FORTNITE *SEASON 3* UPDATE LIVE NOW!",
+      "channel": "Typical Gamer",
+      "publishedAt": "2025-06-07T15:07:37Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vjH1m9fTNTU/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vjH1m9fTNTU/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vjH1m9fTNTU/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "XD9Sj3ziqk0",
+      "title": "What family tradition did you realize was actually illegal?",
+      "channel": "Requested Reads",
+      "publishedAt": "2025-06-07T03:00:39Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XD9Sj3ziqk0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XD9Sj3ziqk0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XD9Sj3ziqk0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "fnCJZ_oQ4aE",
+      "title": "ROBLOX FINAL DESTINATION...",
+      "channel": "Flush",
+      "publishedAt": "2025-06-06T11:01:21Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fnCJZ_oQ4aE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fnCJZ_oQ4aE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fnCJZ_oQ4aE/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
