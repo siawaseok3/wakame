@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-10T01:38:34.998Z",
+  "updated": "2025-06-10T02:38:35.155Z",
   "trending": [
     {
       "id": "QdzOM2j-oqs",
@@ -332,39 +332,6 @@
       }
     },
     {
-      "id": "-PJLEIHZKBM",
-      "title": "【木村さ〜〜ん！】はじめてシリーズ 木村拓哉「丸亀製麺」へ行く！",
-      "channel": "木村拓哉",
-      "publishedAt": "2025-06-07T13:00:01Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/-PJLEIHZKBM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/-PJLEIHZKBM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/-PJLEIHZKBM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/-PJLEIHZKBM/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/-PJLEIHZKBM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "u5tZmM6qWIQ",
       "title": "【超速報】中谷潤人vs西田凌佑は壮絶な打ち合いに....那須川天心は判定勝利で世界初挑戦へ！",
       "channel": "竹原テレビ",
@@ -392,6 +359,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/u5tZmM6qWIQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "-PJLEIHZKBM",
+      "title": "【木村さ〜〜ん！】はじめてシリーズ 木村拓哉「丸亀製麺」へ行く！",
+      "channel": "木村拓哉",
+      "publishedAt": "2025-06-07T13:00:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-PJLEIHZKBM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-PJLEIHZKBM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-PJLEIHZKBM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-PJLEIHZKBM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-PJLEIHZKBM/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -829,29 +829,6 @@
   ],
   "music": [
     {
-      "id": "0w1wahS1ahA",
-      "title": "Live: Maa Vaishno Devi Aarti From Bhawan | माता वैष्णो देवी आरती | 10 June 2025",
-      "channel": "Shraddha MH ONE",
-      "publishedAt": "2025-06-10T00:39:09Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/0w1wahS1ahA/default_live.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/0w1wahS1ahA/mqdefault_live.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/0w1wahS1ahA/hqdefault_live.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "-A5ybOzNVJI",
       "title": "妹は一個ちょうだいどこまで許せる？www #テトリス #弾き語り #あるある #だだだいご",
       "channel": "打田だいご(だだだいご)",
@@ -869,6 +846,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/-A5ybOzNVJI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "dNlZ2NO5vg8",
+      "title": "The Perfect Marble Divider just got Better",
+      "channel": "Wintergatan",
+      "publishedAt": "2025-06-06T14:01:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dNlZ2NO5vg8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dNlZ2NO5vg8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dNlZ2NO5vg8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1013,29 +1013,6 @@
       }
     },
     {
-      "id": "MO37-1KgcI4",
-      "title": "Gustavo Mioto - Princesa feat. @anacastelaoficial (Atemporal)",
-      "channel": "Gustavo Mioto",
-      "publishedAt": "2025-06-06T13:57:35Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/MO37-1KgcI4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/MO37-1KgcI4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/MO37-1KgcI4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "5480FEfTHLs",
       "title": "Wadih El Cheikh - Men Yom (Official Lyric Video) | وديع الشيخ - من يوم",
       "channel": "Wadih El Cheikh",
@@ -1128,29 +1105,6 @@
       }
     },
     {
-      "id": "dNlZ2NO5vg8",
-      "title": "The Perfect Marble Divider just got Better",
-      "channel": "Wintergatan",
-      "publishedAt": "2025-06-06T14:01:04Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/dNlZ2NO5vg8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/dNlZ2NO5vg8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/dNlZ2NO5vg8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "bWlknrhWjVw",
       "title": "幾田りら「恋風」 Official Music Video",
       "channel": "幾田りら Official",
@@ -1191,6 +1145,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/Ebuw1mC5FiY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "0w1wahS1ahA",
+      "title": "Live: Maa Vaishno Devi Aarti From Bhawan | माता वैष्णो देवी आरती | 10 June 2025",
+      "channel": "Shraddha MH ONE",
+      "publishedAt": "2025-06-10T00:39:09Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0w1wahS1ahA/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0w1wahS1ahA/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0w1wahS1ahA/hqdefault_live.jpg",
           "width": 480,
           "height": 360
         }
@@ -1312,29 +1289,6 @@
       }
     },
     {
-      "id": "j74pFs8qPsw",
-      "title": "RUN - Châu Bùi, Ánh Sáng AZA, 52Hz, Yeolan, LyHan | Em Xinh Say Hi [Performance]",
-      "channel": "Vie Channel - MUSIC",
-      "publishedAt": "2025-06-08T03:01:00Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/j74pFs8qPsw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/j74pFs8qPsw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/j74pFs8qPsw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "ZyWdjbNs3h4",
       "title": "Tu Mora Khali Mora | Official Full Video | Rupa Pintu | Ira Mohanty , Human Sagar | Odia Song | GMJ",
       "channel": "GMJ - Global Music Junction - Odia",
@@ -1358,23 +1312,23 @@
       }
     },
     {
-      "id": "WAuC0EN3teg",
-      "title": "Subscribe for more inspiring content! #humour #technology #engineering",
-      "channel": "Maryna Aksenov",
-      "publishedAt": "2025-06-07T21:33:31Z",
+      "id": "p-qbT9crDSU",
+      "title": "if you skip this prayer, i’m sorry❤️ #god #jesus #prayer",
+      "channel": "Mike Malagies",
+      "publishedAt": "2025-06-09T02:15:24Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/WAuC0EN3teg/default.jpg",
+          "url": "https://i.ytimg.com/vi/p-qbT9crDSU/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/WAuC0EN3teg/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/p-qbT9crDSU/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/WAuC0EN3teg/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/p-qbT9crDSU/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1398,6 +1352,52 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/-eRpGMooYb0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "oBf_qSULHMs",
+      "title": "Everyone please welcome Swim Shady to pool time #PoolTime #SwimmingDog #FishToy",
+      "channel": "Adria and Oatmeal",
+      "publishedAt": "2025-06-07T14:01:21Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oBf_qSULHMs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oBf_qSULHMs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oBf_qSULHMs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "3dXnPemJGls",
+      "title": "Ja Rule Still Mad About 50 Cent’s Ticket Fun😳",
+      "channel": "Classic Rap Shorts",
+      "publishedAt": "2025-06-07T17:01:29Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3dXnPemJGls/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3dXnPemJGls/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3dXnPemJGls/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1475,29 +1475,6 @@
       }
     },
     {
-      "id": "vx8cUpL40Kc",
-      "title": "Gears of War: Reloaded - Official Trailer | PS5 Games",
-      "channel": "PlayStation",
-      "publishedAt": "2025-06-08T19:00:47Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/vx8cUpL40Kc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/vx8cUpL40Kc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/vx8cUpL40Kc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "aTU8mSRE8tE",
       "title": "Fortnite Pro&#39;s Are DROPPING This Mythic Item.",
       "channel": "Aid",
@@ -1515,6 +1492,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/aTU8mSRE8tE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "L-qZiMPsNz0",
+      "title": "Beast of Reincarnation - Reveal Trailer | Xbox Games Showcase 2025",
+      "channel": "Xbox",
+      "publishedAt": "2025-06-08T17:19:50Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L-qZiMPsNz0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L-qZiMPsNz0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L-qZiMPsNz0/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1613,46 +1613,23 @@
       }
     },
     {
-      "id": "kGO0VHviKR8",
-      "title": "No quiero ni pensarlo… 💔😢 #cristiano #cr7 #nationsleague #ronaldo #españa #footballfans #siuuuuu",
-      "channel": "Jose Cobo",
-      "publishedAt": "2025-06-08T19:17:20Z",
+      "id": "cA3uOYgAPgo",
+      "title": "ROG XBOX ALLY ANNOUNCED #shorts",
+      "channel": "jacobweeby",
+      "publishedAt": "2025-06-09T00:52:20Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/kGO0VHviKR8/default.jpg",
+          "url": "https://i.ytimg.com/vi/cA3uOYgAPgo/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/kGO0VHviKR8/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/cA3uOYgAPgo/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/kGO0VHviKR8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "Q44Ut-_yisI",
-      "title": "TRICKING people for diamonds.",
-      "channel": "gerg",
-      "publishedAt": "2025-06-08T17:58:41Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Q44Ut-_yisI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Q44Ut-_yisI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Q44Ut-_yisI/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/cA3uOYgAPgo/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1682,29 +1659,6 @@
       }
     },
     {
-      "id": "DmF-LO71GeI",
-      "title": "Grounded 2 - Full Direct | Xbox Games Showcase 2025",
-      "channel": "IGN",
-      "publishedAt": "2025-06-08T19:44:09Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/DmF-LO71GeI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/DmF-LO71GeI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/DmF-LO71GeI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "YCYf66zpiq0",
       "title": "&quot;no dancing&quot; easter egg in Fortnite",
       "channel": "Nick Eh 30 Shorts",
@@ -1722,6 +1676,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/YCYf66zpiq0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "SOKm9dDOSC8",
+      "title": "Inside: ROG Xbox Ally - Behind The Scenes Feature",
+      "channel": "Xbox",
+      "publishedAt": "2025-06-08T19:00:33Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SOKm9dDOSC8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SOKm9dDOSC8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SOKm9dDOSC8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1797,29 +1774,6 @@
       }
     },
     {
-      "id": "MJuatHZn-3I",
-      "title": "I spend most of my time training in the Abyss #GenshinImpact5ꓸ7 #Skirk #FightLikeSkirk",
-      "channel": "Genshin Impact",
-      "publishedAt": "2025-06-09T04:05:00Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/MJuatHZn-3I/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/MJuatHZn-3I/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/MJuatHZn-3I/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "TIkBtcQ4le8",
       "title": "DrDonut had NO CHANCE versus this insane TRAP 😭😭😭 #minecraft #gaming",
       "channel": "JudeLow",
@@ -1837,29 +1791,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/TIkBtcQ4le8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "2jQuGvShi6M",
-      "title": "I&#39;d Delete The Game After This",
-      "channel": "Daily Dose of Gaming",
-      "publishedAt": "2025-06-08T21:00:03Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/2jQuGvShi6M/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/2jQuGvShi6M/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/2jQuGvShi6M/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1975,6 +1906,75 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/q2CZ4UTiTXw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "w_073S0pXFo",
+      "title": "Justice comes in many forms 🗿🦇",
+      "channel": "HecticSherlock Gaming",
+      "publishedAt": "2025-06-09T02:08:40Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/w_073S0pXFo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/w_073S0pXFo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/w_073S0pXFo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "LkPJEpBK7Yo",
+      "title": "Border Czar&#39;s Last Warning to Rioters",
+      "channel": "Asmongold TV  ",
+      "publishedAt": "2025-06-09T03:00:33Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LkPJEpBK7Yo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LkPJEpBK7Yo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LkPJEpBK7Yo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "eLjao9Jz5ag",
+      "title": "How to Dodge a Blue Shell *OR* Lightning? | Mario Kart World",
+      "channel": "TWD98",
+      "publishedAt": "2025-06-08T21:27:45Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eLjao9Jz5ag/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eLjao9Jz5ag/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eLjao9Jz5ag/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
