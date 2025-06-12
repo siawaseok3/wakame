@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-12T08:38:35.308Z",
+  "updated": "2025-06-12T09:38:35.968Z",
   "trending": [
     {
       "id": "W1Z3niPY2rA",
@@ -200,39 +200,6 @@
       }
     },
     {
-      "id": "hJ-tlcT1_UU",
-      "title": "【大谷翔平6月10日現地速報】ダルビッシュが見守る中、圧巻6奪三振 ライブBP全44球 全部見せます！",
-      "channel": "スポニチチャンネル",
-      "publishedAt": "2025-06-11T05:44:56Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/hJ-tlcT1_UU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/hJ-tlcT1_UU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/hJ-tlcT1_UU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/hJ-tlcT1_UU/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/hJ-tlcT1_UU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "CmLXMa2DVVE",
       "title": "小さな恋のうた / MONGOL800 Covered by 2時だとか",
       "channel": "渡会雲雀 / Watarai Hibari",
@@ -260,6 +227,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/CmLXMa2DVVE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "hJ-tlcT1_UU",
+      "title": "【大谷翔平6月10日現地速報】ダルビッシュが見守る中、圧巻6奪三振 ライブBP全44球 全部見せます！",
+      "channel": "スポニチチャンネル",
+      "publishedAt": "2025-06-11T05:44:56Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hJ-tlcT1_UU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hJ-tlcT1_UU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hJ-tlcT1_UU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hJ-tlcT1_UU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hJ-tlcT1_UU/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -761,39 +761,6 @@
       }
     },
     {
-      "id": "lCHwEde160I",
-      "title": "【サッカー/W杯アジア最終予選】インドネシア×日本 ハイライト  3分で全6ゴール見せ！",
-      "channel": "テレビ朝日スポーツ【公式】",
-      "publishedAt": "2025-06-10T14:36:29Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/lCHwEde160I/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/lCHwEde160I/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/lCHwEde160I/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/lCHwEde160I/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/lCHwEde160I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "1nbBfdhndP0",
       "title": "【波乱】小食いが大食いで勝てる方法がこれだ！！下剋上大食いで大番狂せ！！",
       "channel": "東海オンエア",
@@ -821,6 +788,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/1nbBfdhndP0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "lCHwEde160I",
+      "title": "【サッカー/W杯アジア最終予選】インドネシア×日本 ハイライト  3分で全6ゴール見せ！",
+      "channel": "テレビ朝日スポーツ【公式】",
+      "publishedAt": "2025-06-10T14:36:29Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lCHwEde160I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lCHwEde160I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lCHwEde160I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lCHwEde160I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lCHwEde160I/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -921,6 +921,29 @@
       }
     },
     {
+      "id": "VTWXm3ySCtg",
+      "title": "POPCORN duet singing challenge! 🍿🎤 (can you follow along?) | Gabriella Triple Charm #shorts",
+      "channel": "Gabriella Triple Charm",
+      "publishedAt": "2025-06-07T23:36:33Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VTWXm3ySCtg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VTWXm3ySCtg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VTWXm3ySCtg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "8Jyyo31UIHo",
       "title": "Mohamed Mounir - Malamehna | Lyrics Video 2025 | محمد منير - ملامحنا",
       "channel": "Rotana",
@@ -967,69 +990,92 @@
       }
     },
     {
-      "id": "ky-NecQ3grY",
-      "title": "Stray Kids『Hollow』MV Shorts 1 #StrayKids#スキズ#スキズ_3rd_Mini#JAPAN_3rd_Mini_Album#SKZ_Hollow",
-      "channel": "Stray Kids Japan Official YouTube",
-      "publishedAt": "2025-06-11T12:00:08Z",
+      "id": "-7bf6hm0MTY",
+      "title": "Haridwar Me Khatola : MASOOM SHARMA | Amar Karnawal, Vikash Rajana | New Haryanvi Song 2025",
+      "channel": "Tuffan Music",
+      "publishedAt": "2025-06-11T03:30:07Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/ky-NecQ3grY/default.jpg",
+          "url": "https://i.ytimg.com/vi/-7bf6hm0MTY/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/ky-NecQ3grY/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-7bf6hm0MTY/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/ky-NecQ3grY/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-7bf6hm0MTY/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       }
     },
     {
-      "id": "U4k3opPyjpo",
-      "title": "ATEEZ(에이티즈) - &#39;Lemon Drop&#39; Official MV Teaser 1",
-      "channel": "KQ ENTERTAINMENT",
-      "publishedAt": "2025-06-11T04:00:00Z",
+      "id": "azbHVPFOorA",
+      "title": "Hans Zimmer on Brian Wilson’s “God Only Knows” #brianwilson #perfectsong #song #shorts ￼",
+      "channel": "Rick Beato",
+      "publishedAt": "2025-06-11T20:53:36Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/U4k3opPyjpo/default.jpg",
+          "url": "https://i.ytimg.com/vi/azbHVPFOorA/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/U4k3opPyjpo/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/azbHVPFOorA/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/U4k3opPyjpo/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/azbHVPFOorA/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       }
     },
     {
-      "id": "Q8zldmK6iAM",
-      "title": "Pottala Muttaye ❤️🎶 #ThalaivanThalaivii #VijaySethupathi #Nithyamenen #SanthoshNarayanan",
-      "channel": "Think Music India",
-      "publishedAt": "2025-06-10T06:42:45Z",
+      "id": "nTxTTZ0QLrI",
+      "title": "櫻坂46『Make or Break』MUSIC VIDEO",
+      "channel": "櫻坂46 OFFICIAL YouTube CHANNEL",
+      "publishedAt": "2025-06-10T13:00:07Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Q8zldmK6iAM/default.jpg",
+          "url": "https://i.ytimg.com/vi/nTxTTZ0QLrI/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Q8zldmK6iAM/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/nTxTTZ0QLrI/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Q8zldmK6iAM/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/nTxTTZ0QLrI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "4TylmMQbk0I",
+      "title": "This giant pufferfish needed our help!",
+      "channel": "Teddy Gen AI",
+      "publishedAt": "2025-06-11T05:04:39Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4TylmMQbk0I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4TylmMQbk0I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4TylmMQbk0I/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1082,46 +1128,23 @@
       }
     },
     {
-      "id": "lLKNfh66iok",
-      "title": "DJ PM &amp; DJ DAGZ ft. ERA ISTREFI - PERUANA",
-      "channel": "PM to the DAGZ ",
-      "publishedAt": "2025-06-11T16:00:06Z",
+      "id": "OnJhi8RtOa0",
+      "title": "Katy Perry got DIVORCED by TEXT MESSAGE 😲",
+      "channel": "Katy Perry's Place",
+      "publishedAt": "2025-06-10T23:04:01Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/lLKNfh66iok/default.jpg",
+          "url": "https://i.ytimg.com/vi/OnJhi8RtOa0/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/lLKNfh66iok/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/OnJhi8RtOa0/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/lLKNfh66iok/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "wnwzL3AJ4Ps",
-      "title": "보고싶어",
-      "channel": "최GO",
-      "publishedAt": "2025-06-11T02:08:39Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/wnwzL3AJ4Ps/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/wnwzL3AJ4Ps/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/wnwzL3AJ4Ps/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/OnJhi8RtOa0/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1197,29 +1220,6 @@
       }
     },
     {
-      "id": "nBJKvejXfbk",
-      "title": "Oumaima Taleb FT. Fahad Al Kubaisi- Aldhel3 Al3awaj 2025 أميمة طالب وفهد الكبيسي - الضلع العوج",
-      "channel": "Rotana",
-      "publishedAt": "2025-06-10T14:00:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/nBJKvejXfbk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/nBJKvejXfbk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/nBJKvejXfbk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "SivLRE0ez2w",
       "title": "CAPTAIN BOY - AI LỚN CŨNG PHẢI | ANIMATION MV",
       "channel": "CAPTAIN BOY Official",
@@ -1243,23 +1243,23 @@
       }
     },
     {
-      "id": "rNiNHoD3LCY",
-      "title": "【#ジェシー】15th Single「BOYZ」ソロダンス #SixTONES_BOYZ #SixTONES #Shorts",
-      "channel": "SixTONES",
-      "publishedAt": "2025-06-11T09:01:17Z",
+      "id": "WJ9lCpXX4-A",
+      "title": "sweet tooth twins🍰🍪 #StrayKids #스트레이키즈 #한 #HAN #필릭스 #Felix #YouMakeStrayKidsStay",
+      "channel": "Stray Kids",
+      "publishedAt": "2025-06-10T13:00:20Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/rNiNHoD3LCY/default.jpg",
+          "url": "https://i.ytimg.com/vi/WJ9lCpXX4-A/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/rNiNHoD3LCY/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/WJ9lCpXX4-A/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/rNiNHoD3LCY/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/WJ9lCpXX4-A/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1289,29 +1289,6 @@
       }
     },
     {
-      "id": "-WwQt8MUNBA",
-      "title": "Mr.Children「声」from 『miss you LIVE』",
-      "channel": "Mr.Children Official Channel",
-      "publishedAt": "2025-06-11T08:00:01Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/-WwQt8MUNBA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/-WwQt8MUNBA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/-WwQt8MUNBA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "c6Mm2E5uFiw",
       "title": "#Video | Nagin Wala Dance | #Neelkamal Singh | नागिन वाला डांस | #नीलकमल सिंह | Bhojpuri hit Song",
       "channel": "T-Series Hamaar Bhojpuri",
@@ -1335,23 +1312,23 @@
       }
     },
     {
-      "id": "388n0aEsUXc",
-      "title": "Hat Tau Pachhe - Aamin Barodi | New Haryanvi Video Song 2025 | T-Series Haryanvi",
-      "channel": "T-SERIES HARYANVI",
-      "publishedAt": "2025-06-10T05:27:18Z",
+      "id": "2jNVxfmegoY",
+      "title": "Hari Putra - Zapin Hati Melayang | Official Music Video",
+      "channel": "3D Entertainment",
+      "publishedAt": "2025-06-11T09:00:07Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/388n0aEsUXc/default.jpg",
+          "url": "https://i.ytimg.com/vi/2jNVxfmegoY/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/388n0aEsUXc/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2jNVxfmegoY/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/388n0aEsUXc/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2jNVxfmegoY/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1402,32 +1379,32 @@
           "height": 360
         }
       }
-    }
-  ],
-  "gaming": [
+    },
     {
-      "id": "xOJMQcBnwFc",
-      "title": "Chrono Odyssey: 17-Minute Gameplay Walkthrough",
-      "channel": "IGN",
-      "publishedAt": "2025-06-11T14:01:25Z",
+      "id": "RFs6Gdj-738",
+      "title": "どうせ私ばっかでしょ😏💞 #LE_SSERAFIM #르세라핌 #KIMCHAEWON #김채원 #KAZUHA #카즈하 #shorts",
+      "channel": "LE SSERAFIM",
+      "publishedAt": "2025-06-10T09:00:14Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/xOJMQcBnwFc/default.jpg",
+          "url": "https://i.ytimg.com/vi/RFs6Gdj-738/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/xOJMQcBnwFc/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/RFs6Gdj-738/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/xOJMQcBnwFc/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/RFs6Gdj-738/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       }
-    },
+    }
+  ],
+  "gaming": [
     {
       "id": "F79oEkMXElU",
       "title": "Death Stranding 2: On The Beach - Official &#39;Explore. Connect. Survive.&#39; Trailer",
@@ -1446,6 +1423,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/F79oEkMXElU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "90gpqJE-tLU",
+      "title": "Death Stranding 2: On The Beach - Explore. Connect. Survive. | PS5 Games",
+      "channel": "PlayStation",
+      "publishedAt": "2025-06-11T12:00:22Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/90gpqJE-tLU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/90gpqJE-tLU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/90gpqJE-tLU/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1475,23 +1475,46 @@
       }
     },
     {
-      "id": "7Ud5xi7aUPQ",
-      "title": "Free Roam is BETTER than Time Trials | Mario Kart World",
-      "channel": "Shortcat",
-      "publishedAt": "2025-06-11T17:45:58Z",
+      "id": "WW2I8Ry8Iz4",
+      "title": "厄災リンクの祠クリア方法がピタゴラスイッチすぎる件ｗｗ【ゼルダの伝説 ブレス オブ ザ ワイルド】",
+      "channel": "エミ ゲーム研究会",
+      "publishedAt": "2025-06-11T08:00:28Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/7Ud5xi7aUPQ/default.jpg",
+          "url": "https://i.ytimg.com/vi/WW2I8Ry8Iz4/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/7Ud5xi7aUPQ/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/WW2I8Ry8Iz4/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/7Ud5xi7aUPQ/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/WW2I8Ry8Iz4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "2XxT9vr823o",
+      "title": "The best sugar cane block",
+      "channel": "CheezyChez",
+      "publishedAt": "2025-06-10T10:00:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2XxT9vr823o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2XxT9vr823o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2XxT9vr823o/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1538,29 +1561,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/eiEJExdlBy0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "T6jyFCo_AEQ",
-      "title": "My family treated me like a virus my entire life, so I turned into one.",
-      "channel": "Requested Reads",
-      "publishedAt": "2025-06-11T13:01:01Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/T6jyFCo_AEQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/T6jyFCo_AEQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/T6jyFCo_AEQ/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1636,115 +1636,46 @@
       }
     },
     {
-      "id": "GFSTN6ljalc",
-      "title": "free fire😱 special 200k subscriber🔥 #freefire #gaming #garenafreefire 🔥#video #fflive #live #ristar",
-      "channel": "BM Dragon",
-      "publishedAt": "2025-06-12T07:05:06Z",
+      "id": "QzQOisWGhNo",
+      "title": "I found out why my sister kept a hidden bucket list journal and it destroyed me.",
+      "channel": "Requested Reads",
+      "publishedAt": "2025-06-11T17:00:38Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/GFSTN6ljalc/default_live.jpg",
+          "url": "https://i.ytimg.com/vi/QzQOisWGhNo/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/GFSTN6ljalc/mqdefault_live.jpg",
+          "url": "https://i.ytimg.com/vi/QzQOisWGhNo/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/GFSTN6ljalc/hqdefault_live.jpg",
+          "url": "https://i.ytimg.com/vi/QzQOisWGhNo/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       }
     },
     {
-      "id": "3xE4x-Wl1bM",
-      "title": "SUBBED IN AND COOKED",
-      "channel": "theScore esports",
-      "publishedAt": "2025-06-11T14:00:12Z",
+      "id": "epqybvlVTXU",
+      "title": "Oh. THAT’s what they need them for. 🫣#dnd #deckofdmthings #dungeonmaster #skit #chaos",
+      "channel": "Deck of DM Things",
+      "publishedAt": "2025-06-10T21:28:17Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/3xE4x-Wl1bM/default.jpg",
+          "url": "https://i.ytimg.com/vi/epqybvlVTXU/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/3xE4x-Wl1bM/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/epqybvlVTXU/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/3xE4x-Wl1bM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "xY0vXhuEEvA",
-      "title": "Poppy Playtime: Chapter 4 - On Consoles June 25, 2025!",
-      "channel": "Mob Entertainment",
-      "publishedAt": "2025-06-11T17:01:20Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xY0vXhuEEvA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xY0vXhuEEvA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xY0vXhuEEvA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "aNPKNY-JdXw",
-      "title": "Zerox FF + Woodpecker = Total Rampage😈🔥LIVE Now❗️",
-      "channel": "Zerox FF",
-      "publishedAt": "2025-06-12T06:50:26Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/aNPKNY-JdXw/default_live.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/aNPKNY-JdXw/mqdefault_live.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/aNPKNY-JdXw/hqdefault_live.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "J9MU9ZVrRdY",
-      "title": "No Way Bro Cried...",
-      "channel": "WesleyWAT",
-      "publishedAt": "2025-06-10T19:30:02Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/J9MU9ZVrRdY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/J9MU9ZVrRdY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/J9MU9ZVrRdY/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/epqybvlVTXU/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1774,46 +1705,46 @@
       }
     },
     {
-      "id": "MDdmtYam6E0",
-      "title": "THANK GOD it worked cause I was on 1HP 😮‍💨😮‍💨😮‍💨 #minecraft #fyp",
-      "channel": "JudeLow",
-      "publishedAt": "2025-06-11T15:51:05Z",
+      "id": "Y8jCMdd_aY8",
+      "title": "High End Gaming PCs are Just for Bragging Rights 😑",
+      "channel": "Zach's Tech Turf",
+      "publishedAt": "2025-06-11T13:50:59Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/MDdmtYam6E0/default.jpg",
+          "url": "https://i.ytimg.com/vi/Y8jCMdd_aY8/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/MDdmtYam6E0/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Y8jCMdd_aY8/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/MDdmtYam6E0/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Y8jCMdd_aY8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       }
     },
     {
-      "id": "_eTbGI9x6Ww",
-      "title": "【PS5pro体験版】おついちの「仁王3」【2BRO.】",
-      "channel": "おついちTube",
-      "publishedAt": "2025-06-12T07:09:24Z",
+      "id": "YW7HOEPgFUk",
+      "title": "endorphin",
+      "channel": "TheRussianBadger",
+      "publishedAt": "2025-06-11T18:25:22Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/_eTbGI9x6Ww/default.jpg",
+          "url": "https://i.ytimg.com/vi/YW7HOEPgFUk/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/_eTbGI9x6Ww/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YW7HOEPgFUk/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/_eTbGI9x6Ww/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YW7HOEPgFUk/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1843,46 +1774,23 @@
       }
     },
     {
-      "id": "400cQxUagJo",
-      "title": "Ranking Shows Id Let My Kids Watch #2 🤔",
-      "channel": "hxsain",
-      "publishedAt": "2025-06-11T17:43:25Z",
+      "id": "L0by-mcjlbo",
+      "title": "Speedrunning YT Shorts 222 (music taste)",
+      "channel": "Joe Caine",
+      "publishedAt": "2025-06-11T15:00:41Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/400cQxUagJo/default.jpg",
+          "url": "https://i.ytimg.com/vi/L0by-mcjlbo/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/400cQxUagJo/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/L0by-mcjlbo/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/400cQxUagJo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "W_soaFQjYsg",
-      "title": "This game doesn&#39;t exist",
-      "channel": "Legendary Drops",
-      "publishedAt": "2025-06-11T14:00:50Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/W_soaFQjYsg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/W_soaFQjYsg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/W_soaFQjYsg/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/L0by-mcjlbo/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1912,46 +1820,23 @@
       }
     },
     {
-      "id": "TGG17MQaKXM",
-      "title": "MPL ID S15 PLAYOFFS DAY 2 WATCH PARTY",
-      "channel": "OhMyV33NUS",
-      "publishedAt": "2025-06-12T06:43:52Z",
+      "id": "wM5QU3EMMzc",
+      "title": "【ゼンゼロ】稀によくある橘福福のダッシュ攻撃でやりがちなこと【ゼンレスゾーンゼロ】",
+      "channel": "やぶからおそると / Oh_Salt",
+      "publishedAt": "2025-06-11T11:53:46Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/TGG17MQaKXM/default_live.jpg",
+          "url": "https://i.ytimg.com/vi/wM5QU3EMMzc/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/TGG17MQaKXM/mqdefault_live.jpg",
+          "url": "https://i.ytimg.com/vi/wM5QU3EMMzc/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/TGG17MQaKXM/hqdefault_live.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "mbAg2FqPnGY",
-      "title": "Where Are We?!",
-      "channel": "Smosh Games",
-      "publishedAt": "2025-06-11T17:00:54Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/mbAg2FqPnGY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/mbAg2FqPnGY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/mbAg2FqPnGY/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wM5QU3EMMzc/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1975,6 +1860,121 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/AagthSHDLZQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "hufsUCuOdTM",
+      "title": "Glee’s Magic Salon #5 - MINECRAFT MOVIE ANIMATION | EMOTIA",
+      "channel": "GH'S",
+      "publishedAt": "2025-06-11T07:11:51Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hufsUCuOdTM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hufsUCuOdTM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hufsUCuOdTM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "XZywIDxWNqU",
+      "title": "GTA ONLINE DLC INFO BREAKDOWN! 3 NEW BUSINESSES, POLICE OUTFITS | Money Fronts June DLC",
+      "channel": "TGG",
+      "publishedAt": "2025-06-11T14:59:43Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XZywIDxWNqU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XZywIDxWNqU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XZywIDxWNqU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "aZXdNvd1bw8",
+      "title": "This Should Never Have Happened ☠️ #badidea",
+      "channel": "IdkSterling",
+      "publishedAt": "2025-06-12T01:53:27Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aZXdNvd1bw8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aZXdNvd1bw8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aZXdNvd1bw8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "rROTB3s1Lcs",
+      "title": "The Vanoss Crew With Facecams! (Mario Kart World)",
+      "channel": "Nogla",
+      "publishedAt": "2025-06-12T01:05:00Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rROTB3s1Lcs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rROTB3s1Lcs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rROTB3s1Lcs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "FwKVci5CSHE",
+      "title": "#Pov He WINS 100 robux every time his SOULMATE gets HURT...(😱revelation at the end) ⛏️ #shorts",
+      "channel": "Zoomy",
+      "publishedAt": "2025-06-10T17:04:43Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FwKVci5CSHE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FwKVci5CSHE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FwKVci5CSHE/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
