@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-12T23:38:35.231Z",
+  "updated": "2025-06-13T00:38:35.630Z",
   "trending": [
     {
       "id": "W1Z3niPY2rA",
@@ -101,39 +101,6 @@
       }
     },
     {
-      "id": "-KclsWH8a0I",
-      "title": "HANA / Burning Flower -Music Video-",
-      "channel": "HANA official",
-      "publishedAt": "2025-06-09T12:00:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/-KclsWH8a0I/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/-KclsWH8a0I/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/-KclsWH8a0I/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/-KclsWH8a0I/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/-KclsWH8a0I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "CmLXMa2DVVE",
       "title": "小さな恋のうた / MONGOL800 Covered by 2時だとか",
       "channel": "渡会雲雀 / Watarai Hibari",
@@ -161,6 +128,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/CmLXMa2DVVE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "-KclsWH8a0I",
+      "title": "HANA / Burning Flower -Music Video-",
+      "channel": "HANA official",
+      "publishedAt": "2025-06-09T12:00:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-KclsWH8a0I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-KclsWH8a0I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-KclsWH8a0I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-KclsWH8a0I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-KclsWH8a0I/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -829,115 +829,46 @@
   ],
   "music": [
     {
-      "id": "IuEEZ_FmFok",
-      "title": "[KBS 클래식 FM] 출발FM과함께 | 베토벤 운명 교향곡, 라흐마니노프 파가니니 주제에 의한 광시곡, 마스네 타이스 명상곡 등 | KBS 250613(금) 방송",
-      "channel": "KBS Classic FM",
-      "publishedAt": "2025-06-12T21:59:22Z",
+      "id": "HWk7_vBBnLQ",
+      "title": "Crazy Drum System of Alex Misko",
+      "channel": "Alexandr Misko",
+      "publishedAt": "2025-06-10T13:07:16Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/IuEEZ_FmFok/default_live.jpg",
+          "url": "https://i.ytimg.com/vi/HWk7_vBBnLQ/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/IuEEZ_FmFok/mqdefault_live.jpg",
+          "url": "https://i.ytimg.com/vi/HWk7_vBBnLQ/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/IuEEZ_FmFok/hqdefault_live.jpg",
+          "url": "https://i.ytimg.com/vi/HWk7_vBBnLQ/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       }
     },
     {
-      "id": "k1P00dYFHCs",
-      "title": "SÃO JOÃO DE CARUARU AO VIVO | GUILHERME TOPADO, CALCINHA PRETA E LÉO MAGALHÃES",
-      "channel": "TV Guararapes Oficial",
-      "publishedAt": "2025-06-12T22:05:34Z",
+      "id": "aubsmhMLE0o",
+      "title": "Qué día es vuestro cumpleaños? 🎂",
+      "channel": "Andrea Gálvez",
+      "publishedAt": "2025-06-09T20:00:05Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/k1P00dYFHCs/default_live.jpg",
+          "url": "https://i.ytimg.com/vi/aubsmhMLE0o/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/k1P00dYFHCs/mqdefault_live.jpg",
+          "url": "https://i.ytimg.com/vi/aubsmhMLE0o/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/k1P00dYFHCs/hqdefault_live.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "UoE6vPunjQA",
-      "title": "Maybe that divorce is why he doesn’t wanna date a coworker again 😭 #house #series #dr #medical #meme",
-      "channel": "Ngamshishi",
-      "publishedAt": "2025-06-12T15:49:22Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/UoE6vPunjQA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/UoE6vPunjQA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/UoE6vPunjQA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "j6q-ccH44jU",
-      "title": "4EVE - Keep a Secret | OFFICIAL MV",
-      "channel": "4EVE",
-      "publishedAt": "2025-06-11T12:00:08Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/j6q-ccH44jU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/j6q-ccH44jU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/j6q-ccH44jU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "ZWLQX3W_ZrU",
-      "title": "Antoñito Molina, Abel Pintos - Me Subo Por Las Paredes (Videoclip Oficial)",
-      "channel": "ANTOÑITO MOLINA",
-      "publishedAt": "2025-06-12T22:00:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ZWLQX3W_ZrU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ZWLQX3W_ZrU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ZWLQX3W_ZrU/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/aubsmhMLE0o/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -961,29 +892,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/7TGNM3c183s/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "8Jyyo31UIHo",
-      "title": "Mohamed Mounir - Malamehna | Lyrics Video 2025 | محمد منير - ملامحنا",
-      "channel": "Rotana",
-      "publishedAt": "2025-06-11T14:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/8Jyyo31UIHo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/8Jyyo31UIHo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/8Jyyo31UIHo/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1036,75 +944,6 @@
       }
     },
     {
-      "id": "oLqrjlPEGWk",
-      "title": "BEEBA (Official Video): LEO GREWAL | LEONIZATION | BHUSHAN KUMAR",
-      "channel": "T-Series",
-      "publishedAt": "2025-06-12T05:31:22Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/oLqrjlPEGWk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/oLqrjlPEGWk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/oLqrjlPEGWk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "kXprtJltwvk",
-      "title": "Nazara - Aankhon Ki Gustaakhiyan | Vikrant Massey &amp; Shanaya Kapoor | Vishal Mishra",
-      "channel": "Zee Music Company",
-      "publishedAt": "2025-06-11T10:30:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/kXprtJltwvk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/kXprtJltwvk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/kXprtJltwvk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "-7bf6hm0MTY",
-      "title": "Haridwar Me Khatola : MASOOM SHARMA | Amar Karnawal, Vikash Rajana | New Haryanvi Song 2025",
-      "channel": "Tuffan Music",
-      "publishedAt": "2025-06-11T03:30:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/-7bf6hm0MTY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/-7bf6hm0MTY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/-7bf6hm0MTY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "azbHVPFOorA",
       "title": "Hans Zimmer on Brian Wilson’s “God Only Knows” #brianwilson #perfectsong #song #shorts ￼",
       "channel": "Rick Beato",
@@ -1145,6 +984,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/8WZ-uznfBsk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "4TylmMQbk0I",
+      "title": "This giant pufferfish needed our help!",
+      "channel": "Teddy Gen AI",
+      "publishedAt": "2025-06-11T05:04:39Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4TylmMQbk0I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4TylmMQbk0I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4TylmMQbk0I/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1237,6 +1099,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/C-Y3cm287qQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "Dc1av3WKc2s",
+      "title": "Mrs. GREEN APPLE「breakfast」Behind the Scenes",
+      "channel": "Mrs. GREEN APPLE",
+      "publishedAt": "2025-06-11T09:00:30Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Dc1av3WKc2s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Dc1av3WKc2s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Dc1av3WKc2s/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1358,23 +1243,46 @@
       }
     },
     {
-      "id": "_V9OUVC2n6w",
-      "title": "Sele Vera y Pampas de Bariloche - Tu, simpre tu",
-      "channel": "Sele Vera y Los Pampas",
-      "publishedAt": "2025-06-12T23:00:07Z",
+      "id": "59erl5PKiAM",
+      "title": "Ayed - Eish Yomak (Official Lyric Video) | 2025 | عايض - عيش يومك (فيديو مع الكلمات)",
+      "channel": "Luxury KSA",
+      "publishedAt": "2025-06-11T18:00:06Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/_V9OUVC2n6w/default.jpg",
+          "url": "https://i.ytimg.com/vi/59erl5PKiAM/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/_V9OUVC2n6w/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/59erl5PKiAM/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/_V9OUVC2n6w/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/59erl5PKiAM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "SivLRE0ez2w",
+      "title": "CAPTAIN BOY - AI LỚN CŨNG PHẢI | ANIMATION MV",
+      "channel": "CAPTAIN BOY Official",
+      "publishedAt": "2025-06-11T13:00:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SivLRE0ez2w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SivLRE0ez2w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SivLRE0ez2w/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1402,55 +1310,101 @@
           "height": 360
         }
       }
+    },
+    {
+      "id": "knmoDkmPfrs",
+      "title": "Kevin AMF - ¿Por Qué Terminó? (Video Oficial)",
+      "channel": "KevinAMFVEVO",
+      "publishedAt": "2025-06-13T00:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/knmoDkmPfrs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/knmoDkmPfrs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/knmoDkmPfrs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "6eFajRiOrpY",
+      "title": "ずっと真夜中でいいのに。『形』MV (ZUTOMAYO - Pain Give Form)",
+      "channel": "ずっと真夜中でいいのに。 ZUTOMAYO",
+      "publishedAt": "2025-06-12T12:00:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6eFajRiOrpY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6eFajRiOrpY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6eFajRiOrpY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "cDLbb7OLEoU",
+      "title": "DYCHA - ONA DA (Prod. CrackHouse x MUNDUR)",
+      "channel": "IsAmU",
+      "publishedAt": "2025-06-11T15:09:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cDLbb7OLEoU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cDLbb7OLEoU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cDLbb7OLEoU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "3PJIyvhRQfw",
+      "title": "Sofía Reyes, Luísa Sonza, RaiNao - MiuMiu [Official Music Video]",
+      "channel": "Sofia Reyes",
+      "publishedAt": "2025-06-13T00:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3PJIyvhRQfw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3PJIyvhRQfw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3PJIyvhRQfw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
     }
   ],
   "gaming": [
-    {
-      "id": "C9J1aUvIAx4",
-      "title": "FREE DISCO BEES!",
-      "channel": "ToSlow",
-      "publishedAt": "2025-06-12T22:07:57Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/C9J1aUvIAx4/default_live.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/C9J1aUvIAx4/mqdefault_live.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/C9J1aUvIAx4/hqdefault_live.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "90gpqJE-tLU",
-      "title": "Death Stranding 2: On The Beach - Explore. Connect. Survive. | PS5 Games",
-      "channel": "PlayStation",
-      "publishedAt": "2025-06-11T12:00:22Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/90gpqJE-tLU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/90gpqJE-tLU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/90gpqJE-tLU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
     {
       "id": "edd-GkEJEQM",
       "title": "Never Put Ice Into A Deep Fryer… ☠️ #badidea",
@@ -1475,29 +1429,6 @@
       }
     },
     {
-      "id": "wS_oGaVgSc0",
-      "title": "The Most POWERFUL SHORTCUTS | Mario Kart World",
-      "channel": "TWD98",
-      "publishedAt": "2025-06-12T00:45:10Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/wS_oGaVgSc0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/wS_oGaVgSc0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/wS_oGaVgSc0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "y7nQTN7REiQ",
       "title": "The Pokemon Game With a BAD ENDING?!",
       "channel": "Newsteevie",
@@ -1515,29 +1446,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/y7nQTN7REiQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "7Ud5xi7aUPQ",
-      "title": "Free Roam is BETTER than Time Trials | Mario Kart World",
-      "channel": "Shortcat",
-      "publishedAt": "2025-06-11T17:45:58Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/7Ud5xi7aUPQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/7Ud5xi7aUPQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/7Ud5xi7aUPQ/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1705,75 +1613,6 @@
       }
     },
     {
-      "id": "onq9i2237ao",
-      "title": "Worse Than Sarah...",
-      "channel": "WesleyWAT",
-      "publishedAt": "2025-06-11T20:00:30Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/onq9i2237ao/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/onq9i2237ao/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/onq9i2237ao/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "DE8ACbcVA5c",
-      "title": "SWITCH 2 is the FASTEST SELLING CONSOLE #shorts",
-      "channel": "jacobweeby",
-      "publishedAt": "2025-06-12T02:01:37Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/DE8ACbcVA5c/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/DE8ACbcVA5c/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/DE8ACbcVA5c/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "QzQOisWGhNo",
-      "title": "I found out why my sister kept a hidden bucket list journal and it destroyed me.",
-      "channel": "Requested Reads",
-      "publishedAt": "2025-06-11T17:00:38Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/QzQOisWGhNo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/QzQOisWGhNo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/QzQOisWGhNo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "9NLrYIR_jVM",
       "title": "マジで懐かしい風景 #shorts #マインクラフト #マイクラ",
       "channel": "ばぶお【マイクラ】",
@@ -1797,69 +1636,46 @@
       }
     },
     {
-      "id": "yp_hMZ8PmzA",
-      "title": "How to WALL Ride Properly in Mario Kart World",
-      "channel": "Shortcat",
-      "publishedAt": "2025-06-12T03:37:01Z",
+      "id": "wGWGeUkVQgM",
+      "title": "Aatrox Fun Fact",
+      "channel": "Naayil",
+      "publishedAt": "2025-06-11T15:11:43Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/yp_hMZ8PmzA/default.jpg",
+          "url": "https://i.ytimg.com/vi/wGWGeUkVQgM/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/yp_hMZ8PmzA/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wGWGeUkVQgM/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/yp_hMZ8PmzA/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wGWGeUkVQgM/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       }
     },
     {
-      "id": "6uXn05IW15Y",
-      "title": "Robin is Pay 2 LOSE",
-      "channel": "Top5Gaming",
-      "publishedAt": "2025-06-11T22:30:05Z",
+      "id": "C9J1aUvIAx4",
+      "title": "FREE DISCO BEES!",
+      "channel": "ToSlow",
+      "publishedAt": "2025-06-12T22:07:57Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/6uXn05IW15Y/default.jpg",
+          "url": "https://i.ytimg.com/vi/C9J1aUvIAx4/default_live.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/6uXn05IW15Y/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/C9J1aUvIAx4/mqdefault_live.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/6uXn05IW15Y/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "RWUkV0Z2HbM",
-      "title": "Hasan is under investigation..",
-      "channel": "Asmongold Clips",
-      "publishedAt": "2025-06-12T01:33:56Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/RWUkV0Z2HbM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/RWUkV0Z2HbM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/RWUkV0Z2HbM/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/C9J1aUvIAx4/hqdefault_live.jpg",
           "width": 480,
           "height": 360
         }
@@ -1883,29 +1699,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/oO9RIXjhIEI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "13H3atQJi10",
-      "title": "This chest actually takes 10 minutes to open",
-      "channel": "Nick Eh 30 Shorts",
-      "publishedAt": "2025-06-11T04:25:59Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/13H3atQJi10/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/13H3atQJi10/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/13H3atQJi10/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1975,6 +1768,213 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/MDdmtYam6E0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "2njSmtaGtzg",
+      "title": "Duet Night Abyss Second Closed Beta Test Trailer | Stars Before Dawn",
+      "channel": "Duet Night Abyss",
+      "publishedAt": "2025-06-12T04:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2njSmtaGtzg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2njSmtaGtzg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2njSmtaGtzg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "PS17ULdnTSk",
+      "title": "CHECK THE SOUND🥀💔",
+      "channel": "Clevooo",
+      "publishedAt": "2025-06-11T10:19:47Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PS17ULdnTSk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PS17ULdnTSk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PS17ULdnTSk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "YW7HOEPgFUk",
+      "title": "endorphin",
+      "channel": "TheRussianBadger",
+      "publishedAt": "2025-06-11T18:25:22Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YW7HOEPgFUk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YW7HOEPgFUk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YW7HOEPgFUk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "400cQxUagJo",
+      "title": "Ranking Shows Id Let My Kids Watch #2 🤔",
+      "channel": "hxsain",
+      "publishedAt": "2025-06-11T17:43:25Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/400cQxUagJo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/400cQxUagJo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/400cQxUagJo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "Ox5DqOPDL-8",
+      "title": "#Pov He donated 1 MILLION BATTERIES to the girl he likes... (😭 EXCITING ENDING) 🎥 #shorts",
+      "channel": "Zoomy",
+      "publishedAt": "2025-06-11T22:00:26Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ox5DqOPDL-8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ox5DqOPDL-8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ox5DqOPDL-8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "L0by-mcjlbo",
+      "title": "Speedrunning YT Shorts 222 (music taste)",
+      "channel": "Joe Caine",
+      "publishedAt": "2025-06-11T15:00:41Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L0by-mcjlbo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L0by-mcjlbo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L0by-mcjlbo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "mJtuCZV2InQ",
+      "title": "Mindseye - Before You Buy",
+      "channel": "gameranx",
+      "publishedAt": "2025-06-11T21:18:22Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mJtuCZV2InQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mJtuCZV2InQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mJtuCZV2InQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "mbAg2FqPnGY",
+      "title": "Where Are We?!",
+      "channel": "Smosh Games",
+      "publishedAt": "2025-06-11T17:00:54Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mbAg2FqPnGY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mbAg2FqPnGY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mbAg2FqPnGY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "UN4fY_9TZ68",
+      "title": "HER STRICT BROTHER WON&#39;T LET HIM DATE HER #roblox #robloxstory #berryave",
+      "channel": "Lily Berry",
+      "publishedAt": "2025-06-11T18:00:34Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UN4fY_9TZ68/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UN4fY_9TZ68/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UN4fY_9TZ68/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
