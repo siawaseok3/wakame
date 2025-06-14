@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-14T20:38:34.936Z",
+  "updated": "2025-06-14T21:38:35.754Z",
   "trending": [
     {
       "id": "OodEsjZ88TQ",
@@ -233,39 +233,6 @@
       }
     },
     {
-      "id": "dUZDNNyLXPo",
-      "title": "Hey! Say! JUMP - LIVE TOUR 2024-2025 H⁺ & JUMPARTY[Official Teaser]",
-      "channel": "Hey! Say! JUMP",
-      "publishedAt": "2025-06-13T12:01:14Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/dUZDNNyLXPo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/dUZDNNyLXPo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/dUZDNNyLXPo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/dUZDNNyLXPo/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/dUZDNNyLXPo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "AY5awlVooVw",
       "title": "限界の先に見えた''本当の気持ち''をお話しします。",
       "channel": "ゆりいちちゃんねる",
@@ -293,6 +260,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/AY5awlVooVw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "dUZDNNyLXPo",
+      "title": "Hey! Say! JUMP - LIVE TOUR 2024-2025 H⁺ & JUMPARTY[Official Teaser]",
+      "channel": "Hey! Say! JUMP",
+      "publishedAt": "2025-06-13T12:01:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dUZDNNyLXPo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dUZDNNyLXPo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dUZDNNyLXPo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dUZDNNyLXPo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dUZDNNyLXPo/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -365,39 +365,6 @@
       }
     },
     {
-      "id": "Yq7jI9Gbs6w",
-      "title": "BMSG TRAINEE Camp with SKY-HI 2023",
-      "channel": "BMSG TRAINEE Official",
-      "publishedAt": "2025-06-13T10:01:02Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Yq7jI9Gbs6w/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Yq7jI9Gbs6w/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Yq7jI9Gbs6w/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/Yq7jI9Gbs6w/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/Yq7jI9Gbs6w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "QbMmZXO0Bi8",
       "title": "羊蹄山麓 無許可森林伐採問題 鈴木知事が会見「逆に訴えられる。法律の範囲内で対応する」",
       "channel": "HTB北海道ニュース",
@@ -458,6 +425,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/7oE8YnXumMk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "Yq7jI9Gbs6w",
+      "title": "BMSG TRAINEE Camp with SKY-HI 2023",
+      "channel": "BMSG TRAINEE Official",
+      "publishedAt": "2025-06-13T10:01:02Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Yq7jI9Gbs6w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Yq7jI9Gbs6w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Yq7jI9Gbs6w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Yq7jI9Gbs6w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Yq7jI9Gbs6w/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -852,69 +852,23 @@
       }
     },
     {
-      "id": "dJrnDHEj5h8",
-      "title": "Taylor Swift’s Visit to Kids&#39; Hospital Proves She’s All Heart! #taylorswift #shorts",
-      "channel": "My Wonderland",
-      "publishedAt": "2025-06-13T20:10:44Z",
+      "id": "FFOPNfnttwo",
+      "title": "Melhem Zein - Albi Daa&#39; | ملحم زين - قلبي دق",
+      "channel": "Platinum Records",
+      "publishedAt": "2025-06-12T13:00:34Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/dJrnDHEj5h8/default.jpg",
+          "url": "https://i.ytimg.com/vi/FFOPNfnttwo/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/dJrnDHEj5h8/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/FFOPNfnttwo/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/dJrnDHEj5h8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "H0MuwWjM4ok",
-      "title": "Snow Man &#39;SERIOUS&#39; Music Video",
-      "channel": "Snow Man",
-      "publishedAt": "2025-06-12T11:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/H0MuwWjM4ok/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/H0MuwWjM4ok/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/H0MuwWjM4ok/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "VViYxk_SqC4",
-      "title": "Semicenk - Kalpsiz",
-      "channel": "Eva Records",
-      "publishedAt": "2025-06-13T15:00:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/VViYxk_SqC4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/VViYxk_SqC4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/VViYxk_SqC4/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/FFOPNfnttwo/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1036,29 +990,6 @@
       }
     },
     {
-      "id": "jsR3XYk_rGY",
-      "title": "JVKE, Arcane - Worlds Collide (feat. Reed Shannon, Livingston) (Official Animated Music Video)",
-      "channel": "JVKE",
-      "publishedAt": "2025-06-14T01:00:10Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/jsR3XYk_rGY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/jsR3XYk_rGY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/jsR3XYk_rGY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "gXAnRuVlAvk",
       "title": "Jaylann - Ha Wlidi [Official Music Video] | (جيلان - ها وليدي (فيديو كليب",
       "channel": "JAYLANN",
@@ -1151,6 +1082,75 @@
       }
     },
     {
+      "id": "QGwrvNsOn4A",
+      "title": "Stray Kids JAPAN 3rd Mini Album『Hollow』 Highlight Medley Track 3「Never Alone」",
+      "channel": "Stray Kids Japan Official YouTube",
+      "publishedAt": "2025-06-13T12:00:46Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QGwrvNsOn4A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QGwrvNsOn4A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QGwrvNsOn4A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "q8OSXAWmees",
+      "title": "[MV] n.SSign(엔싸인) _ Itty Bitty",
+      "channel": "1theK (원더케이)",
+      "publishedAt": "2025-06-13T09:01:18Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/q8OSXAWmees/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/q8OSXAWmees/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/q8OSXAWmees/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "rfHFtpy-vCs",
+      "title": "if you need God, don’t skip❤️😭 #god #jesus",
+      "channel": "Mike Malagies",
+      "publishedAt": "2025-06-14T02:10:30Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rfHFtpy-vCs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rfHFtpy-vCs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rfHFtpy-vCs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "lTYGnE2fwI4",
       "title": "Phương Mỹ Chi x DTAP - Mashup Lý Bắc Bộ x Đẩy Xe Bò | Live Performance | Sing!Asia",
       "channel": "Phương Mỹ Chi",
@@ -1191,6 +1191,29 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/hu0XL0yeRzA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "CMjjwUKXdo0",
+      "title": "#류진 선배님 쫓아 Hide and seek🫣#KISSOFLIFE #NATTY #ITZY #있지 #RYUJIN #Lips_Hips_Kiss #LHK_Challenge #Shorts",
+      "channel": "KISS OF LIFE",
+      "publishedAt": "2025-06-13T11:00:20Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CMjjwUKXdo0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CMjjwUKXdo0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CMjjwUKXdo0/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1243,52 +1266,6 @@
       }
     },
     {
-      "id": "VA4zbV8c9XM",
-      "title": "１度聴くとオシたくなる&quot;神曲&quot;作りました。【オシカツ？】",
-      "channel": "シクフォニ【SIXFONIA】",
-      "publishedAt": "2025-06-14T08:00:40Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/VA4zbV8c9XM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/VA4zbV8c9XM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/VA4zbV8c9XM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "HHXp3Zju7UI",
-      "title": "Wisin, Beele - Que Paso Bebe? (Official Video) | EL SOBREVIVIENTE WWW",
-      "channel": "Wisin",
-      "publishedAt": "2025-06-13T00:00:30Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/HHXp3Zju7UI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/HHXp3Zju7UI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/HHXp3Zju7UI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "LY71IfWHzf8",
       "title": "DYSTINCT - COMO TU ft. J Balvin (Official Music Video)",
       "channel": "Avalon Music",
@@ -1312,23 +1289,23 @@
       }
     },
     {
-      "id": "yE2vpQRD5XA",
-      "title": "Kanchana Anuradhi - RAGANA (රඟනා) | Official Music Video",
-      "channel": "Kanchana Anuradhi",
-      "publishedAt": "2025-06-13T12:00:08Z",
+      "id": "6--Y7AMAbHA",
+      "title": "Yoongi&#39;s Eyes Hold Love 🥺💜yoongi at jhope concert today #yoongi #shorts",
+      "channel": "BTS Sweemeow ",
+      "publishedAt": "2025-06-13T14:57:42Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/yE2vpQRD5XA/default.jpg",
+          "url": "https://i.ytimg.com/vi/6--Y7AMAbHA/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/yE2vpQRD5XA/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6--Y7AMAbHA/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/yE2vpQRD5XA/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6--Y7AMAbHA/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1358,46 +1335,69 @@
       }
     },
     {
-      "id": "D7Bx4ZM0tX8",
-      "title": "Capo Plaza - Non Basta Mai feat. Bresh &amp; Tony Effe (Official Video)",
-      "channel": "Capo Plaza",
-      "publishedAt": "2025-06-13T12:00:05Z",
+      "id": "RBTkiMiSky0",
+      "title": "Masicka - Overdose",
+      "channel": "Masicka",
+      "publishedAt": "2025-06-13T16:00:45Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/D7Bx4ZM0tX8/default.jpg",
+          "url": "https://i.ytimg.com/vi/RBTkiMiSky0/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/D7Bx4ZM0tX8/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/RBTkiMiSky0/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/D7Bx4ZM0tX8/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/RBTkiMiSky0/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
       }
     },
     {
-      "id": "EV0rV4haNFs",
-      "title": "Rodeio No Texas - Ana Castela (Oficial)",
-      "channel": "Ana Castela",
-      "publishedAt": "2025-06-13T00:00:06Z",
+      "id": "M6-hU_687DA",
+      "title": "How cutely he proposed to her🌹💍",
+      "channel": "Endless Love",
+      "publishedAt": "2025-06-13T11:30:16Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/EV0rV4haNFs/default.jpg",
+          "url": "https://i.ytimg.com/vi/M6-hU_687DA/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/EV0rV4haNFs/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/M6-hU_687DA/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/EV0rV4haNFs/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/M6-hU_687DA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "JEmbyx8NLxA",
+      "title": "Calvin Harris, Clementine Douglas - Blessings (Official Video)",
+      "channel": "CalvinHarrisVEVO",
+      "publishedAt": "2025-06-13T12:00:36Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JEmbyx8NLxA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JEmbyx8NLxA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JEmbyx8NLxA/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1405,52 +1405,6 @@
     }
   ],
   "gaming": [
-    {
-      "id": "18zKdD4Vank",
-      "title": "EXPERT SHORTCUTS ARE HERE! | Mario Kart World",
-      "channel": "TWD98",
-      "publishedAt": "2025-06-13T18:33:52Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/18zKdD4Vank/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/18zKdD4Vank/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/18zKdD4Vank/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "bm-3VRVeyqo",
-      "title": "Best Weapons for Each CLASS? ⚔️  #eldenring#eldenringnightreign #fromsoftware",
-      "channel": "OnlyWaifu",
-      "publishedAt": "2025-06-13T16:30:38Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/bm-3VRVeyqo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/bm-3VRVeyqo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/bm-3VRVeyqo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
     {
       "id": "u6wBmFCE3MQ",
       "title": "BUG TYPE LEGENDARY!?",
@@ -1498,46 +1452,23 @@
       }
     },
     {
-      "id": "LV86pixs72M",
-      "title": "The Pokemon That Can DEVOLVE?!",
-      "channel": "Newsteevie",
-      "publishedAt": "2025-06-13T16:00:30Z",
+      "id": "T3sewYv7DuE",
+      "title": "Types of Minecraft Versions",
+      "channel": "Crave",
+      "publishedAt": "2025-06-13T21:29:58Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/LV86pixs72M/default.jpg",
+          "url": "https://i.ytimg.com/vi/T3sewYv7DuE/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/LV86pixs72M/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/T3sewYv7DuE/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/LV86pixs72M/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "NKvu8wD37Vg",
-      "title": "They Stop Visiting… and We Start to Fade | Dandy’s World Comic Dub Angst | #dandysworld #comicdub",
-      "channel": "TheWetSalad",
-      "publishedAt": "2025-06-13T19:00:17Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/NKvu8wD37Vg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/NKvu8wD37Vg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/NKvu8wD37Vg/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/T3sewYv7DuE/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1561,29 +1492,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/RZG8qagEKhE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "EMvvqU1pjb4",
-      "title": "3 Cartoon Easter Eggs In Fortnite",
-      "channel": "Top5Gaming",
-      "publishedAt": "2025-06-13T20:00:05Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/EMvvqU1pjb4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/EMvvqU1pjb4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/EMvvqU1pjb4/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1636,6 +1544,29 @@
       }
     },
     {
+      "id": "kvd4ULerpOU",
+      "title": "Do NOT Call Squid Game In Fortnite.",
+      "channel": "Aid",
+      "publishedAt": "2025-06-13T16:20:12Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kvd4ULerpOU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kvd4ULerpOU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kvd4ULerpOU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "3YTvPKeFO2Y",
       "title": "The Most Asked For Sonic Facts",
       "channel": "Tyrecordslol",
@@ -1659,23 +1590,23 @@
       }
     },
     {
-      "id": "yq305L42CHA",
-      "title": "If I FAIL I Show My FACE..",
-      "channel": "Boe",
-      "publishedAt": "2025-06-14T16:50:06Z",
+      "id": "Xh8EZoXH9b4",
+      "title": "She’s looks so cute in her new jammas! 🐱 😫🍀#pov #cat #newbornkittens #reels",
+      "channel": "POVINME",
+      "publishedAt": "2025-06-13T20:19:22Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/yq305L42CHA/default.jpg",
+          "url": "https://i.ytimg.com/vi/Xh8EZoXH9b4/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/yq305L42CHA/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Xh8EZoXH9b4/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/yq305L42CHA/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Xh8EZoXH9b4/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1751,6 +1682,29 @@
       }
     },
     {
+      "id": "pmQCLhfhsTk",
+      "title": "SQUAD UPdate: Sonic Joins Squad Busters! Dr. Eggman Modifier, Event Details, and NEW Hero?! 🌀💨",
+      "channel": "Squad Busters",
+      "publishedAt": "2025-06-14T15:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pmQCLhfhsTk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pmQCLhfhsTk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pmQCLhfhsTk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "XckAL8z0qsI",
       "title": "What Would Happen if Men Disappeared? 🤔",
       "channel": "hxsain",
@@ -1797,6 +1751,29 @@
       }
     },
     {
+      "id": "CX9CVF5_t2I",
+      "title": "Officer knew that she was ALREADY DEAD...💀😂",
+      "channel": "Avocado Playz",
+      "publishedAt": "2025-06-13T12:00:20Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CX9CVF5_t2I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CX9CVF5_t2I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CX9CVF5_t2I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "bR4B9berbWE",
       "title": "WAY Too Far...",
       "channel": "WesleyWAT",
@@ -1820,23 +1797,23 @@
       }
     },
     {
-      "id": "1ktcF61fpmI",
-      "title": "Never Pick Up The Dreaded Paralysis Turtle ☠️ #satire",
-      "channel": "IdkSterling",
-      "publishedAt": "2025-06-13T19:00:02Z",
+      "id": "zCJ5jz2tEA8",
+      "title": "villagers are WEIRD… on bedrock edition",
+      "channel": "DashPum4",
+      "publishedAt": "2025-06-14T12:48:38Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/1ktcF61fpmI/default.jpg",
+          "url": "https://i.ytimg.com/vi/zCJ5jz2tEA8/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/1ktcF61fpmI/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/zCJ5jz2tEA8/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/1ktcF61fpmI/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/zCJ5jz2tEA8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1866,6 +1843,29 @@
       }
     },
     {
+      "id": "cb9aV7uY9F4",
+      "title": "Fortnite RUINED Superman..",
+      "channel": "Top5Gaming",
+      "publishedAt": "2025-06-13T20:20:27Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cb9aV7uY9F4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cb9aV7uY9F4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cb9aV7uY9F4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "0Wqwu3JQhFc",
       "title": "we got DADs in Fortnite 🤯",
       "channel": "Loserfruit",
@@ -1883,6 +1883,52 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/0Wqwu3JQhFc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "aN0UJ7XAQIY",
+      "title": "COMING SOON....",
+      "channel": "Minecraft",
+      "publishedAt": "2025-06-13T15:00:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aN0UJ7XAQIY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aN0UJ7XAQIY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aN0UJ7XAQIY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "K9eoLUpQWhY",
+      "title": "CHECK THE SOUND🥀💔",
+      "channel": "Clevooo",
+      "publishedAt": "2025-06-13T09:51:33Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/K9eoLUpQWhY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/K9eoLUpQWhY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/K9eoLUpQWhY/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1929,52 +1975,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/YyL29i4LPCE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "WEC90P0Guj0",
-      "title": "&quot;This looks like an all-out war&quot;",
-      "channel": "Asmongold TV  ",
-      "publishedAt": "2025-06-14T00:50:00Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/WEC90P0Guj0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/WEC90P0Guj0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/WEC90P0Guj0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "RcO5v9Aeql4",
-      "title": "We Hosted a MEMES Only Tournament!",
-      "channel": "PWR",
-      "publishedAt": "2025-06-13T19:00:19Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/RcO5v9Aeql4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/RcO5v9Aeql4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/RcO5v9Aeql4/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
