@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-17T06:38:36.099Z",
+  "updated": "2025-06-17T07:38:34.879Z",
   "trending": [
     {
       "id": "GA_Uc4f54zo",
@@ -299,39 +299,6 @@
       }
     },
     {
-      "id": "6Ysau95qWyI",
-      "title": "MAZZEL / to me -Performance Video-",
-      "channel": "MAZZEL",
-      "publishedAt": "2025-06-16T12:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/6Ysau95qWyI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/6Ysau95qWyI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/6Ysau95qWyI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/6Ysau95qWyI/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/6Ysau95qWyI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "2h5X36VAZVU",
       "title": "結婚することを友達に報告しました！",
       "channel": "時間マスターなりたい　あだち",
@@ -359,6 +326,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/2h5X36VAZVU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "6Ysau95qWyI",
+      "title": "MAZZEL / to me -Performance Video-",
+      "channel": "MAZZEL",
+      "publishedAt": "2025-06-16T12:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6Ysau95qWyI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6Ysau95qWyI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6Ysau95qWyI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6Ysau95qWyI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6Ysau95qWyI/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -530,39 +530,6 @@
       }
     },
     {
-      "id": "ffL-vG14xBk",
-      "title": "【アーカイブ】ちょこっと！嬉しいお知らせ生配信",
-      "channel": "日向坂ちゃんねる",
-      "publishedAt": "2025-06-16T13:09:56Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ffL-vG14xBk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ffL-vG14xBk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ffL-vG14xBk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ffL-vG14xBk/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ffL-vG14xBk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "ZS9I_GYYnqw",
       "title": "新超フェス黄猿ボルサリーノがぶっ壊れ最強性能すぎる！【バウンティラッシュ】",
       "channel": "ひたまゆ。",
@@ -590,6 +557,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/ZS9I_GYYnqw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "ffL-vG14xBk",
+      "title": "【アーカイブ】ちょこっと！嬉しいお知らせ生配信",
+      "channel": "日向坂ちゃんねる",
+      "publishedAt": "2025-06-16T13:09:56Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ffL-vG14xBk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ffL-vG14xBk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ffL-vG14xBk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ffL-vG14xBk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ffL-vG14xBk/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -830,6 +830,29 @@
   "music": [],
   "gaming": [
     {
+      "id": "Hrow87ukGNE",
+      "title": "PC Thermal Pads vs Thermal Paste",
+      "channel": "Zach's Tech Turf",
+      "publishedAt": "2025-06-15T21:00:26Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Hrow87ukGNE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Hrow87ukGNE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Hrow87ukGNE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "Cvdea8_qA8w",
       "title": "bringing overworld maps to nether",
       "channel": "Prism",
@@ -853,29 +876,6 @@
       }
     },
     {
-      "id": "sE8ODCvq-wc",
-      "title": "Do NOT Eat THIS Mushroom 😱 #fortnite #shorts",
-      "channel": "Major Meowzer",
-      "publishedAt": "2025-06-15T19:08:44Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/sE8ODCvq-wc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/sE8ODCvq-wc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/sE8ODCvq-wc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
       "id": "XkX7X_sausA",
       "title": "【鳴潮】カルテジアの攻撃範囲が最高に素敵な理由【Wuthering Waves】",
       "channel": "ペェモン",
@@ -893,52 +893,6 @@
         },
         "high": {
           "url": "https://i.ytimg.com/vi/XkX7X_sausA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "fsub4ODeQwA",
-      "title": "The MOST REQUESTED HSR Feature is Finally Here!",
-      "channel": "Darkos88",
-      "publishedAt": "2025-06-16T09:45:05Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/fsub4ODeQwA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/fsub4ODeQwA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/fsub4ODeQwA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "xtBhQk-ZamA",
-      "title": "EEVEE is a DOG!? (What if Eevee was a dog?)",
-      "channel": "Pokédex Fillers!",
-      "publishedAt": "2025-06-15T22:00:58Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xtBhQk-ZamA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xtBhQk-ZamA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xtBhQk-ZamA/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -991,6 +945,29 @@
       }
     },
     {
+      "id": "G8UviZLsi-w",
+      "title": "SIMON SAYS OR BE BANNED IN MINECRAFT! PT 24 ⛏️ #shorts",
+      "channel": "Knoxy",
+      "publishedAt": "2025-06-16T17:12:09Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/G8UviZLsi-w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/G8UviZLsi-w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/G8UviZLsi-w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "bO-5mpjTZ00",
       "title": "Things Every Guy Thinks About But Never Says Out Loud 🤔",
       "channel": "hxsain",
@@ -1037,46 +1014,23 @@
       }
     },
     {
-      "id": "eYEkXxBWMZw",
-      "title": "How dangerous is a shovel?",
-      "channel": "blumineck",
-      "publishedAt": "2025-06-15T17:30:19Z",
+      "id": "YpFDMxxZ4E4",
+      "title": "READY OR NOT | Forsaken Animation",
+      "channel": "Jeny_Punker",
+      "publishedAt": "2025-06-16T11:15:21Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/eYEkXxBWMZw/default.jpg",
+          "url": "https://i.ytimg.com/vi/YpFDMxxZ4E4/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/eYEkXxBWMZw/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YpFDMxxZ4E4/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/eYEkXxBWMZw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "vTeZ5YAxjDM",
-      "title": "Guess the Character in 0.1s 😂 @JonnyRaZeR",
-      "channel": "Bundun",
-      "publishedAt": "2025-06-16T13:01:37Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/vTeZ5YAxjDM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/vTeZ5YAxjDM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/vTeZ5YAxjDM/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YpFDMxxZ4E4/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1129,23 +1083,23 @@
       }
     },
     {
-      "id": "6U8dpjNtp3c",
-      "title": "Perfect Brawl Stars😌 pt.8 #shorts #brawlstars",
-      "channel": "lizishu",
-      "publishedAt": "2025-06-15T18:45:21Z",
+      "id": "xaL4oxJT548",
+      "title": "Have you tried this combination?",
+      "channel": "Elgin",
+      "publishedAt": "2025-06-16T07:57:49Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/6U8dpjNtp3c/default.jpg",
+          "url": "https://i.ytimg.com/vi/xaL4oxJT548/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/6U8dpjNtp3c/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/xaL4oxJT548/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/6U8dpjNtp3c/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/xaL4oxJT548/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1175,23 +1129,23 @@
       }
     },
     {
-      "id": "2amk_WJQXWo",
-      "title": "She OUTSMARTED her LAZY Brother...🤣💀",
-      "channel": "Avocado Playz",
-      "publishedAt": "2025-06-15T22:00:05Z",
+      "id": "7Gj9x53928I",
+      "title": "IF S1MPLE SAYS SHUT UP, YOU SHUT UP.",
+      "channel": "Virre CS2",
+      "publishedAt": "2025-06-16T14:57:41Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/2amk_WJQXWo/default.jpg",
+          "url": "https://i.ytimg.com/vi/7Gj9x53928I/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/2amk_WJQXWo/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7Gj9x53928I/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/2amk_WJQXWo/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7Gj9x53928I/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1221,46 +1175,23 @@
       }
     },
     {
-      "id": "JOpivUxV3gI",
-      "title": "How Tall Are Brawlers?",
-      "channel": "BrawlReflex",
-      "publishedAt": "2025-06-16T13:26:05Z",
+      "id": "HNocVPYDLo8",
+      "title": "Making Factorio videos is hard...",
+      "channel": "martincitopantsLIVE",
+      "publishedAt": "2025-06-16T01:44:35Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/JOpivUxV3gI/default.jpg",
+          "url": "https://i.ytimg.com/vi/HNocVPYDLo8/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/JOpivUxV3gI/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/HNocVPYDLo8/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/JOpivUxV3gI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      }
-    },
-    {
-      "id": "zYjNn7XK_9k",
-      "title": "Ranking Random Convenience Store Chocolate Bars!",
-      "channel": "Koreanosh",
-      "publishedAt": "2025-06-16T15:21:19Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/zYjNn7XK_9k/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/zYjNn7XK_9k/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/zYjNn7XK_9k/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/HNocVPYDLo8/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -1313,6 +1244,29 @@
       }
     },
     {
+      "id": "4HM1ezlK0Jg",
+      "title": "SAY YOUR STEPS AND WIN DIAMONDS IN MINECRAFT! ⛏️ #shorts",
+      "channel": "Knoxy",
+      "publishedAt": "2025-06-15T22:49:25Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4HM1ezlK0Jg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4HM1ezlK0Jg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4HM1ezlK0Jg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "U4DSuJT_K74",
       "title": "Minecraft Dancing Steve Alex Moment",
       "channel": "Clementdav Runs",
@@ -1359,6 +1313,29 @@
       }
     },
     {
+      "id": "RYaTP7a4kr8",
+      "title": "Who wants to play a game?👀 w Carter Kench #shorts",
+      "channel": "Carter Kench",
+      "publishedAt": "2025-06-15T20:30:02Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RYaTP7a4kr8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RYaTP7a4kr8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RYaTP7a4kr8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "mNqUN29wEk8",
       "title": "I AM NOT CHEATING 🗣️",
       "channel": "NewKiddo",
@@ -1382,23 +1359,46 @@
       }
     },
     {
-      "id": "wSa-sjaLVOM",
-      "title": "Five Nights at Freddy&#39;s: The Secret of the Mimic",
-      "channel": "Markiplier",
-      "publishedAt": "2025-06-17T00:09:51Z",
+      "id": "MsIvMhtPFwA",
+      "title": "IShowSpeed - Higher (Official Music Video)",
+      "channel": "IShowSpeed",
+      "publishedAt": "2025-06-16T16:00:07Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/wSa-sjaLVOM/default.jpg",
+          "url": "https://i.ytimg.com/vi/MsIvMhtPFwA/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/wSa-sjaLVOM/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/MsIvMhtPFwA/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/wSa-sjaLVOM/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/MsIvMhtPFwA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "0sxjqgSEpTY",
+      "title": "New Crafted Defenses in Clash of Clans!",
+      "channel": "Judo Sloth Gaming",
+      "publishedAt": "2025-06-15T12:00:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0sxjqgSEpTY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0sxjqgSEpTY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0sxjqgSEpTY/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
