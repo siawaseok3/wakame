@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-18T19:38:36.752Z",
+  "updated": "2025-06-18T20:38:35.645Z",
   "trending": [
     {
       "id": "hljXtdjCDrE",
@@ -662,39 +662,6 @@
       }
     },
     {
-      "id": "OdwzqwvMw38",
-      "title": "#VOLTACTION がなんかやる！？マック1万円分完食に挑戦！  #くろなん",
-      "channel": "ChroNoiR",
-      "publishedAt": "2025-06-16T10:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/OdwzqwvMw38/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/OdwzqwvMw38/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/OdwzqwvMw38/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/OdwzqwvMw38/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/OdwzqwvMw38/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "2h5X36VAZVU",
       "title": "結婚することを友達に報告しました！",
       "channel": "時間マスターなりたい　あだち",
@@ -722,6 +689,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/2h5X36VAZVU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "OdwzqwvMw38",
+      "title": "#VOLTACTION がなんかやる！？マック1万円分完食に挑戦！  #くろなん",
+      "channel": "ChroNoiR",
+      "publishedAt": "2025-06-16T10:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OdwzqwvMw38/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OdwzqwvMw38/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OdwzqwvMw38/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OdwzqwvMw38/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OdwzqwvMw38/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
