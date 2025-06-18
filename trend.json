@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-18T15:38:35.922Z",
+  "updated": "2025-06-18T16:39:02.082Z",
   "trending": [
     {
       "id": "hljXtdjCDrE",
@@ -200,6 +200,39 @@
       }
     },
     {
+      "id": "X4DG-I830pY",
+      "title": "【大家族】妻の姉が引っ越してきました。",
+      "channel": "旦那のじゅんとかえで",
+      "publishedAt": "2025-06-17T11:00:57Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/X4DG-I830pY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/X4DG-I830pY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/X4DG-I830pY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/X4DG-I830pY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/X4DG-I830pY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
       "id": "2qdtmHh2EXg",
       "title": "過去最強！新超フェス黄猿ボルサリーノ100レべフルブリーグ！【バウンティラッシュ】",
       "channel": "ひたまゆ。",
@@ -227,39 +260,6 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/2qdtmHh2EXg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
-      "id": "cRbZuj_v2ko",
-      "title": "【ドラゴンボール レジェンズ】新情報解禁！7周年キャンペーン特別配信番組 第２弾",
-      "channel": "Bandai Namco Entertainment",
-      "publishedAt": "2025-06-17T14:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/cRbZuj_v2ko/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/cRbZuj_v2ko/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/cRbZuj_v2ko/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/cRbZuj_v2ko/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/cRbZuj_v2ko/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -299,33 +299,33 @@
       }
     },
     {
-      "id": "X4DG-I830pY",
-      "title": "【大家族】妻の姉が引っ越してきました。",
-      "channel": "旦那のじゅんとかえで",
-      "publishedAt": "2025-06-17T11:00:57Z",
+      "id": "cRbZuj_v2ko",
+      "title": "【ドラゴンボール レジェンズ】新情報解禁！7周年キャンペーン特別配信番組 第２弾",
+      "channel": "Bandai Namco Entertainment",
+      "publishedAt": "2025-06-17T14:00:06Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/X4DG-I830pY/default.jpg",
+          "url": "https://i.ytimg.com/vi/cRbZuj_v2ko/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/X4DG-I830pY/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/cRbZuj_v2ko/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/X4DG-I830pY/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/cRbZuj_v2ko/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/X4DG-I830pY/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/cRbZuj_v2ko/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/X4DG-I830pY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/cRbZuj_v2ko/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
