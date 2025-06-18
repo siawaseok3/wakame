@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-18T08:38:34.814Z",
+  "updated": "2025-06-18T09:38:35.056Z",
   "trending": [
     {
       "id": "vz7eMBJyt7A",
@@ -266,39 +266,6 @@
       }
     },
     {
-      "id": "GA_Uc4f54zo",
-      "title": "『ONE PIECE バウンティラッシュ』6.5アニバーサリー生放送",
-      "channel": "Bandai Namco Entertainment",
-      "publishedAt": "2025-06-16T12:02:44Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/GA_Uc4f54zo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/GA_Uc4f54zo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/GA_Uc4f54zo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/GA_Uc4f54zo/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/GA_Uc4f54zo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "X4DG-I830pY",
       "title": "【大家族】妻の姉が引っ越してきました。",
       "channel": "旦那のじゅんとかえで",
@@ -359,6 +326,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/2qdtmHh2EXg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "GA_Uc4f54zo",
+      "title": "『ONE PIECE バウンティラッシュ』6.5アニバーサリー生放送",
+      "channel": "Bandai Namco Entertainment",
+      "publishedAt": "2025-06-16T12:02:44Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GA_Uc4f54zo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GA_Uc4f54zo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GA_Uc4f54zo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GA_Uc4f54zo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GA_Uc4f54zo/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
