@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-20T09:38:35.543Z",
+  "updated": "2025-06-20T10:38:57.585Z",
   "trending": [
     {
       "id": "N5RVjtBS63Y",
@@ -261,39 +261,6 @@
       }
     },
     {
-      "id": "L1h44gZkcaU",
-      "title": "鈴木拓の芸能界最強説を検証したら、その人生がヤバすぎた",
-      "channel": "魔裟斗チャンネル",
-      "publishedAt": "2025-06-18T11:00:38Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/L1h44gZkcaU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/L1h44gZkcaU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/L1h44gZkcaU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/L1h44gZkcaU/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/L1h44gZkcaU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "InPGzqxwlFg",
       "title": "BEYOND THE TIME (メビウスの宇宙を越えて) -2025 Version-",
       "channel": "TM NETWORK - Topic",
@@ -321,6 +288,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/InPGzqxwlFg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "L1h44gZkcaU",
+      "title": "鈴木拓の芸能界最強説を検証したら、その人生がヤバすぎた",
+      "channel": "魔裟斗チャンネル",
+      "publishedAt": "2025-06-18T11:00:38Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L1h44gZkcaU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L1h44gZkcaU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L1h44gZkcaU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/L1h44gZkcaU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/L1h44gZkcaU/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
