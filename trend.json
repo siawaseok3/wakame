@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-20T15:38:35.599Z",
+  "updated": "2025-06-20T16:38:35.684Z",
   "trending": [
     {
       "id": "N5RVjtBS63Y",
@@ -228,39 +228,6 @@
       }
     },
     {
-      "id": "ctJX263HwSs",
-      "title": "皆様へ、重大発表があります。",
-      "channel": "漆ちゃんfamily ",
-      "publishedAt": "2025-06-19T10:01:08Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ctJX263HwSs/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ctJX263HwSs/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ctJX263HwSs/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ctJX263HwSs/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ctJX263HwSs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "InPGzqxwlFg",
       "title": "BEYOND THE TIME (メビウスの宇宙を越えて) -2025 Version-",
       "channel": "TM NETWORK - Topic",
@@ -288,6 +255,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/InPGzqxwlFg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "ctJX263HwSs",
+      "title": "皆様へ、重大発表があります。",
+      "channel": "漆ちゃんfamily ",
+      "publishedAt": "2025-06-19T10:01:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ctJX263HwSs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ctJX263HwSs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ctJX263HwSs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ctJX263HwSs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ctJX263HwSs/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -393,6 +393,29 @@
       }
     },
     {
+      "id": "t4xFKbqvbPc",
+      "title": "宮古島でプロポーズしていただきました",
+      "channel": "エミリンチャンネル",
+      "publishedAt": "2025-06-18T11:05:03Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/t4xFKbqvbPc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/t4xFKbqvbPc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/t4xFKbqvbPc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
       "id": "VQ7YLPVDnbE",
       "title": "モンストニュース[6/19]TVアニメ『薬屋のひとりごと』コラボ追加情報！新しいガチャ、「★5以上ぜーんぶ限定ガチャ」開催！「超究極・彩」や真獣神化情報も！【モンスト公式】",
       "channel": "モンスト（モンスターストライク）公式",
@@ -422,29 +445,6 @@
           "url": "https://i.ytimg.com/vi/VQ7YLPVDnbE/maxresdefault.jpg",
           "width": 1280,
           "height": 720
-        }
-      }
-    },
-    {
-      "id": "t4xFKbqvbPc",
-      "title": "宮古島でプロポーズしていただきました",
-      "channel": "エミリンチャンネル",
-      "publishedAt": "2025-06-18T11:05:03Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/t4xFKbqvbPc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/t4xFKbqvbPc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/t4xFKbqvbPc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
         }
       }
     },
