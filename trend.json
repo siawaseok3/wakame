@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-20T00:38:35.219Z",
+  "updated": "2025-06-20T01:38:35.308Z",
   "trending": [
     {
       "id": "aUWf1fEOUsA",
@@ -713,39 +713,6 @@
       }
     },
     {
-      "id": "cgl-ha-eGgw",
-      "title": "【1回表“ノーカット版”大谷翔平 ドジャース移籍後初の二刀流として登板！】パドレスvsドジャース MLB2025シーズン 6.17",
-      "channel": "SPOTVNOW",
-      "publishedAt": "2025-06-17T02:41:13Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/cgl-ha-eGgw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/cgl-ha-eGgw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/cgl-ha-eGgw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/cgl-ha-eGgw/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/cgl-ha-eGgw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "X4DG-I830pY",
       "title": "【大家族】妻の姉が引っ越してきました。",
       "channel": "旦那のじゅんとかえで",
@@ -773,6 +740,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/X4DG-I830pY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "cgl-ha-eGgw",
+      "title": "【1回表“ノーカット版”大谷翔平 ドジャース移籍後初の二刀流として登板！】パドレスvsドジャース MLB2025シーズン 6.17",
+      "channel": "SPOTVNOW",
+      "publishedAt": "2025-06-17T02:41:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cgl-ha-eGgw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cgl-ha-eGgw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cgl-ha-eGgw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cgl-ha-eGgw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cgl-ha-eGgw/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
