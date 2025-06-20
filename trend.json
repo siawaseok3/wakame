@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-20T16:38:35.684Z",
+  "updated": "2025-06-20T17:38:35.129Z",
   "trending": [
     {
       "id": "N5RVjtBS63Y",
@@ -393,6 +393,39 @@
       }
     },
     {
+      "id": "3SwpcOF6Ank",
+      "title": "【大谷翔平 “報復”死球で警告試合に...抗議をしたロバーツ監督は退場処分】パドレスvsドジャース MLB2025シーズン 6.18",
+      "channel": "SPOTVNOW",
+      "publishedAt": "2025-06-18T03:12:21Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3SwpcOF6Ank/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3SwpcOF6Ank/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3SwpcOF6Ank/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3SwpcOF6Ank/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3SwpcOF6Ank/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
       "id": "t4xFKbqvbPc",
       "title": "宮古島でプロポーズしていただきました",
       "channel": "エミリンチャンネル",
@@ -443,39 +476,6 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/VQ7YLPVDnbE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
-      "id": "3SwpcOF6Ank",
-      "title": "【大谷翔平 “報復”死球で警告試合に...抗議をしたロバーツ監督は退場処分】パドレスvsドジャース MLB2025シーズン 6.18",
-      "channel": "SPOTVNOW",
-      "publishedAt": "2025-06-18T03:12:21Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/3SwpcOF6Ank/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/3SwpcOF6Ank/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/3SwpcOF6Ank/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/3SwpcOF6Ank/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/3SwpcOF6Ank/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
