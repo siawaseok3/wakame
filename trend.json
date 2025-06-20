@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-20T19:38:35.250Z",
+  "updated": "2025-06-20T20:38:34.880Z",
   "trending": [
     {
       "id": "N5RVjtBS63Y",
@@ -360,39 +360,6 @@
       }
     },
     {
-      "id": "3SwpcOF6Ank",
-      "title": "【大谷翔平 “報復”死球で警告試合に...抗議をしたロバーツ監督は退場処分】パドレスvsドジャース MLB2025シーズン 6.18",
-      "channel": "SPOTVNOW",
-      "publishedAt": "2025-06-18T03:12:21Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/3SwpcOF6Ank/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/3SwpcOF6Ank/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/3SwpcOF6Ank/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/3SwpcOF6Ank/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/3SwpcOF6Ank/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "lLCBq4VYKJ0",
       "title": "【フェアレディZ S30Z】廃車確定のエンジンブロー。さよなら訳ありのヤフオクの悪魔のZ。レストア NISSAN 湾岸ミッドナイト【湾岸MIDNIGHT FAIRLADYZ】",
       "channel": "悪魔の姉妹",
@@ -420,6 +387,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/lLCBq4VYKJ0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "3SwpcOF6Ank",
+      "title": "【大谷翔平 “報復”死球で警告試合に...抗議をしたロバーツ監督は退場処分】パドレスvsドジャース MLB2025シーズン 6.18",
+      "channel": "SPOTVNOW",
+      "publishedAt": "2025-06-18T03:12:21Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3SwpcOF6Ank/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3SwpcOF6Ank/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3SwpcOF6Ank/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3SwpcOF6Ank/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3SwpcOF6Ank/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
