@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-21T02:38:35.148Z",
+  "updated": "2025-06-21T03:38:36.011Z",
   "trending": [
     {
       "id": "N5RVjtBS63Y",
@@ -327,39 +327,6 @@
       }
     },
     {
-      "id": "GigF1JdtMAQ",
-      "title": "2025年8月28日発売『スーパーロボット大戦Y』第2.5弾ショートPV",
-      "channel": "Bandai Namco Entertainment",
-      "publishedAt": "2025-06-19T11:30:24Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/GigF1JdtMAQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/GigF1JdtMAQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/GigF1JdtMAQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/GigF1JdtMAQ/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/GigF1JdtMAQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "lLCBq4VYKJ0",
       "title": "【フェアレディZ S30Z】廃車確定のエンジンブロー。さよなら訳ありのヤフオクの悪魔のZ。レストア NISSAN 湾岸ミッドナイト【湾岸MIDNIGHT FAIRLADYZ】",
       "channel": "悪魔の姉妹",
@@ -387,6 +354,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/lLCBq4VYKJ0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "GigF1JdtMAQ",
+      "title": "2025年8月28日発売『スーパーロボット大戦Y』第2.5弾ショートPV",
+      "channel": "Bandai Namco Entertainment",
+      "publishedAt": "2025-06-19T11:30:24Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GigF1JdtMAQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GigF1JdtMAQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GigF1JdtMAQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GigF1JdtMAQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GigF1JdtMAQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
