@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-21T13:38:35.877Z",
+  "updated": "2025-06-21T14:38:35.176Z",
   "trending": [
     {
       "id": "YNNSLaGXS78",
@@ -690,39 +690,6 @@
       }
     },
     {
-      "id": "XN2CXSK3e3k",
-      "title": "真夏日よ",
-      "channel": "Nogizaka46 - Topic",
-      "publishedAt": "2025-06-19T15:02:37Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/XN2CXSK3e3k/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/XN2CXSK3e3k/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/XN2CXSK3e3k/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/XN2CXSK3e3k/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/XN2CXSK3e3k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "HXKjhfdMQ4g",
       "title": "なぜPL学園OBたちは苦しんだのか？片岡篤史＆今江敏晃の「笑うことを忘れた」1年 【コーチングバイブル】",
       "channel": "フルタの方程式【古田敦也 公式チャンネル】",
@@ -750,6 +717,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/HXKjhfdMQ4g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "XN2CXSK3e3k",
+      "title": "真夏日よ",
+      "channel": "Nogizaka46 - Topic",
+      "publishedAt": "2025-06-19T15:02:37Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XN2CXSK3e3k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XN2CXSK3e3k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XN2CXSK3e3k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XN2CXSK3e3k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XN2CXSK3e3k/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
