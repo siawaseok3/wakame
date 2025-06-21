@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-21T00:38:35.185Z",
+  "updated": "2025-06-21T01:38:35.060Z",
   "trending": [
     {
       "id": "N5RVjtBS63Y",
@@ -426,39 +426,6 @@
       }
     },
     {
-      "id": "VQ7YLPVDnbE",
-      "title": "モンストニュース[6/19]TVアニメ『薬屋のひとりごと』コラボ追加情報！新しいガチャ、「★5以上ぜーんぶ限定ガチャ」開催！「超究極・彩」や真獣神化情報も！【モンスト公式】",
-      "channel": "モンスト（モンスターストライク）公式",
-      "publishedAt": "2025-06-19T07:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/VQ7YLPVDnbE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/VQ7YLPVDnbE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/VQ7YLPVDnbE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/VQ7YLPVDnbE/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/VQ7YLPVDnbE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "TEI2pVmszI0",
       "title": "Hey! Say! JUMP - NERD [H⁺ Official Live Video]",
       "channel": "Hey! Say! JUMP",
@@ -486,6 +453,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/TEI2pVmszI0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "VQ7YLPVDnbE",
+      "title": "モンストニュース[6/19]TVアニメ『薬屋のひとりごと』コラボ追加情報！新しいガチャ、「★5以上ぜーんぶ限定ガチャ」開催！「超究極・彩」や真獣神化情報も！【モンスト公式】",
+      "channel": "モンスト（モンスターストライク）公式",
+      "publishedAt": "2025-06-19T07:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VQ7YLPVDnbE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VQ7YLPVDnbE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VQ7YLPVDnbE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VQ7YLPVDnbE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VQ7YLPVDnbE/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -812,6 +812,582 @@
       }
     }
   ],
-  "music": [],
+  "music": [
+    {
+      "id": "nLyZAA6TDEk",
+      "title": "unofficial rehearsal at SMTOWN LIVE LA #Hearts2Hearts #하츠투하츠 #H2H #STYLE #Hearts2Hearts_STYLE",
+      "channel": "Hearts2Hearts",
+      "publishedAt": "2025-06-19T12:31:39Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nLyZAA6TDEk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nLyZAA6TDEk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nLyZAA6TDEk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "2ZQka-QMzxk",
+      "title": "sombr - we never dated (official lyric video)",
+      "channel": "sombr",
+      "publishedAt": "2025-06-20T04:00:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2ZQka-QMzxk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2ZQka-QMzxk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2ZQka-QMzxk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "XtTX3oupbJM",
+      "title": "what I do between shows at Hamilton on Broadway #actor #hamilton #broadway #dayinmylife #diml #grwm",
+      "channel": "JJ Niemann",
+      "publishedAt": "2025-06-20T02:44:39Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XtTX3oupbJM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XtTX3oupbJM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XtTX3oupbJM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "9FdcRExAIi8",
+      "title": "Metro…In Dino: Aur Mohabbat Kitni Karoon (Song) | Anurag B | Pritam, Arijit S, Sandeep S | Bhushan K",
+      "channel": "T-Series",
+      "publishedAt": "2025-06-20T07:30:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9FdcRExAIi8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9FdcRExAIi8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9FdcRExAIi8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "KHtJ3HEB1rc",
+      "title": "Stray Kids『Hollow』MV Making Shorts (HAN ver.) #StrayKids #スキズ #SKZ_Hollow",
+      "channel": "Stray Kids Japan Official YouTube",
+      "publishedAt": "2025-06-20T08:01:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KHtJ3HEB1rc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KHtJ3HEB1rc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KHtJ3HEB1rc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "dPh80CEbUGg",
+      "title": "Eyes on me👀🖤🩷#SnowMan #目黒蓮 #佐久間大介#SnowMan_SERIOUS #shorts",
+      "channel": "Snow Man",
+      "publishedAt": "2025-06-19T08:00:48Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dPh80CEbUGg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dPh80CEbUGg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dPh80CEbUGg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "hH04ohL_i7A",
+      "title": "SERIOUSに踊って👻💜💚#SnowMan #深澤辰哉 #阿部亮平#SnowMan_SERIOUS #shorts",
+      "channel": "Snow Man",
+      "publishedAt": "2025-06-20T08:00:57Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hH04ohL_i7A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hH04ohL_i7A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hH04ohL_i7A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "renPiAWIaew",
+      "title": "Dil Thaam Ke | Maalik | Rajkummar Rao, Huma Qureshi | Sachin-Jigar | Rashmeet K, Rana M, Amitabh B",
+      "channel": "Tips Official",
+      "publishedAt": "2025-06-20T07:00:21Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/renPiAWIaew/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/renPiAWIaew/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/renPiAWIaew/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "wGcGbpBIOLA",
+      "title": "PIYA (Music Video): Sneha Shankar | Feat. Hardik Banga, Aashi Sahni | New Hindi Song | T-Series",
+      "channel": "T-Series",
+      "publishedAt": "2025-06-19T05:30:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wGcGbpBIOLA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wGcGbpBIOLA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wGcGbpBIOLA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "KsS52GOMCUo",
+      "title": "Stray Kids『Hollow』MV Making Shorts 6 #StrayKids #スキズ #SKZ_Hollow",
+      "channel": "Stray Kids Japan Official YouTube",
+      "publishedAt": "2025-06-20T08:01:23Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KsS52GOMCUo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KsS52GOMCUo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KsS52GOMCUo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "Cf1hKtrA9lg",
+      "title": "Ed Sheeran - Drive (From F1® The Movie) [Official Music Video]",
+      "channel": "Ed Sheeran",
+      "publishedAt": "2025-06-20T13:01:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Cf1hKtrA9lg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Cf1hKtrA9lg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Cf1hKtrA9lg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "SmkWM31r3NM",
+      "title": "이랴이랴🤠 퇴근하는 카우걸 포착🔍#KISSOFLIFE #키스오브라이프 #KIOF #KISSOFLIFE_224 #Lips_Hips_Kiss #Shorts",
+      "channel": "KISS OF LIFE",
+      "publishedAt": "2025-06-20T12:45:18Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SmkWM31r3NM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SmkWM31r3NM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SmkWM31r3NM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "mc8HwMsTYEA",
+      "title": "7eme Cri de minuit - Vendredi 20 Juin 2025 - Eglise de Dieu Sanctifiee Haiti - Pasteur bigot Luxoner",
+      "channel": "Eglise de Dieu Sanctifiee D'Haiti | EDS",
+      "publishedAt": "2025-06-20T23:55:03Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mc8HwMsTYEA/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mc8HwMsTYEA/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mc8HwMsTYEA/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "f--e5fca2Jg",
+      "title": "Kidd Voodoo, JC Reyes - Me Mareo (Video Oficial)",
+      "channel": "Kidd Voodoo",
+      "publishedAt": "2025-06-20T00:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/f--e5fca2Jg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/f--e5fca2Jg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/f--e5fca2Jg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "6YSf40ts3A0",
+      "title": "#RyosukeYamada is built DIFFERENT🌼 #LE_SSERAFIM #르세라핌 #SAKURA #사쿠라 #LE_SSERAFIM_DIFFERENT #山田涼介",
+      "channel": "LE SSERAFIM",
+      "publishedAt": "2025-06-20T10:00:12Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6YSf40ts3A0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6YSf40ts3A0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6YSf40ts3A0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "IwzjOFamoPA",
+      "title": "Caitlin Clark gets a Tech, no Ejection for Mabrey #caitlinclark #basketball #shorts",
+      "channel": "ESPBEN",
+      "publishedAt": "2025-06-20T00:22:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IwzjOFamoPA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IwzjOFamoPA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IwzjOFamoPA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "sDn6lZokmaM",
+      "title": "Alexandre Pires, Murilo Huff - Beijo de Outro Ângulo (Ao Vivo)",
+      "channel": "AlexandrePiresVEVO",
+      "publishedAt": "2025-06-20T00:00:59Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sDn6lZokmaM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sDn6lZokmaM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sDn6lZokmaM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "vL19WbWOxag",
+      "title": "Benson Boone - Mr Electric Blue (Official Music Video)",
+      "channel": "Benson Boone",
+      "publishedAt": "2025-06-20T04:00:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vL19WbWOxag/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vL19WbWOxag/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vL19WbWOxag/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "jXtGTp9nM08",
+      "title": "😴👬📸🍜✌️🎤👍🍻🤳 “#SnowMan Dome Tour 2024 #RAYS” Blu-ray&amp;DVD 6.25 Release! #TheDocumentaryofRAYS",
+      "channel": "Snow Man",
+      "publishedAt": "2025-06-20T03:00:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jXtGTp9nM08/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jXtGTp9nM08/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jXtGTp9nM08/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "jXmUJvNSSm0",
+      "title": "Muse - Unravelling (Official Lyric Video)",
+      "channel": "Muse",
+      "publishedAt": "2025-06-20T04:01:03Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jXmUJvNSSm0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jXmUJvNSSm0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jXmUJvNSSm0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "EAriFxPrIbE",
+      "title": "#Video | #ArvindAkelaKallu &amp; #ShilpiRaj – Lahanga Ke Machardani | लहंगा के मच्छरदानी | अरविंद अकेला",
+      "channel": "VYRL Bhojpuri",
+      "publishedAt": "2025-06-20T04:30:22Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EAriFxPrIbE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EAriFxPrIbE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EAriFxPrIbE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "P7xnBdx70GU",
+      "title": "Lorde - Hammer",
+      "channel": "Lorde",
+      "publishedAt": "2025-06-20T13:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/P7xnBdx70GU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/P7xnBdx70GU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/P7xnBdx70GU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "HjYfXAopBg8",
+      "title": "お返事しないよ🧡おじさん構文😄❗️【小廻こま/ミリプロ】#歌ってみた",
+      "channel": "小廻こま / Komawari Koma",
+      "publishedAt": "2025-06-20T09:00:25Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HjYfXAopBg8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HjYfXAopBg8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HjYfXAopBg8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "mP1_xsyhvNU",
+      "title": "#BTS 에서 #빌려온고양이 #제이홉 선배님 🐿️💜 #jhope #방탄소년단 #Billyeoon_Goyangi #Do_the_Dance#IROHA #이로하 #MOKA #모카",
+      "channel": "ILLIT",
+      "publishedAt": "2025-06-20T11:30:46Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mP1_xsyhvNU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mP1_xsyhvNU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mP1_xsyhvNU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    },
+    {
+      "id": "lgV8s6RiScQ",
+      "title": "Eminem&#39;s Daughter WRITES his Songs 🥹❤️",
+      "channel": "Music Media",
+      "publishedAt": "2025-06-20T01:23:32Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lgV8s6RiScQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lgV8s6RiScQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lgV8s6RiScQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    }
+  ],
   "gaming": []
 }
