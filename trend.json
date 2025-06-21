@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-21T07:38:34.879Z",
+  "updated": "2025-06-21T08:38:34.907Z",
   "trending": [
     {
       "id": "YNNSLaGXS78",
@@ -525,39 +525,6 @@
       }
     },
     {
-      "id": "hY359iE59Bg",
-      "title": "【公式アニメ】 白の物語Ⅰ「教導の聖女エクレシア」/ The Fallen & The Virtuous I: ”Dogmatika Ecclesia, the Virtuous”",
-      "channel": "【公式】遊戯王OCGチャンネル",
-      "publishedAt": "2025-06-20T03:00:29Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/hY359iE59Bg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/hY359iE59Bg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/hY359iE59Bg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/hY359iE59Bg/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/hY359iE59Bg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "UvgCKkousjs",
       "title": "148キロ投げる中３…100イニング無失点の怪物。【星稜中】",
       "channel": "トクサンTV【A&R】",
@@ -585,6 +552,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/UvgCKkousjs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "hY359iE59Bg",
+      "title": "【公式アニメ】 白の物語Ⅰ「教導の聖女エクレシア」/ The Fallen & The Virtuous I: ”Dogmatika Ecclesia, the Virtuous”",
+      "channel": "【公式】遊戯王OCGチャンネル",
+      "publishedAt": "2025-06-20T03:00:29Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hY359iE59Bg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hY359iE59Bg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hY359iE59Bg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hY359iE59Bg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hY359iE59Bg/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
