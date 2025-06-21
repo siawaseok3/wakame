@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-21T09:38:34.759Z",
+  "updated": "2025-06-21T10:38:35.432Z",
   "trending": [
     {
       "id": "YNNSLaGXS78",
@@ -624,39 +624,6 @@
       }
     },
     {
-      "id": "TnvhXbf4Eu4",
-      "title": "【この状況でも\"一流の振る舞い\" 大谷が今シリーズ2度目の死球でスアレスは退場！】パドレスvsドジャース MLB2025シーズン 6.20",
-      "channel": "SPOTVNOW",
-      "publishedAt": "2025-06-20T05:19:56Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/TnvhXbf4Eu4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/TnvhXbf4Eu4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/TnvhXbf4Eu4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/TnvhXbf4Eu4/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/TnvhXbf4Eu4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "kT4JC5yKlKg",
       "title": "Sincerely, from a Future",
       "channel": "back number - Topic",
@@ -684,6 +651,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/kT4JC5yKlKg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "TnvhXbf4Eu4",
+      "title": "【この状況でも\"一流の振る舞い\" 大谷が今シリーズ2度目の死球でスアレスは退場！】パドレスvsドジャース MLB2025シーズン 6.20",
+      "channel": "SPOTVNOW",
+      "publishedAt": "2025-06-20T05:19:56Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TnvhXbf4Eu4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TnvhXbf4Eu4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TnvhXbf4Eu4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TnvhXbf4Eu4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TnvhXbf4Eu4/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
