@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-21T08:38:34.907Z",
+  "updated": "2025-06-21T09:38:34.759Z",
   "trending": [
     {
       "id": "YNNSLaGXS78",
@@ -492,39 +492,6 @@
       }
     },
     {
-      "id": "bFN66qm37J0",
-      "title": "SixTONES【青ジャージで遊び尽くす!!】みんなで跳ねまくりでハシャギまくり🎵",
-      "channel": "SixTONES",
-      "publishedAt": "2025-06-20T13:01:14Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/bFN66qm37J0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/bFN66qm37J0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/bFN66qm37J0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/bFN66qm37J0/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/bFN66qm37J0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "UvgCKkousjs",
       "title": "148キロ投げる中３…100イニング無失点の怪物。【星稜中】",
       "channel": "トクサンTV【A&R】",
@@ -552,6 +519,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/UvgCKkousjs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "bFN66qm37J0",
+      "title": "SixTONES【青ジャージで遊び尽くす!!】みんなで跳ねまくりでハシャギまくり🎵",
+      "channel": "SixTONES",
+      "publishedAt": "2025-06-20T13:01:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bFN66qm37J0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bFN66qm37J0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bFN66qm37J0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bFN66qm37J0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bFN66qm37J0/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
