@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-21T20:38:35.324Z",
+  "updated": "2025-06-21T21:38:34.952Z",
   "trending": [
     {
       "id": "YNNSLaGXS78",
@@ -558,39 +558,6 @@
       }
     },
     {
-      "id": "bFN66qm37J0",
-      "title": "SixTONES【青ジャージで遊び尽くす!!】みんなで跳ねまくりでハシャギまくり🎵",
-      "channel": "SixTONES",
-      "publishedAt": "2025-06-20T13:01:14Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/bFN66qm37J0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/bFN66qm37J0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/bFN66qm37J0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/bFN66qm37J0/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/bFN66qm37J0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "6VUpfMezLXY",
       "title": "2人きりで初の外食！夫婦でスシローに行ってみました",
       "channel": "ヒカル（Hikaru）",
@@ -651,6 +618,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/kT4JC5yKlKg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "bFN66qm37J0",
+      "title": "SixTONES【青ジャージで遊び尽くす!!】みんなで跳ねまくりでハシャギまくり🎵",
+      "channel": "SixTONES",
+      "publishedAt": "2025-06-20T13:01:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bFN66qm37J0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bFN66qm37J0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bFN66qm37J0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bFN66qm37J0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bFN66qm37J0/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -789,35 +789,30 @@
       }
     },
     {
-      "id": "HXKjhfdMQ4g",
-      "title": "なぜPL学園OBたちは苦しんだのか？片岡篤史＆今江敏晃の「笑うことを忘れた」1年 【コーチングバイブル】",
-      "channel": "フルタの方程式【古田敦也 公式チャンネル】",
-      "publishedAt": "2025-06-20T12:00:36Z",
+      "id": "aUWf1fEOUsA",
+      "title": "【公式】『ポケポケ』テーマ拡張パック「イーブイガーデン」",
+      "channel": "ポケモン公式YouTubeチャンネル",
+      "publishedAt": "2025-06-18T13:00:02Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/HXKjhfdMQ4g/default.jpg",
+          "url": "https://i.ytimg.com/vi/aUWf1fEOUsA/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/HXKjhfdMQ4g/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/aUWf1fEOUsA/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/HXKjhfdMQ4g/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/aUWf1fEOUsA/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/HXKjhfdMQ4g/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/aUWf1fEOUsA/sddefault.jpg",
           "width": 640,
           "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/HXKjhfdMQ4g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
         }
       }
     }
