@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-21T21:38:34.952Z",
+  "updated": "2025-06-21T22:38:34.858Z",
   "trending": [
     {
       "id": "YNNSLaGXS78",
@@ -789,30 +789,35 @@
       }
     },
     {
-      "id": "aUWf1fEOUsA",
-      "title": "【公式】『ポケポケ』テーマ拡張パック「イーブイガーデン」",
-      "channel": "ポケモン公式YouTubeチャンネル",
-      "publishedAt": "2025-06-18T13:00:02Z",
+      "id": "HXKjhfdMQ4g",
+      "title": "なぜPL学園OBたちは苦しんだのか？片岡篤史＆今江敏晃の「笑うことを忘れた」1年 【コーチングバイブル】",
+      "channel": "フルタの方程式【古田敦也 公式チャンネル】",
+      "publishedAt": "2025-06-20T12:00:36Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/aUWf1fEOUsA/default.jpg",
+          "url": "https://i.ytimg.com/vi/HXKjhfdMQ4g/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/aUWf1fEOUsA/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/HXKjhfdMQ4g/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/aUWf1fEOUsA/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/HXKjhfdMQ4g/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/aUWf1fEOUsA/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/HXKjhfdMQ4g/sddefault.jpg",
           "width": 640,
           "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HXKjhfdMQ4g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       }
     }
