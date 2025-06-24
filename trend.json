@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-24T21:38:35.611Z",
+  "updated": "2025-06-24T22:38:37.026Z",
   "trending": [
     {
       "id": "xfFOdJlit6A",
@@ -624,6 +624,39 @@
       }
     },
     {
+      "id": "cuuRVOqGZdg",
+      "title": "彼氏・旦那の周りにいたら嫌な女をぶっ飛ばす会２０２５",
+      "channel": "平成フラミンゴ",
+      "publishedAt": "2025-06-22T11:01:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cuuRVOqGZdg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cuuRVOqGZdg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cuuRVOqGZdg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cuuRVOqGZdg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cuuRVOqGZdg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
       "id": "51opsL4IoJQ",
       "title": "【卒業】今までありがとうございました！",
       "channel": "#真相の部屋",
@@ -684,39 +717,6 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/SFgbZD3fcSA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
-      "id": "cuuRVOqGZdg",
-      "title": "彼氏・旦那の周りにいたら嫌な女をぶっ飛ばす会２０２５",
-      "channel": "平成フラミンゴ",
-      "publishedAt": "2025-06-22T11:01:04Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/cuuRVOqGZdg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/cuuRVOqGZdg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/cuuRVOqGZdg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/cuuRVOqGZdg/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/cuuRVOqGZdg/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
