@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-25T10:38:37.171Z",
+  "updated": "2025-06-25T11:38:37.235Z",
   "trending": [
     {
       "id": "2aFgfKtg3V4",
@@ -63,39 +63,6 @@
       }
     },
     {
-      "id": "e0Vr9sjQmWY",
-      "title": "『国宝』公開記念特番【大ヒット上映中】",
-      "channel": "東宝MOVIEチャンネル",
-      "publishedAt": "2025-06-24T03:00:46Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/e0Vr9sjQmWY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/e0Vr9sjQmWY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/e0Vr9sjQmWY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/e0Vr9sjQmWY/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/e0Vr9sjQmWY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "-LnHz2aH8bA",
       "title": "【最新大型アプデ徹底検証】ワットソンが赤ヘルと金ヘル両方装備の化物にｗｗ  ヘムロックめっちゃ強いぞ！  | Apex Legends",
       "channel": "TIE Ru",
@@ -123,6 +90,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/-LnHz2aH8bA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "e0Vr9sjQmWY",
+      "title": "『国宝』公開記念特番【大ヒット上映中】",
+      "channel": "東宝MOVIEチャンネル",
+      "publishedAt": "2025-06-24T03:00:46Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/e0Vr9sjQmWY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/e0Vr9sjQmWY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/e0Vr9sjQmWY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/e0Vr9sjQmWY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/e0Vr9sjQmWY/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -426,39 +426,6 @@
       }
     },
     {
-      "id": "9jxXwg50rHo",
-      "title": "『ドラゴンクエストウォーク』の新情報をお届け「スマートウォーク」#121",
-      "channel": "ドラゴンクエストウォーク公式",
-      "publishedAt": "2025-06-23T06:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/9jxXwg50rHo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/9jxXwg50rHo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/9jxXwg50rHo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/9jxXwg50rHo/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/9jxXwg50rHo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "sGkJ5A4oL7k",
       "title": "ニセ明 - Fake (feat. ウソノ晴臣, 雅マモル, 上白石まね) [Official Video]",
       "channel": "星野源",
@@ -486,6 +453,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/sGkJ5A4oL7k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "9jxXwg50rHo",
+      "title": "『ドラゴンクエストウォーク』の新情報をお届け「スマートウォーク」#121",
+      "channel": "ドラゴンクエストウォーク公式",
+      "publishedAt": "2025-06-23T06:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9jxXwg50rHo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9jxXwg50rHo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9jxXwg50rHo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9jxXwg50rHo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9jxXwg50rHo/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
