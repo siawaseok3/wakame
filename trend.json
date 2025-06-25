@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-25T07:38:40.322Z",
+  "updated": "2025-06-25T08:38:39.538Z",
   "trending": [
     {
       "id": "2aFgfKtg3V4",
@@ -751,39 +751,6 @@
       }
     },
     {
-      "id": "SrnXpJTlwFY",
-      "title": "【漫画】和中の兄貴…目が見えない。後遺症か。",
-      "channel": "ヒューマンバグ大学_闇の漫画",
-      "publishedAt": "2025-06-23T09:30:16Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/SrnXpJTlwFY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/SrnXpJTlwFY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/SrnXpJTlwFY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/SrnXpJTlwFY/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/SrnXpJTlwFY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "rl1Yo3Zyw64",
       "title": "【MV】死神様にお願い／まふまふ",
       "channel": "まふまふちゃんねる",
@@ -811,6 +778,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/rl1Yo3Zyw64/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "SrnXpJTlwFY",
+      "title": "【漫画】和中の兄貴…目が見えない。後遺症か。",
+      "channel": "ヒューマンバグ大学_闇の漫画",
+      "publishedAt": "2025-06-23T09:30:16Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SrnXpJTlwFY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SrnXpJTlwFY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SrnXpJTlwFY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SrnXpJTlwFY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SrnXpJTlwFY/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
