@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-25T09:38:35.442Z",
+  "updated": "2025-06-25T10:38:37.171Z",
   "trending": [
     {
       "id": "2aFgfKtg3V4",
@@ -360,39 +360,6 @@
       }
     },
     {
-      "id": "QbEy1Zt4nkc",
-      "title": "【ドッキリ】A0の1on1ガチ考察を１点読みせよ！",
-      "channel": "ポケモンソルジャー【ポケソル】",
-      "publishedAt": "2025-06-24T08:00:23Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/QbEy1Zt4nkc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/QbEy1Zt4nkc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/QbEy1Zt4nkc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/QbEy1Zt4nkc/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/QbEy1Zt4nkc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "t7RN-R5DnZM",
       "title": "[#WSWF] 〈댄스 필름 미션〉메인 구간 투표 | OSAKA Ojo Gang(오사카 오죠 갱)",
       "channel": "The CHOOM (더 춤)",
@@ -420,6 +387,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/t7RN-R5DnZM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "QbEy1Zt4nkc",
+      "title": "【ドッキリ】A0の1on1ガチ考察を１点読みせよ！",
+      "channel": "ポケモンソルジャー【ポケソル】",
+      "publishedAt": "2025-06-24T08:00:23Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QbEy1Zt4nkc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QbEy1Zt4nkc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QbEy1Zt4nkc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QbEy1Zt4nkc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QbEy1Zt4nkc/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
