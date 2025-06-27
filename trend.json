@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-27T19:38:35.491Z",
+  "updated": "2025-06-27T20:38:35.816Z",
   "trending": [
     {
       "id": "VIg9MD3tIEc",
@@ -233,39 +233,6 @@
       }
     },
     {
-      "id": "0PZwmL36ZRc",
-      "title": "【超難問】不破湊ボイスを聞き分ける新感覚ゲームが沼すぎた…",
-      "channel": "ROF-MAO / ろふまおチャンネル【にじさんじ】",
-      "publishedAt": "2025-06-26T13:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/0PZwmL36ZRc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/0PZwmL36ZRc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/0PZwmL36ZRc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/0PZwmL36ZRc/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/0PZwmL36ZRc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "FwNy0AVh9-E",
       "title": "悪口NGで平本蓮が朝倉未来vsクレベル・コイケ&RIZINフェザー級の行方を語る｜【ザ・ワンTV＆格闘キャストコラボ後編】",
       "channel": "ザ・ワンTV",
@@ -293,6 +260,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/FwNy0AVh9-E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "0PZwmL36ZRc",
+      "title": "【超難問】不破湊ボイスを聞き分ける新感覚ゲームが沼すぎた…",
+      "channel": "ROF-MAO / ろふまおチャンネル【にじさんじ】",
+      "publishedAt": "2025-06-26T13:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0PZwmL36ZRc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0PZwmL36ZRc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0PZwmL36ZRc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0PZwmL36ZRc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0PZwmL36ZRc/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
