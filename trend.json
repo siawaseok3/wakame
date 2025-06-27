@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-27T10:38:35.651Z",
+  "updated": "2025-06-27T11:38:35.158Z",
   "trending": [
     {
       "id": "VIg9MD3tIEc",
@@ -299,39 +299,6 @@
       }
     },
     {
-      "id": "hPAFMHPu8ro",
-      "title": "本当にすみませんでした…。ヒカノア夫婦と謝罪焼肉会！",
-      "channel": "桑田龍征",
-      "publishedAt": "2025-06-25T12:30:57Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/hPAFMHPu8ro/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/hPAFMHPu8ro/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/hPAFMHPu8ro/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/hPAFMHPu8ro/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/hPAFMHPu8ro/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "nTpajOgOztc",
       "title": "SKY-HI / At The Last  -Lyric Video-",
       "channel": "SKYHICHANNEL",
@@ -398,33 +365,33 @@
       }
     },
     {
-      "id": "bRyFVGc-hPg",
-      "title": "第1話｜THE ORIGIN(TV)【ガンチャン】",
-      "channel": "ガンダムチャンネル",
-      "publishedAt": "2025-06-26T12:00:06Z",
+      "id": "hPAFMHPu8ro",
+      "title": "本当にすみませんでした…。ヒカノア夫婦と謝罪焼肉会！",
+      "channel": "桑田龍征",
+      "publishedAt": "2025-06-25T12:30:57Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/bRyFVGc-hPg/default.jpg",
+          "url": "https://i.ytimg.com/vi/hPAFMHPu8ro/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/bRyFVGc-hPg/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hPAFMHPu8ro/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/bRyFVGc-hPg/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hPAFMHPu8ro/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/bRyFVGc-hPg/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/hPAFMHPu8ro/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/bRyFVGc-hPg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hPAFMHPu8ro/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -491,6 +458,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/E0n8zwIdwFw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "bRyFVGc-hPg",
+      "title": "第1話｜THE ORIGIN(TV)【ガンチャン】",
+      "channel": "ガンダムチャンネル",
+      "publishedAt": "2025-06-26T12:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bRyFVGc-hPg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bRyFVGc-hPg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bRyFVGc-hPg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bRyFVGc-hPg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bRyFVGc-hPg/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
