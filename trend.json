@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-27T13:38:35.765Z",
+  "updated": "2025-06-27T14:38:36.873Z",
   "trending": [
     {
       "id": "VIg9MD3tIEc",
@@ -134,39 +134,6 @@
       }
     },
     {
-      "id": "p7R-zBQjDGA",
-      "title": "モンストニュース[6/26]超・獣神祭新限定キャラ「メビウス」登場！新イベント「モンスト・ウォーズ3 ～運命の攻防戦～」や「エールの泉」開催！DREAMDAZE Ⅲ追加情報続々！ 【モンスト公式】",
-      "channel": "モンスト（モンスターストライク）公式",
-      "publishedAt": "2025-06-26T07:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/p7R-zBQjDGA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/p7R-zBQjDGA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/p7R-zBQjDGA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/p7R-zBQjDGA/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/p7R-zBQjDGA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "0PZwmL36ZRc",
       "title": "【超難問】不破湊ボイスを聞き分ける新感覚ゲームが沼すぎた…",
       "channel": "ROF-MAO / ろふまおチャンネル【にじさんじ】",
@@ -200,39 +167,6 @@
       }
     },
     {
-      "id": "FCnQdFR16mA",
-      "title": "初来日の弟が新幹線時速300kmの世界に大興奮！姫路城も美しすぎた！【東京→姫路→広島】",
-      "channel": "Jason Ray ジェイソン・レイ",
-      "publishedAt": "2025-06-26T07:05:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/FCnQdFR16mA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/FCnQdFR16mA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/FCnQdFR16mA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/FCnQdFR16mA/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/FCnQdFR16mA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "YFPf6yio52E",
       "title": "【歌割り/パート分け】「えぶりでいホスト」えぶホスPlayers",
       "channel": "アニメ『えぶりでいホスト』公式",
@@ -260,6 +194,72 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/YFPf6yio52E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "p7R-zBQjDGA",
+      "title": "モンストニュース[6/26]超・獣神祭新限定キャラ「メビウス」登場！新イベント「モンスト・ウォーズ3 ～運命の攻防戦～」や「エールの泉」開催！DREAMDAZE Ⅲ追加情報続々！ 【モンスト公式】",
+      "channel": "モンスト（モンスターストライク）公式",
+      "publishedAt": "2025-06-26T07:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/p7R-zBQjDGA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/p7R-zBQjDGA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/p7R-zBQjDGA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/p7R-zBQjDGA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/p7R-zBQjDGA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "FCnQdFR16mA",
+      "title": "初来日の弟が新幹線時速300kmの世界に大興奮！姫路城も美しすぎた！【東京→姫路→広島】",
+      "channel": "Jason Ray ジェイソン・レイ",
+      "publishedAt": "2025-06-26T07:05:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FCnQdFR16mA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FCnQdFR16mA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FCnQdFR16mA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FCnQdFR16mA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FCnQdFR16mA/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -398,33 +398,33 @@
       }
     },
     {
-      "id": "hPAFMHPu8ro",
-      "title": "本当にすみませんでした…。ヒカノア夫婦と謝罪焼肉会！",
-      "channel": "桑田龍征",
-      "publishedAt": "2025-06-25T12:30:57Z",
+      "id": "qowfUvoLIAg",
+      "title": "WEST.【リレークッキング第４弾】1年ぶりの大人気企画！カオスになってカムバック",
+      "channel": "WEST.",
+      "publishedAt": "2025-06-26T12:01:26Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/hPAFMHPu8ro/default.jpg",
+          "url": "https://i.ytimg.com/vi/qowfUvoLIAg/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/hPAFMHPu8ro/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/qowfUvoLIAg/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/hPAFMHPu8ro/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/qowfUvoLIAg/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/hPAFMHPu8ro/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/qowfUvoLIAg/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/hPAFMHPu8ro/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/qowfUvoLIAg/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -464,33 +464,33 @@
       }
     },
     {
-      "id": "qowfUvoLIAg",
-      "title": "WEST.【リレークッキング第４弾】1年ぶりの大人気企画！カオスになってカムバック",
-      "channel": "WEST.",
-      "publishedAt": "2025-06-26T12:01:26Z",
+      "id": "hPAFMHPu8ro",
+      "title": "本当にすみませんでした…。ヒカノア夫婦と謝罪焼肉会！",
+      "channel": "桑田龍征",
+      "publishedAt": "2025-06-25T12:30:57Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/qowfUvoLIAg/default.jpg",
+          "url": "https://i.ytimg.com/vi/hPAFMHPu8ro/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/qowfUvoLIAg/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hPAFMHPu8ro/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/qowfUvoLIAg/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hPAFMHPu8ro/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/qowfUvoLIAg/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/hPAFMHPu8ro/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/qowfUvoLIAg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hPAFMHPu8ro/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
