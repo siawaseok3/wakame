@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-27T09:38:36.417Z",
+  "updated": "2025-06-27T10:38:35.651Z",
   "trending": [
     {
       "id": "VIg9MD3tIEc",
@@ -135,7 +135,7 @@
     },
     {
       "id": "p7R-zBQjDGA",
-      "title": "モンストニュース[6/26]モンストの最新情報をお届けします！【モンスト公式】",
+      "title": "モンストニュース[6/26]超・獣神祭新限定キャラ「メビウス」登場！新イベント「モンスト・ウォーズ3 ～運命の攻防戦～」や「エールの泉」開催！DREAMDAZE Ⅲ追加情報続々！ 【モンスト公式】",
       "channel": "モンスト（モンスターストライク）公式",
       "publishedAt": "2025-06-26T07:00:06Z",
       "thumbnails": {
@@ -332,72 +332,6 @@
       }
     },
     {
-      "id": "bRyFVGc-hPg",
-      "title": "第1話｜THE ORIGIN(TV)【ガンチャン】",
-      "channel": "ガンダムチャンネル",
-      "publishedAt": "2025-06-26T12:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/bRyFVGc-hPg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/bRyFVGc-hPg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/bRyFVGc-hPg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/bRyFVGc-hPg/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/bRyFVGc-hPg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
-      "id": "Mfg6CNp2QRU",
-      "title": "【やかんの麦茶】 もうひとつのクレヨンしんちゃん 第6話「お久しぶりの春日部だゾ！」篇 ワイドスクリーン版 YAKAN NO MUGICHA",
-      "channel": "コカ・コーラ",
-      "publishedAt": "2025-06-25T09:01:13Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Mfg6CNp2QRU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Mfg6CNp2QRU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Mfg6CNp2QRU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/Mfg6CNp2QRU/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/Mfg6CNp2QRU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "nTpajOgOztc",
       "title": "SKY-HI / At The Last  -Lyric Video-",
       "channel": "SKYHICHANNEL",
@@ -458,6 +392,72 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/gEdltIDR0kk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "bRyFVGc-hPg",
+      "title": "第1話｜THE ORIGIN(TV)【ガンチャン】",
+      "channel": "ガンダムチャンネル",
+      "publishedAt": "2025-06-26T12:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bRyFVGc-hPg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bRyFVGc-hPg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bRyFVGc-hPg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bRyFVGc-hPg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bRyFVGc-hPg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "Mfg6CNp2QRU",
+      "title": "【やかんの麦茶】 もうひとつのクレヨンしんちゃん 第6話「お久しぶりの春日部だゾ！」篇 ワイドスクリーン版 YAKAN NO MUGICHA",
+      "channel": "コカ・コーラ",
+      "publishedAt": "2025-06-25T09:01:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Mfg6CNp2QRU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Mfg6CNp2QRU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Mfg6CNp2QRU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Mfg6CNp2QRU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Mfg6CNp2QRU/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -563,39 +563,6 @@
       }
     },
     {
-      "id": "586E_6piAY0",
-      "title": "運命のステージ診断…結果はステージⅡでした。【今後の治療について】",
-      "channel": "りーちゃんfamily〜パパっ子おとちゃんひいちゃん〜",
-      "publishedAt": "2025-06-26T09:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/586E_6piAY0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/586E_6piAY0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/586E_6piAY0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/586E_6piAY0/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/586E_6piAY0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "qowfUvoLIAg",
       "title": "WEST.【リレークッキング第４弾】1年ぶりの大人気企画！カオスになってカムバック",
       "channel": "WEST.",
@@ -623,6 +590,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/qowfUvoLIAg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "586E_6piAY0",
+      "title": "運命のステージ診断…結果はステージⅡでした。【今後の治療について】",
+      "channel": "りーちゃんfamily〜パパっ子おとちゃんひいちゃん〜",
+      "publishedAt": "2025-06-26T09:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/586E_6piAY0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/586E_6piAY0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/586E_6piAY0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/586E_6piAY0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/586E_6piAY0/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
