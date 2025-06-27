@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-27T16:38:35.838Z",
+  "updated": "2025-06-27T17:38:35.220Z",
   "trending": [
     {
       "id": "VIg9MD3tIEc",
@@ -35,39 +35,6 @@
       }
     },
     {
-      "id": "o4GYLXzHZKc",
-      "title": "『モンスターハンターワイルズ』無料タイトルアップデート第2弾 紹介映像",
-      "channel": "CapcomChannel",
-      "publishedAt": "2025-06-26T22:43:01Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/o4GYLXzHZKc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/o4GYLXzHZKc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/o4GYLXzHZKc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/o4GYLXzHZKc/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/o4GYLXzHZKc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "LvVJNnLQaHQ",
       "title": "0623FreeStyle",
       "channel": "SKYHICHANNEL",
@@ -95,6 +62,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/LvVJNnLQaHQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "o4GYLXzHZKc",
+      "title": "『モンスターハンターワイルズ』無料タイトルアップデート第2弾 紹介映像",
+      "channel": "CapcomChannel",
+      "publishedAt": "2025-06-26T22:43:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/o4GYLXzHZKc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/o4GYLXzHZKc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/o4GYLXzHZKc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/o4GYLXzHZKc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/o4GYLXzHZKc/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
