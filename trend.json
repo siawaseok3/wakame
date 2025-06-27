@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-27T03:38:35.398Z",
+  "updated": "2025-06-27T04:38:35.674Z",
   "trending": [
     {
       "id": "VIg9MD3tIEc",
@@ -657,39 +657,6 @@
       }
     },
     {
-      "id": "e0Vr9sjQmWY",
-      "title": "『国宝』公開記念特番【大ヒット上映中】",
-      "channel": "東宝MOVIEチャンネル",
-      "publishedAt": "2025-06-24T03:00:46Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/e0Vr9sjQmWY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/e0Vr9sjQmWY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/e0Vr9sjQmWY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/e0Vr9sjQmWY/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/e0Vr9sjQmWY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "LB6acoaQzkE",
       "title": "【早押しクイズ100問】クイズ最強双子東兄弟VS芸人チーム【粗品クイズ王への道】",
       "channel": "粗品のロケ",
@@ -717,6 +684,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/LB6acoaQzkE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "e0Vr9sjQmWY",
+      "title": "『国宝』公開記念特番【大ヒット上映中】",
+      "channel": "東宝MOVIEチャンネル",
+      "publishedAt": "2025-06-24T03:00:46Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/e0Vr9sjQmWY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/e0Vr9sjQmWY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/e0Vr9sjQmWY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/e0Vr9sjQmWY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/e0Vr9sjQmWY/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
