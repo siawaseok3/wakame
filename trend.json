@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-28T16:38:34.895Z",
+  "updated": "2025-06-28T17:38:35.535Z",
   "trending": [
     {
       "id": "M2WTUoy4y6E",
@@ -629,39 +629,6 @@
       }
     },
     {
-      "id": "o4GYLXzHZKc",
-      "title": "『モンスターハンターワイルズ』無料タイトルアップデート第2弾 紹介映像",
-      "channel": "CapcomChannel",
-      "publishedAt": "2025-06-26T22:43:01Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/o4GYLXzHZKc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/o4GYLXzHZKc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/o4GYLXzHZKc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/o4GYLXzHZKc/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/o4GYLXzHZKc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "2X-AZtpT2zU",
       "title": "【驚嘆の連続】夫の手相を緊急占い！ある行動をするだけで入る最強開運線とは！？",
       "channel": "突然ですが占ってもいいですか?【公式】",
@@ -689,6 +656,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/2X-AZtpT2zU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "o4GYLXzHZKc",
+      "title": "『モンスターハンターワイルズ』無料タイトルアップデート第2弾 紹介映像",
+      "channel": "CapcomChannel",
+      "publishedAt": "2025-06-26T22:43:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/o4GYLXzHZKc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/o4GYLXzHZKc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/o4GYLXzHZKc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/o4GYLXzHZKc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/o4GYLXzHZKc/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
