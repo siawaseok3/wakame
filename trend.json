@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-28T07:38:35.167Z",
+  "updated": "2025-06-28T08:38:34.959Z",
   "trending": [
     {
       "id": "M2WTUoy4y6E",
@@ -161,39 +161,6 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/QIt7hOm41Mw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
-      "id": "GxiE-3bnYBE",
-      "title": "【大谷翔平 直近5戦4発の量産体制！2試合連続の29号先頭打者HR！】ドジャースvsロイヤルズ MLB2025シーズン 6.28",
-      "channel": "SPOTVNOW",
-      "publishedAt": "2025-06-28T00:27:25Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/GxiE-3bnYBE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/GxiE-3bnYBE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/GxiE-3bnYBE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/GxiE-3bnYBE/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/GxiE-3bnYBE/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -755,6 +722,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/SH_8SrN3yXg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "GxiE-3bnYBE",
+      "title": "【大谷翔平 直近5戦4発の量産体制！2試合連続の29号先頭打者HR！】ドジャースvsロイヤルズ MLB2025シーズン 6.28",
+      "channel": "SPOTVNOW",
+      "publishedAt": "2025-06-28T00:27:25Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GxiE-3bnYBE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GxiE-3bnYBE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GxiE-3bnYBE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GxiE-3bnYBE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GxiE-3bnYBE/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
