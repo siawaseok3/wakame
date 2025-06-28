@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-28T12:38:35.332Z",
+  "updated": "2025-06-28T13:38:35.160Z",
   "trending": [
     {
       "id": "M2WTUoy4y6E",
@@ -398,39 +398,6 @@
       }
     },
     {
-      "id": "Zs380a4MRvA",
-      "title": "古着で一獲千金を夢見る3人【その後】逆風が吹き始めた下北沢で若者たちが仕掛ける新たな勝負【ザ・ノンフィクション】『ボクと古着と下北沢』（2025年2月放送）の3人はあれから…",
-      "channel": "フジテレビドキュメンタリー",
-      "publishedAt": "2025-06-27T09:01:02Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Zs380a4MRvA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Zs380a4MRvA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Zs380a4MRvA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/Zs380a4MRvA/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/Zs380a4MRvA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "Z7yFM5MJ_K8",
       "title": "NOBODY Expected Me to Speak 15 LANGUAGES!",
       "channel": "Kazu Languages",
@@ -458,6 +425,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/Z7yFM5MJ_K8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "Zs380a4MRvA",
+      "title": "古着で一獲千金を夢見る3人【その後】逆風が吹き始めた下北沢で若者たちが仕掛ける新たな勝負【ザ・ノンフィクション】『ボクと古着と下北沢』（2025年2月放送）の3人はあれから…",
+      "channel": "フジテレビドキュメンタリー",
+      "publishedAt": "2025-06-27T09:01:02Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Zs380a4MRvA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Zs380a4MRvA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Zs380a4MRvA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Zs380a4MRvA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Zs380a4MRvA/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
