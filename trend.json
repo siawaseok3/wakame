@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-28T03:38:35.707Z",
+  "updated": "2025-06-28T04:38:35.022Z",
   "trending": [
     {
       "id": "VIg9MD3tIEc",
@@ -431,39 +431,6 @@
       }
     },
     {
-      "id": "E0n8zwIdwFw",
-      "title": "【解禁】ドラマ「笑ゥせぇるすまん」喪黒福造を演じるのは、秋山竜次(ロバート)！／7月18日(金)よりPrime Videoで独占配信",
-      "channel": "テレ東公式 ドラマチャンネル",
-      "publishedAt": "2025-06-25T10:00:23Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/E0n8zwIdwFw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/E0n8zwIdwFw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/E0n8zwIdwFw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/E0n8zwIdwFw/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/E0n8zwIdwFw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "qowfUvoLIAg",
       "title": "WEST.【リレークッキング第４弾】1年ぶりの大人気企画！カオスになってカムバック",
       "channel": "WEST.",
@@ -491,6 +458,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/qowfUvoLIAg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "E0n8zwIdwFw",
+      "title": "【解禁】ドラマ「笑ゥせぇるすまん」喪黒福造を演じるのは、秋山竜次(ロバート)！／7月18日(金)よりPrime Videoで独占配信",
+      "channel": "テレ東公式 ドラマチャンネル",
+      "publishedAt": "2025-06-25T10:00:23Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/E0n8zwIdwFw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/E0n8zwIdwFw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/E0n8zwIdwFw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/E0n8zwIdwFw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/E0n8zwIdwFw/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
