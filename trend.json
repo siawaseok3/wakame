@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-28T02:38:35.493Z",
+  "updated": "2025-06-28T03:38:35.707Z",
   "trending": [
     {
       "id": "VIg9MD3tIEc",
@@ -464,6 +464,39 @@
       }
     },
     {
+      "id": "qowfUvoLIAg",
+      "title": "WEST.【リレークッキング第４弾】1年ぶりの大人気企画！カオスになってカムバック",
+      "channel": "WEST.",
+      "publishedAt": "2025-06-26T12:01:26Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qowfUvoLIAg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qowfUvoLIAg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qowfUvoLIAg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qowfUvoLIAg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qowfUvoLIAg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
       "id": "OCU4UgBBwJ4",
       "title": "【歌ってみた】Hurrah!! / HEROES Cover【叢雲カゲツ/にじさんじ】",
       "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
@@ -524,39 +557,6 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/Fu_HnyDWKY4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
-      "id": "qowfUvoLIAg",
-      "title": "WEST.【リレークッキング第４弾】1年ぶりの大人気企画！カオスになってカムバック",
-      "channel": "WEST.",
-      "publishedAt": "2025-06-26T12:01:26Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/qowfUvoLIAg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/qowfUvoLIAg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/qowfUvoLIAg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/qowfUvoLIAg/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/qowfUvoLIAg/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
