@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-29T20:38:34.949Z",
+  "updated": "2025-06-29T21:38:34.912Z",
   "trending": [
     {
       "id": "ZfIXXgqxVn8",
@@ -454,39 +454,6 @@
       }
     },
     {
-      "id": "ckolLS6e3BY",
-      "title": "【感動】Geroの武道館ライブをめいちゃんに語らせたらオタク全開で無限語り始まったwwwww",
-      "channel": "肉チョモランマ",
-      "publishedAt": "2025-06-28T10:01:04Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ckolLS6e3BY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ckolLS6e3BY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ckolLS6e3BY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ckolLS6e3BY/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ckolLS6e3BY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "9CHfctCOp1Q",
       "title": "【心霊】霊が映った⁉最恐化けトン検証で行雄ガチギレ【シークエンスはやとも】",
       "channel": "デニスの怖いYouTube",
@@ -514,6 +481,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/9CHfctCOp1Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "ckolLS6e3BY",
+      "title": "【感動】Geroの武道館ライブをめいちゃんに語らせたらオタク全開で無限語り始まったwwwww",
+      "channel": "肉チョモランマ",
+      "publishedAt": "2025-06-28T10:01:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ckolLS6e3BY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ckolLS6e3BY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ckolLS6e3BY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ckolLS6e3BY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ckolLS6e3BY/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
