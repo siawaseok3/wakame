@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-30T19:38:35.315Z",
+  "updated": "2025-06-30T20:38:36.700Z",
   "trending": [
     {
       "id": "ZfIXXgqxVn8",
@@ -327,39 +327,6 @@
       }
     },
     {
-      "id": "R3gwcKe8gb8",
-      "title": "#435【部屋撮!!】とんでもない人が来た日",
-      "channel": "よにのちゃんねる",
-      "publishedAt": "2025-06-29T10:58:00Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/R3gwcKe8gb8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/R3gwcKe8gb8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/R3gwcKe8gb8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/R3gwcKe8gb8/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/R3gwcKe8gb8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "wZJOmh0YytQ",
       "title": "【ついに】ウチのモンスター母とまあたそを会わせてみたらカオス空間が広がった",
       "channel": "かす",
@@ -420,6 +387,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/C1K4AyvjUbA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "R3gwcKe8gb8",
+      "title": "#435【部屋撮!!】とんでもない人が来た日",
+      "channel": "よにのちゃんねる",
+      "publishedAt": "2025-06-29T10:58:00Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R3gwcKe8gb8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R3gwcKe8gb8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R3gwcKe8gb8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/R3gwcKe8gb8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/R3gwcKe8gb8/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
