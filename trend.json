@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-30T11:38:35.528Z",
+  "updated": "2025-06-30T12:38:35.176Z",
   "trending": [
     {
       "id": "ZfIXXgqxVn8",
@@ -553,39 +553,6 @@
       }
     },
     {
-      "id": "3ksmoMUXTWo",
-      "title": "【大学お笑い】第三次大学お笑い戦争勃発！？令和ロマンにボコボコにされた鬼越トマホークが新たな高卒芸人の危機を授業します！",
-      "channel": "しくじり先生 俺みたいになるな!!【公式】",
-      "publishedAt": "2025-06-28T11:00:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/3ksmoMUXTWo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/3ksmoMUXTWo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/3ksmoMUXTWo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/3ksmoMUXTWo/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/3ksmoMUXTWo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "cLJv2L-RSYY",
       "title": "【THE LAST PIECE 本編】Ep.01 / Show Your Dream",
       "channel": "BMSG",
@@ -613,6 +580,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/cLJv2L-RSYY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "3ksmoMUXTWo",
+      "title": "【大学お笑い】第三次大学お笑い戦争勃発！？令和ロマンにボコボコにされた鬼越トマホークが新たな高卒芸人の危機を授業します！",
+      "channel": "しくじり先生 俺みたいになるな!!【公式】",
+      "publishedAt": "2025-06-28T11:00:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3ksmoMUXTWo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3ksmoMUXTWo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3ksmoMUXTWo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3ksmoMUXTWo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3ksmoMUXTWo/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
