@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-02T17:38:37.746Z",
+  "updated": "2025-07-02T18:38:36.300Z",
   "trending": [
     {
       "id": "qrPjsO9remA",
@@ -464,39 +464,6 @@
       }
     },
     {
-      "id": "-os6UWRb8ds",
-      "title": "なりふり構わないアイドル達と一致するまで終われまテン【ラウンジ】",
-      "channel": "らっだぁ",
-      "publishedAt": "2025-07-01T09:00:01Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/-os6UWRb8ds/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/-os6UWRb8ds/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/-os6UWRb8ds/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/-os6UWRb8ds/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/-os6UWRb8ds/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "072Lj1LyErc",
       "title": "KinKi Kids【KinKi Kids Concert 2024-2025 ～DOMOTO～　冒頭7分21秒 ノーカット】",
       "channel": "KinKi Kids",
@@ -524,6 +491,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/072Lj1LyErc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "-os6UWRb8ds",
+      "title": "なりふり構わないアイドル達と一致するまで終われまテン【ラウンジ】",
+      "channel": "らっだぁ",
+      "publishedAt": "2025-07-01T09:00:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-os6UWRb8ds/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-os6UWRb8ds/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-os6UWRb8ds/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-os6UWRb8ds/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-os6UWRb8ds/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
