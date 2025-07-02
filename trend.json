@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-02T12:38:36.069Z",
+  "updated": "2025-07-02T13:38:37.612Z",
   "trending": [
     {
       "id": "qrPjsO9remA",
@@ -332,39 +332,6 @@
       }
     },
     {
-      "id": "DTXgp84lOM8",
-      "title": "ダイダイダイダイダイキライ／まふまふ×めいちゃん【歌ってみた】",
-      "channel": "まふまふちゃんねる",
-      "publishedAt": "2025-07-01T09:00:14Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/DTXgp84lOM8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/DTXgp84lOM8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/DTXgp84lOM8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/DTXgp84lOM8/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/DTXgp84lOM8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "TOd7e84B5uM",
       "title": "【Rちゃん彼氏オーディション】のすけの密着動画を撮りました",
       "channel": "時間マスターなりたい　あだち",
@@ -392,6 +359,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/TOd7e84B5uM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "DTXgp84lOM8",
+      "title": "ダイダイダイダイダイキライ／まふまふ×めいちゃん【歌ってみた】",
+      "channel": "まふまふちゃんねる",
+      "publishedAt": "2025-07-01T09:00:14Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DTXgp84lOM8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DTXgp84lOM8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DTXgp84lOM8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DTXgp84lOM8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DTXgp84lOM8/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
