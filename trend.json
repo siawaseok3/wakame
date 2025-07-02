@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-02T02:38:35.381Z",
+  "updated": "2025-07-02T03:38:36.657Z",
   "trending": [
     {
       "id": "g70yImobLm4",
@@ -619,39 +619,6 @@
       }
     },
     {
-      "id": "2NMkUEG2MSg",
-      "title": "【結果速報】ヤンが過去一の体で挑んだビーフ佐々木クラシック",
-      "channel": "SAWAYAN CHANNEL / サワヤン チャンネル",
-      "publishedAt": "2025-06-29T13:22:36Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/2NMkUEG2MSg/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/2NMkUEG2MSg/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/2NMkUEG2MSg/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/2NMkUEG2MSg/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/2NMkUEG2MSg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "YuQ989ebhsg",
       "title": "Mrs. GREEN APPLE - 青と夏 M/V Cover by ちょもこ(一生友子＆ちょき)",
       "channel": "一生友子",
@@ -679,6 +646,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/YuQ989ebhsg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "2NMkUEG2MSg",
+      "title": "【結果速報】ヤンが過去一の体で挑んだビーフ佐々木クラシック",
+      "channel": "SAWAYAN CHANNEL / サワヤン チャンネル",
+      "publishedAt": "2025-06-29T13:22:36Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2NMkUEG2MSg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2NMkUEG2MSg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2NMkUEG2MSg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2NMkUEG2MSg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2NMkUEG2MSg/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
