@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-02T16:38:35.444Z",
+  "updated": "2025-07-02T17:38:37.746Z",
   "trending": [
     {
       "id": "qrPjsO9remA",
@@ -530,39 +530,6 @@
       }
     },
     {
-      "id": "keIpWper264",
-      "title": "いきなりBBQ第７弾③【水道橋博士が語る！うつ闘病、議員時代の苦悩】",
-      "channel": "千原ジュニアYouTube",
-      "publishedAt": "2025-07-01T10:36:03Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/keIpWper264/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/keIpWper264/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/keIpWper264/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/keIpWper264/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/keIpWper264/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "K8hss56sZb8",
       "title": "赤ちゃんと初対面を果たしたポメラニアンの反応が感動的でした…",
       "channel": "ポメラニアンのポメくん",
@@ -590,6 +557,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/K8hss56sZb8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "keIpWper264",
+      "title": "いきなりBBQ第７弾③【水道橋博士が語る！うつ闘病、議員時代の苦悩】",
+      "channel": "千原ジュニアYouTube",
+      "publishedAt": "2025-07-01T10:36:03Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/keIpWper264/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/keIpWper264/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/keIpWper264/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/keIpWper264/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/keIpWper264/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
