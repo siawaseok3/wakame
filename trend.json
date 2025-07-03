@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-03T02:38:35.104Z",
+  "updated": "2025-07-03T03:38:35.366Z",
   "trending": [
     {
       "id": "qrPjsO9remA",
@@ -723,39 +723,6 @@
       }
     },
     {
-      "id": "VqoXv7s26Og",
-      "title": "賭けろ！最後の望み！！566.36！！！",
-      "channel": "Mハシ",
-      "publishedAt": "2025-06-30T15:19:52Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/VqoXv7s26Og/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/VqoXv7s26Og/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/VqoXv7s26Og/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/VqoXv7s26Og/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/VqoXv7s26Og/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "oUxRqNBXu14",
       "title": "【男のロマン】金を掘り当てろ！発掘キットで一攫千金目指してみた #くろなん",
       "channel": "ChroNoiR",
@@ -783,6 +750,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/oUxRqNBXu14/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "VqoXv7s26Og",
+      "title": "賭けろ！最後の望み！！566.36！！！",
+      "channel": "Mハシ",
+      "publishedAt": "2025-06-30T15:19:52Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VqoXv7s26Og/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VqoXv7s26Og/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VqoXv7s26Og/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VqoXv7s26Og/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VqoXv7s26Og/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
