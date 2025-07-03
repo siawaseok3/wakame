@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-03T16:38:35.932Z",
+  "updated": "2025-07-03T17:38:37.169Z",
   "trending": [
     {
       "id": "fdYFKOMQGUU",
@@ -525,6 +525,34 @@
       }
     },
     {
+      "id": "BJmF1Qlt2p8",
+      "title": "【発言ノーカット】自公の公約”2万円現金給付”「自治体に丸投げやめて」　福岡市だけでコスト10億円の可能性　高島市長が訴え",
+      "channel": "RKB毎日放送NEWS",
+      "publishedAt": "2025-07-02T02:01:54Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BJmF1Qlt2p8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BJmF1Qlt2p8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BJmF1Qlt2p8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BJmF1Qlt2p8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      }
+    },
+    {
       "id": "rRMkJlzUgw0",
       "title": "【クレヨンしんちゃん】エアコンがこわれちゃったゾ《アニメ公式》",
       "channel": "【アニメ】クレヨンしんちゃん公式チャンネル",
@@ -554,34 +582,6 @@
           "url": "https://i.ytimg.com/vi/rRMkJlzUgw0/maxresdefault.jpg",
           "width": 1280,
           "height": 720
-        }
-      }
-    },
-    {
-      "id": "BJmF1Qlt2p8",
-      "title": "【発言ノーカット】自公の公約”2万円現金給付”「自治体に丸投げやめて」　福岡市だけでコスト10億円の可能性　高島市長が訴え",
-      "channel": "RKB毎日放送NEWS",
-      "publishedAt": "2025-07-02T02:01:54Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/BJmF1Qlt2p8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/BJmF1Qlt2p8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/BJmF1Qlt2p8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/BJmF1Qlt2p8/sddefault.jpg",
-          "width": 640,
-          "height": 480
         }
       }
     },
