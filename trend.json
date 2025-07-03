@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-03T09:38:35.844Z",
+  "updated": "2025-07-03T10:38:36.873Z",
   "trending": [
     {
       "id": "qrPjsO9remA",
@@ -167,39 +167,6 @@
       }
     },
     {
-      "id": "7sLtHs_elbI",
-      "title": "RIZIN WORLD GP 2025 フライ級トーナメント抽選会 | Flyweight Tournament 1st Round Draw",
-      "channel": "RIZIN FIGHTING FEDERATION",
-      "publishedAt": "2025-07-01T11:05:51Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/7sLtHs_elbI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/7sLtHs_elbI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/7sLtHs_elbI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/7sLtHs_elbI/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/7sLtHs_elbI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "g70yImobLm4",
       "title": "乃木坂46『Same numbers』MUSIC VIDEO",
       "channel": "乃木坂46 OFFICIAL YouTube CHANNEL",
@@ -227,6 +194,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/g70yImobLm4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "7sLtHs_elbI",
+      "title": "RIZIN WORLD GP 2025 フライ級トーナメント抽選会 | Flyweight Tournament 1st Round Draw",
+      "channel": "RIZIN FIGHTING FEDERATION",
+      "publishedAt": "2025-07-01T11:05:51Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7sLtHs_elbI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7sLtHs_elbI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7sLtHs_elbI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7sLtHs_elbI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7sLtHs_elbI/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -563,34 +563,6 @@
       }
     },
     {
-      "id": "4ByDuFSGvoQ",
-      "title": "【※痛い表現がございます】配信を中断して病院へ…かなたその運命やいかに！？【天音かなた/ホロライブ】",
-      "channel": "Kanata Ch. 天音かなた",
-      "publishedAt": "2025-07-01T11:02:12Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/4ByDuFSGvoQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/4ByDuFSGvoQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/4ByDuFSGvoQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/4ByDuFSGvoQ/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        }
-      }
-    },
-    {
       "id": "keIpWper264",
       "title": "いきなりBBQ第７弾③【水道橋博士が語る！うつ闘病、議員時代の苦悩】",
       "channel": "千原ジュニアYouTube",
@@ -620,6 +592,34 @@
           "url": "https://i.ytimg.com/vi/keIpWper264/maxresdefault.jpg",
           "width": 1280,
           "height": 720
+        }
+      }
+    },
+    {
+      "id": "4ByDuFSGvoQ",
+      "title": "【※痛い表現がございます】配信を中断して病院へ…かなたその運命やいかに！？【天音かなた/ホロライブ】",
+      "channel": "Kanata Ch. 天音かなた",
+      "publishedAt": "2025-07-01T11:02:12Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4ByDuFSGvoQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4ByDuFSGvoQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4ByDuFSGvoQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4ByDuFSGvoQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
         }
       }
     },
@@ -789,33 +789,33 @@
       }
     },
     {
-      "id": "VqoXv7s26Og",
-      "title": "賭けろ！最後の望み！！566.36！！！",
-      "channel": "Mハシ",
-      "publishedAt": "2025-06-30T15:19:52Z",
+      "id": "ILf9vqcjfbk",
+      "title": "ラランドサーヤ＆お見送りしんいち参戦！【いきなり！BBQ②】",
+      "channel": "千原ジュニアYouTube",
+      "publishedAt": "2025-06-30T10:09:10Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/VqoXv7s26Og/default.jpg",
+          "url": "https://i.ytimg.com/vi/ILf9vqcjfbk/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/VqoXv7s26Og/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ILf9vqcjfbk/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/VqoXv7s26Og/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ILf9vqcjfbk/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/VqoXv7s26Og/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/ILf9vqcjfbk/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/VqoXv7s26Og/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ILf9vqcjfbk/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
