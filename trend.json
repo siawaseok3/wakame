@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-03T08:38:35.332Z",
+  "updated": "2025-07-03T09:38:35.844Z",
   "trending": [
     {
       "id": "qrPjsO9remA",
@@ -365,39 +365,6 @@
       }
     },
     {
-      "id": "TOd7e84B5uM",
-      "title": "【Rちゃん彼氏オーディション】のすけの密着動画を撮りました",
-      "channel": "時間マスターなりたい　あだち",
-      "publishedAt": "2025-07-01T12:01:04Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/TOd7e84B5uM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/TOd7e84B5uM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/TOd7e84B5uM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/TOd7e84B5uM/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/TOd7e84B5uM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "B1BcrhFyLhc",
       "title": "【あなたとわたしは14歳差】坂上夫妻、夫婦の本音。～愛情と信頼～",
       "channel": "坂上家のチャンネル",
@@ -425,6 +392,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/B1BcrhFyLhc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "TOd7e84B5uM",
+      "title": "【Rちゃん彼氏オーディション】のすけの密着動画を撮りました",
+      "channel": "時間マスターなりたい　あだち",
+      "publishedAt": "2025-07-01T12:01:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TOd7e84B5uM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TOd7e84B5uM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TOd7e84B5uM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TOd7e84B5uM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TOd7e84B5uM/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
