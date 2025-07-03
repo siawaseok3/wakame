@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-03T22:38:36.221Z",
+  "updated": "2025-07-03T23:38:35.963Z",
   "trending": [
     {
       "id": "fdYFKOMQGUU",
@@ -718,39 +718,6 @@
       }
     },
     {
-      "id": "R05TQhAfwLE",
-      "title": "【エバース】ABCお笑いグランプリ決勝ネタ「棺桶」【漫才】",
-      "channel": "エバースチャンネル",
-      "publishedAt": "2025-07-01T09:00:46Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/R05TQhAfwLE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/R05TQhAfwLE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/R05TQhAfwLE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/R05TQhAfwLE/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/R05TQhAfwLE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "TrKeM_rCsko",
       "title": "INI｜'Pineapple Juice' Track Video",
       "channel": "INI",
@@ -778,6 +745,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/TrKeM_rCsko/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "R05TQhAfwLE",
+      "title": "【エバース】ABCお笑いグランプリ決勝ネタ「棺桶」【漫才】",
+      "channel": "エバースチャンネル",
+      "publishedAt": "2025-07-01T09:00:46Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R05TQhAfwLE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R05TQhAfwLE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R05TQhAfwLE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/R05TQhAfwLE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/R05TQhAfwLE/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
