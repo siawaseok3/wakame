@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-03T14:38:36.540Z",
+  "updated": "2025-07-03T15:38:38.510Z",
   "trending": [
     {
       "id": "fdYFKOMQGUU",
@@ -233,6 +233,39 @@
       }
     },
     {
+      "id": "gcO6GiC4nzQ",
+      "title": "Suchmos \"Eye to Eye\" (Official Music Video)",
+      "channel": "Suchmos",
+      "publishedAt": "2025-07-02T13:00:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gcO6GiC4nzQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gcO6GiC4nzQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gcO6GiC4nzQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gcO6GiC4nzQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gcO6GiC4nzQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
       "id": "6LTrH2ed2V8",
       "title": "【アクロバット森下の神走塁で勝利！！】森下のガッツポーズ！（2025年7月2日 阪神 － 巨人） #サンテレビボックス席",
       "channel": "サンテレビ",
@@ -288,39 +321,6 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/JLRMOXEkFqQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
-      "id": "gcO6GiC4nzQ",
-      "title": "Suchmos \"Eye to Eye\" (Official Music Video)",
-      "channel": "Suchmos",
-      "publishedAt": "2025-07-02T13:00:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/gcO6GiC4nzQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/gcO6GiC4nzQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/gcO6GiC4nzQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/gcO6GiC4nzQ/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/gcO6GiC4nzQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -459,39 +459,6 @@
       }
     },
     {
-      "id": "rRMkJlzUgw0",
-      "title": "【クレヨンしんちゃん】エアコンがこわれちゃったゾ《アニメ公式》",
-      "channel": "【アニメ】クレヨンしんちゃん公式チャンネル",
-      "publishedAt": "2025-07-02T08:01:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/rRMkJlzUgw0/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/rRMkJlzUgw0/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/rRMkJlzUgw0/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/rRMkJlzUgw0/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/rRMkJlzUgw0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "XvtmDVi18Ws",
       "title": "「インドラの大試練 ～巡るブロークン・スカイ～」告知TVCM",
       "channel": "【公式】Fate/Grand Order チャンネル",
@@ -582,6 +549,39 @@
           "url": "https://i.ytimg.com/vi/BJmF1Qlt2p8/sddefault.jpg",
           "width": 640,
           "height": 480
+        }
+      }
+    },
+    {
+      "id": "rRMkJlzUgw0",
+      "title": "【クレヨンしんちゃん】エアコンがこわれちゃったゾ《アニメ公式》",
+      "channel": "【アニメ】クレヨンしんちゃん公式チャンネル",
+      "publishedAt": "2025-07-02T08:01:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rRMkJlzUgw0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rRMkJlzUgw0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rRMkJlzUgw0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rRMkJlzUgw0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rRMkJlzUgw0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       }
     },
@@ -718,39 +718,6 @@
       }
     },
     {
-      "id": "eS1up9PFlsA",
-      "title": "“学歴詐称疑惑” 田久保伊東市長が会見　『卒業』確認できず『除籍』と説明 ｢公選法違反ない｣と釈明するも市民の反応は？(静岡･伊東市)",
-      "channel": "Daiichi-TV NEWS",
-      "publishedAt": "2025-07-02T08:31:27Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/eS1up9PFlsA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/eS1up9PFlsA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/eS1up9PFlsA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/eS1up9PFlsA/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/eS1up9PFlsA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "R05TQhAfwLE",
       "title": "【エバース】ABCお笑いグランプリ決勝ネタ「棺桶」【漫才】",
       "channel": "エバースチャンネル",
@@ -811,6 +778,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/TrKeM_rCsko/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "eS1up9PFlsA",
+      "title": "“学歴詐称疑惑” 田久保伊東市長が会見　『卒業』確認できず『除籍』と説明 ｢公選法違反ない｣と釈明するも市民の反応は？(静岡･伊東市)",
+      "channel": "Daiichi-TV NEWS",
+      "publishedAt": "2025-07-02T08:31:27Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eS1up9PFlsA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eS1up9PFlsA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eS1up9PFlsA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eS1up9PFlsA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eS1up9PFlsA/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
