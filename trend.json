@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-04T05:38:35.209Z",
+  "updated": "2025-07-04T06:38:36.004Z",
   "trending": [
     {
       "id": "fdYFKOMQGUU",
@@ -167,39 +167,6 @@
       }
     },
     {
-      "id": "v_4uvUmgBZA",
-      "title": "2025年 帝王賞JpnI｜第48回｜NAR公式",
-      "channel": "NAR公式チャンネル",
-      "publishedAt": "2025-07-02T11:28:26Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/v_4uvUmgBZA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/v_4uvUmgBZA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/v_4uvUmgBZA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/v_4uvUmgBZA/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/v_4uvUmgBZA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "gcO6GiC4nzQ",
       "title": "Suchmos \"Eye to Eye\" (Official Music Video)",
       "channel": "Suchmos",
@@ -227,6 +194,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/gcO6GiC4nzQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "v_4uvUmgBZA",
+      "title": "2025年 帝王賞JpnI｜第48回｜NAR公式",
+      "channel": "NAR公式チャンネル",
+      "publishedAt": "2025-07-02T11:28:26Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/v_4uvUmgBZA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/v_4uvUmgBZA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/v_4uvUmgBZA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/v_4uvUmgBZA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/v_4uvUmgBZA/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
