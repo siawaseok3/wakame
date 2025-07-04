@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-04T17:38:34.784Z",
+  "updated": "2025-07-04T18:38:36.073Z",
   "trending": [
     {
       "id": "ZWjbvYWUMHo",
@@ -629,39 +629,6 @@
       }
     },
     {
-      "id": "vziy5-reY-k",
-      "title": "WESTꓸ【リレークッキング第４弾】テンション最高潮の後半戦！！果たしてチャレンジ成功なるか！？",
-      "channel": "WEST.",
-      "publishedAt": "2025-07-03T12:01:51Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/vziy5-reY-k/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/vziy5-reY-k/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/vziy5-reY-k/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/vziy5-reY-k/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/vziy5-reY-k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "NM0P5ZW5GBo",
       "title": "Stray Kids - Hollow / THE FIRST TAKE",
       "channel": "THE FIRST TAKE",
@@ -689,6 +656,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/NM0P5ZW5GBo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "vziy5-reY-k",
+      "title": "WESTꓸ【リレークッキング第４弾】テンション最高潮の後半戦！！果たしてチャレンジ成功なるか！？",
+      "channel": "WEST.",
+      "publishedAt": "2025-07-03T12:01:51Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vziy5-reY-k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vziy5-reY-k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vziy5-reY-k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vziy5-reY-k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vziy5-reY-k/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
