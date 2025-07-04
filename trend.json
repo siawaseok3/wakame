@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-04T04:38:35.043Z",
+  "updated": "2025-07-04T05:38:35.209Z",
   "trending": [
     {
       "id": "fdYFKOMQGUU",
@@ -266,34 +266,6 @@
       }
     },
     {
-      "id": "6LTrH2ed2V8",
-      "title": "【アクロバット森下の神走塁で勝利！！】森下のガッツポーズ！（2025年7月2日 阪神 － 巨人） #サンテレビボックス席",
-      "channel": "サンテレビ",
-      "publishedAt": "2025-07-02T12:18:04Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/6LTrH2ed2V8/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/6LTrH2ed2V8/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/6LTrH2ed2V8/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/6LTrH2ed2V8/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        }
-      }
-    },
-    {
       "id": "TwxBKHQCy9k",
       "title": "ス◯ッチ2の厳正なる抽選の裏側【アニメ】【コント】",
       "channel": "マリマリマリー",
@@ -323,6 +295,34 @@
           "url": "https://i.ytimg.com/vi/TwxBKHQCy9k/maxresdefault.jpg",
           "width": 1280,
           "height": 720
+        }
+      }
+    },
+    {
+      "id": "6LTrH2ed2V8",
+      "title": "【アクロバット森下の神走塁で勝利！！】森下のガッツポーズ！（2025年7月2日 阪神 － 巨人） #サンテレビボックス席",
+      "channel": "サンテレビ",
+      "publishedAt": "2025-07-02T12:18:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6LTrH2ed2V8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6LTrH2ed2V8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6LTrH2ed2V8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6LTrH2ed2V8/sddefault.jpg",
+          "width": 640,
+          "height": 480
         }
       }
     },
@@ -751,39 +751,6 @@
       }
     },
     {
-      "id": "SYzCnskNAyc",
-      "title": "日米通算2705安打 松井稼頭央が初登場！史上最高のスイッチヒッターの打撃術【バッターズバイブル】",
-      "channel": "フルタの方程式【古田敦也 公式チャンネル】",
-      "publishedAt": "2025-07-01T12:01:03Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/SYzCnskNAyc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/SYzCnskNAyc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/SYzCnskNAyc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/SYzCnskNAyc/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/SYzCnskNAyc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "R05TQhAfwLE",
       "title": "【エバース】ABCお笑いグランプリ決勝ネタ「棺桶」【漫才】",
       "channel": "エバースチャンネル",
@@ -811,6 +778,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/R05TQhAfwLE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "SYzCnskNAyc",
+      "title": "日米通算2705安打 松井稼頭央が初登場！史上最高のスイッチヒッターの打撃術【バッターズバイブル】",
+      "channel": "フルタの方程式【古田敦也 公式チャンネル】",
+      "publishedAt": "2025-07-01T12:01:03Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SYzCnskNAyc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SYzCnskNAyc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SYzCnskNAyc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SYzCnskNAyc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SYzCnskNAyc/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
