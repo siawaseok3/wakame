@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-05T06:38:37.256Z",
+  "updated": "2025-07-05T07:38:35.505Z",
   "trending": [
     {
       "id": "XY3J5C62fMM",
@@ -167,6 +167,39 @@
       }
     },
     {
+      "id": "EsqyAmpFvgw",
+      "title": "🇫🇷パリの記録的な猛暑。クーラーがありません…[報告&対策］【Extreme heat report in paris】",
+      "channel": "杏/anne TOKYO",
+      "publishedAt": "2025-07-04T11:15:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EsqyAmpFvgw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EsqyAmpFvgw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EsqyAmpFvgw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EsqyAmpFvgw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EsqyAmpFvgw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
       "id": "pv8A7eubPQQ",
       "title": "“Chainsaw Man – The Movie: Reze Arc” - Main Trailer／劇場版『チェンソーマン レゼ篇』本予告",
       "channel": "MAPPA CHANNEL",
@@ -260,39 +293,6 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/Mm9JySQ68U8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
-      "id": "EsqyAmpFvgw",
-      "title": "🇫🇷パリの記録的な猛暑。クーラーがありません…[報告&対策］【Extreme heat report in paris】",
-      "channel": "杏/anne TOKYO",
-      "publishedAt": "2025-07-04T11:15:01Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/EsqyAmpFvgw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/EsqyAmpFvgw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/EsqyAmpFvgw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/EsqyAmpFvgw/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/EsqyAmpFvgw/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
