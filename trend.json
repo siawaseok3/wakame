@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-05T21:38:37.417Z",
+  "updated": "2025-07-05T22:38:35.334Z",
   "trending": [
     {
       "id": "XY3J5C62fMM",
@@ -563,39 +563,6 @@
       }
     },
     {
-      "id": "6jH3BOE9yEk",
-      "title": "てつやvsとしみつ ガチンコラーメン作り対決！！",
-      "channel": "東海オンエア",
-      "publishedAt": "2025-07-04T12:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/6jH3BOE9yEk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/6jH3BOE9yEk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/6jH3BOE9yEk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/6jH3BOE9yEk/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/6jH3BOE9yEk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "j6tqePTqU8A",
       "title": "READY TO JUMP?",
       "channel": "BLACKPINK",
@@ -623,6 +590,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/j6tqePTqU8A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "6jH3BOE9yEk",
+      "title": "てつやvsとしみつ ガチンコラーメン作り対決！！",
+      "channel": "東海オンエア",
+      "publishedAt": "2025-07-04T12:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6jH3BOE9yEk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6jH3BOE9yEk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6jH3BOE9yEk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6jH3BOE9yEk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6jH3BOE9yEk/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
