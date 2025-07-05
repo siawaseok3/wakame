@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-05T13:38:35.251Z",
+  "updated": "2025-07-05T14:38:35.864Z",
   "trending": [
     {
       "id": "XY3J5C62fMM",
@@ -398,39 +398,6 @@
       }
     },
     {
-      "id": "6jH3BOE9yEk",
-      "title": "てつやvsとしみつ ガチンコラーメン作り対決！！",
-      "channel": "東海オンエア",
-      "publishedAt": "2025-07-04T12:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/6jH3BOE9yEk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/6jH3BOE9yEk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/6jH3BOE9yEk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/6jH3BOE9yEk/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/6jH3BOE9yEk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "JOipZH0W7OI",
       "title": "【激戦の幕開け】「今年の選抜生は〇人です。」歴代最大規模の選抜決定戦がついに開戦‼️今年選抜生の座を手にするのは一体誰？！【めるぷち選抜決定戦2025】",
       "channel": "めるぷち",
@@ -458,6 +425,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/JOipZH0W7OI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "6jH3BOE9yEk",
+      "title": "てつやvsとしみつ ガチンコラーメン作り対決！！",
+      "channel": "東海オンエア",
+      "publishedAt": "2025-07-04T12:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6jH3BOE9yEk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6jH3BOE9yEk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6jH3BOE9yEk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6jH3BOE9yEk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6jH3BOE9yEk/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
