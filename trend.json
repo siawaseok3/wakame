@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-05T16:38:35.117Z",
+  "updated": "2025-07-05T17:38:35.486Z",
   "trending": [
     {
       "id": "XY3J5C62fMM",
@@ -596,39 +596,6 @@
       }
     },
     {
-      "id": "tTMaCzcQYdo",
-      "title": "『ゼンレスゾーンゼロ』Ver.2.1「遅れてきた波の花たちに」予告番組",
-      "channel": "ゼンレスゾーンゼロ-ZZZ-公式",
-      "publishedAt": "2025-07-04T11:29:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/tTMaCzcQYdo/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/tTMaCzcQYdo/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/tTMaCzcQYdo/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/tTMaCzcQYdo/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/tTMaCzcQYdo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "j6tqePTqU8A",
       "title": "READY TO JUMP?",
       "channel": "BLACKPINK",
@@ -689,6 +656,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/7ujMipWGaLY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "tTMaCzcQYdo",
+      "title": "『ゼンレスゾーンゼロ』Ver.2.1「遅れてきた波の花たちに」予告番組",
+      "channel": "ゼンレスゾーンゼロ-ZZZ-公式",
+      "publishedAt": "2025-07-04T11:29:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tTMaCzcQYdo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tTMaCzcQYdo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tTMaCzcQYdo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tTMaCzcQYdo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tTMaCzcQYdo/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
