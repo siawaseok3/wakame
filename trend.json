@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-06T07:38:37.352Z",
+  "updated": "2025-07-06T08:38:35.500Z",
   "trending": [
     {
       "id": "XY3J5C62fMM",
@@ -101,39 +101,6 @@
       }
     },
     {
-      "id": "WK6ja91WV64",
-      "title": "青笹の件について",
-      "channel": "相馬トランジスタ",
-      "publishedAt": "2025-07-05T11:03:04Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/WK6ja91WV64/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/WK6ja91WV64/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/WK6ja91WV64/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/WK6ja91WV64/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/WK6ja91WV64/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "FWAdfuPpLOc",
       "title": "World's Fastest Car Vs Cheetah!",
       "channel": "MrBeast",
@@ -161,6 +128,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/FWAdfuPpLOc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "WK6ja91WV64",
+      "title": "青笹の件について",
+      "channel": "相馬トランジスタ",
+      "publishedAt": "2025-07-05T11:03:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WK6ja91WV64/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WK6ja91WV64/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WK6ja91WV64/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WK6ja91WV64/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WK6ja91WV64/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -327,39 +327,6 @@
       }
     },
     {
-      "id": "NvcwHAm5OUY",
-      "title": "【THE LAST PIECE 本編】Ep.02 / Bloom of Youth",
-      "channel": "BMSG",
-      "publishedAt": "2025-07-04T11:00:44Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/NvcwHAm5OUY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/NvcwHAm5OUY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/NvcwHAm5OUY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/NvcwHAm5OUY/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/NvcwHAm5OUY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "KwnPig0Yl10",
       "title": "【ホラー鬼ごっこ】扉が開くまで逃げ切れるメンバーは誰だ！？ #チャッキー",
       "channel": "Fischer's-フィッシャーズ-",
@@ -393,99 +360,33 @@
       }
     },
     {
-      "id": "a4j4V8iZ_wg",
-      "title": "【続編制作決定！】アニメ『薬屋のひとりごと』超ティザーPV",
-      "channel": "TOHO animation チャンネル",
-      "publishedAt": "2025-07-04T14:27:02Z",
+      "id": "NvcwHAm5OUY",
+      "title": "【THE LAST PIECE 本編】Ep.02 / Bloom of Youth",
+      "channel": "BMSG",
+      "publishedAt": "2025-07-04T11:00:44Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/a4j4V8iZ_wg/default.jpg",
+          "url": "https://i.ytimg.com/vi/NvcwHAm5OUY/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/a4j4V8iZ_wg/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/NvcwHAm5OUY/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/a4j4V8iZ_wg/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/NvcwHAm5OUY/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/a4j4V8iZ_wg/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/NvcwHAm5OUY/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/a4j4V8iZ_wg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
-      "id": "rvJ4hppg164",
-      "title": "そうめん最強レシピ決定戦【そうめんー１グランプリ】開催！",
-      "channel": "【賛否両論】笠原将弘の料理のほそ道",
-      "publishedAt": "2025-07-05T10:01:26Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/rvJ4hppg164/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/rvJ4hppg164/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/rvJ4hppg164/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/rvJ4hppg164/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/rvJ4hppg164/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
-      "id": "zjJ2VOLIHPU",
-      "title": "【走行2万キロ】こんなローレル見た事ない!!サビなしフルオリジナル!!",
-      "channel": "SATAbuilder's",
-      "publishedAt": "2025-07-05T09:01:25Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/zjJ2VOLIHPU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/zjJ2VOLIHPU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/zjJ2VOLIHPU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/zjJ2VOLIHPU/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/zjJ2VOLIHPU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/NvcwHAm5OUY/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -525,66 +426,99 @@
       }
     },
     {
-      "id": "k3th8egSB3U",
-      "title": "帰国後に気づいた息子の変化に家族も驚いています。アメリカと日本の二重生活はあとどのくらい続くのか。。。",
-      "channel": "Paradi Show",
-      "publishedAt": "2025-07-05T08:01:01Z",
+      "id": "rvJ4hppg164",
+      "title": "そうめん最強レシピ決定戦【そうめんー１グランプリ】開催！",
+      "channel": "【賛否両論】笠原将弘の料理のほそ道",
+      "publishedAt": "2025-07-05T10:01:26Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/k3th8egSB3U/default.jpg",
+          "url": "https://i.ytimg.com/vi/rvJ4hppg164/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/k3th8egSB3U/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/rvJ4hppg164/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/k3th8egSB3U/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/rvJ4hppg164/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/k3th8egSB3U/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/rvJ4hppg164/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/k3th8egSB3U/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/rvJ4hppg164/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       }
     },
     {
-      "id": "yk_FP4U8bVA",
-      "title": "「まさか私も!?」ヨーロッパから出た事ない母を日本に招待したら…親子で感動が止まらない!!【外国人の反応】",
-      "channel": "カチョックTV・ティナちゃんねる",
-      "publishedAt": "2025-07-05T11:00:06Z",
+      "id": "a4j4V8iZ_wg",
+      "title": "【続編制作決定！】アニメ『薬屋のひとりごと』超ティザーPV",
+      "channel": "TOHO animation チャンネル",
+      "publishedAt": "2025-07-04T14:27:02Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/yk_FP4U8bVA/default.jpg",
+          "url": "https://i.ytimg.com/vi/a4j4V8iZ_wg/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/yk_FP4U8bVA/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/a4j4V8iZ_wg/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/yk_FP4U8bVA/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/a4j4V8iZ_wg/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/yk_FP4U8bVA/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/a4j4V8iZ_wg/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/yk_FP4U8bVA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/a4j4V8iZ_wg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "zjJ2VOLIHPU",
+      "title": "【走行2万キロ】こんなローレル見た事ない!!サビなしフルオリジナル!!",
+      "channel": "SATAbuilder's",
+      "publishedAt": "2025-07-05T09:01:25Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zjJ2VOLIHPU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zjJ2VOLIHPU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zjJ2VOLIHPU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zjJ2VOLIHPU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zjJ2VOLIHPU/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -624,33 +558,66 @@
       }
     },
     {
-      "id": "qE5lIjT3J2c",
-      "title": "【ハイライト】日本 vs. ウェールズ｜リポビタンDチャレンジカップ2025 ラグビー日本代表強化試合（7月5日）#j_rugby",
-      "channel": "J SPORTS ラグビー【公式】",
-      "publishedAt": "2025-07-05T07:59:45Z",
+      "id": "yk_FP4U8bVA",
+      "title": "「まさか私も!?」ヨーロッパから出た事ない母を日本に招待したら…親子で感動が止まらない!!【外国人の反応】",
+      "channel": "カチョックTV・ティナちゃんねる",
+      "publishedAt": "2025-07-05T11:00:06Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/qE5lIjT3J2c/default.jpg",
+          "url": "https://i.ytimg.com/vi/yk_FP4U8bVA/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/qE5lIjT3J2c/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/yk_FP4U8bVA/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/qE5lIjT3J2c/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/yk_FP4U8bVA/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/qE5lIjT3J2c/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/yk_FP4U8bVA/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/qE5lIjT3J2c/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/yk_FP4U8bVA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "k3th8egSB3U",
+      "title": "帰国後に気づいた息子の変化に家族も驚いています。アメリカと日本の二重生活はあとどのくらい続くのか。。。",
+      "channel": "Paradi Show",
+      "publishedAt": "2025-07-05T08:01:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/k3th8egSB3U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/k3th8egSB3U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/k3th8egSB3U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/k3th8egSB3U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/k3th8egSB3U/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -684,6 +651,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/wX2X-meF2wU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "qE5lIjT3J2c",
+      "title": "【ハイライト】日本 vs. ウェールズ｜リポビタンDチャレンジカップ2025 ラグビー日本代表強化試合（7月5日）#j_rugby",
+      "channel": "J SPORTS ラグビー【公式】",
+      "publishedAt": "2025-07-05T07:59:45Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qE5lIjT3J2c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qE5lIjT3J2c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qE5lIjT3J2c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qE5lIjT3J2c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qE5lIjT3J2c/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
