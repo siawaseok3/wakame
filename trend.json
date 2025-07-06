@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-06T01:38:35.770Z",
+  "updated": "2025-07-06T02:38:34.914Z",
   "trending": [
     {
       "id": "XY3J5C62fMM",
@@ -596,39 +596,6 @@
       }
     },
     {
-      "id": "7ujMipWGaLY",
-      "title": "【ネタバレ禁止】衝撃の結末が待ち受ける！？七夕短冊最強王トーナメント！！",
-      "channel": "ROF-MAO / ろふまおチャンネル【にじさんじ】",
-      "publishedAt": "2025-07-03T13:00:06Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/7ujMipWGaLY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/7ujMipWGaLY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/7ujMipWGaLY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/7ujMipWGaLY/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/7ujMipWGaLY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "6jH3BOE9yEk",
       "title": "てつやvsとしみつ ガチンコラーメン作り対決！！",
       "channel": "東海オンエア",
@@ -656,6 +623,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/6jH3BOE9yEk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "7ujMipWGaLY",
+      "title": "【ネタバレ禁止】衝撃の結末が待ち受ける！？七夕短冊最強王トーナメント！！",
+      "channel": "ROF-MAO / ろふまおチャンネル【にじさんじ】",
+      "publishedAt": "2025-07-03T13:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7ujMipWGaLY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7ujMipWGaLY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7ujMipWGaLY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7ujMipWGaLY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7ujMipWGaLY/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
