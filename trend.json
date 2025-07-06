@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-06T02:38:34.914Z",
+  "updated": "2025-07-06T03:38:35.138Z",
   "trending": [
     {
       "id": "XY3J5C62fMM",
@@ -662,39 +662,6 @@
       }
     },
     {
-      "id": "pprQ5c5VYlM",
-      "title": "'최초 공개' aespa - Dirty Work #엠카운트다운 EP.895 | Mnet 250703 방송",
-      "channel": "Mnet K-POP",
-      "publishedAt": "2025-07-03T11:15:58Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/pprQ5c5VYlM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/pprQ5c5VYlM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/pprQ5c5VYlM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/pprQ5c5VYlM/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/pprQ5c5VYlM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      }
-    },
-    {
       "id": "NLIGDjKBLY0",
       "title": "アイナ・ジ・エンド / 革命道中 - On The Way [Official Music Video]（TVアニメ『ダンダダン』第2期オープニングテーマ）",
       "channel": "アイナ・ジ・エンド Official",
@@ -722,6 +689,39 @@
         },
         "maxres": {
           "url": "https://i.ytimg.com/vi/NLIGDjKBLY0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    {
+      "id": "pprQ5c5VYlM",
+      "title": "'최초 공개' aespa - Dirty Work #엠카운트다운 EP.895 | Mnet 250703 방송",
+      "channel": "Mnet K-POP",
+      "publishedAt": "2025-07-03T11:15:58Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pprQ5c5VYlM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pprQ5c5VYlM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pprQ5c5VYlM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pprQ5c5VYlM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pprQ5c5VYlM/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
