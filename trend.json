@@ -1,161 +1,44 @@
 {
-  "updated": "2025-10-02T13:38:35.878Z",
+  "updated": "2025-10-02T14:38:41.540Z",
   "trending": [
     {
-      "id": "VSNR33jHgDg",
-      "title": "米津玄師 × 宇多田ヒカル - JANE DOE対談",
-      "channel": "Kenshi Yonezu  米津玄師",
-      "channelId": "UCUCeZaZeJbEYAAzvMgrKOPQ",
-      "publishedAt": "2025-10-02T11:01:01Z",
+      "id": "TLJqi0IjMwo",
+      "title": "Mrs. GREEN APPLE「GOOD DAY」Official Music Video",
+      "channel": "Mrs. GREEN APPLE",
+      "channelId": "UCpFgmZm65yOU5X-hmWkWjuw",
+      "publishedAt": "2025-10-02T12:00:07Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/VSNR33jHgDg/default.jpg",
+          "url": "https://i.ytimg.com/vi/TLJqi0IjMwo/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/VSNR33jHgDg/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/TLJqi0IjMwo/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/VSNR33jHgDg/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/TLJqi0IjMwo/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/VSNR33jHgDg/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/TLJqi0IjMwo/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/VSNR33jHgDg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/TLJqi0IjMwo/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
-      "duration": "PT52M24S",
-      "viewCount": "132674",
-      "likeCount": "20746",
-      "commentCount": "1132",
-      "channelIcon": "https://yt3.ggpht.com/E5cbz8NuHWhQwj3qoYYWWeqtzYgjfCvFrDEt3OOzXMWX7Jb2pmBBgi978BmhjNkME14YL6Ujhw=s800-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "id": "jvb6b-9vq2U",
-      "title": "Hazbin Hotel - Season 2 Official Trailer | Prime Video",
-      "channel": "Vivziepop",
-      "channelId": "UCzfyYtgvkx5mLy8nlLlayYg",
-      "publishedAt": "2025-10-01T16:28:38Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/jvb6b-9vq2U/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/jvb6b-9vq2U/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/jvb6b-9vq2U/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/jvb6b-9vq2U/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/jvb6b-9vq2U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "duration": "PT2M31S",
-      "viewCount": "1483678",
-      "likeCount": "181505",
-      "commentCount": "11898",
-      "channelIcon": "https://yt3.ggpht.com/2kUltmn7t7f1XLxPstxhVjRltZ8RiZWVtmqdNoLZx3aCisrjAlw7QTOSjU4QduphAMq1Felk=s800-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "id": "Gsqqa4FOJDI",
-      "title": "モンストニュース[10/2]モンストの最新情報をお届けします！【モンスト公式】",
-      "channel": "モンスト（モンスターストライク）公式",
-      "channelId": "UCd9BXPj-KcMTh0HiB-Vlb8A",
-      "publishedAt": "2025-10-02T07:00:22Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Gsqqa4FOJDI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Gsqqa4FOJDI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Gsqqa4FOJDI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/Gsqqa4FOJDI/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/Gsqqa4FOJDI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "duration": "PT18M9S",
-      "viewCount": "346647",
-      "likeCount": "4348",
-      "commentCount": "93",
-      "channelIcon": "https://yt3.ggpht.com/FRVoReLQN_2EIVUqkFI2rlPDoHu2lBrFycMZYxFGOs13gj0dtCIDRc_LC1hu4AKW7FAFcct5Rgk=s800-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "id": "iYApuwnpUP4",
-      "title": "SKY-HI - At The Last feat. STARGLOW / THE FIRST TAKE",
-      "channel": "THE FIRST TAKE",
-      "channelId": "UC9zY_E8mcAo_Oq772LEZq8Q",
-      "publishedAt": "2025-10-01T13:00:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/iYApuwnpUP4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/iYApuwnpUP4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/iYApuwnpUP4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/iYApuwnpUP4/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/iYApuwnpUP4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "duration": "PT5M",
-      "viewCount": "754621",
-      "likeCount": "49542",
-      "commentCount": "2850",
-      "channelIcon": "https://yt3.ggpht.com/HqKlAwVvfGeRo6NJ7wZHoE20Ov6640WHw17sF8mhJe6bPNp0e78-3c546VevqnjAbAY6w9Sw=s800-c-k-c0x00ffffff-no-rj"
+      "duration": "PT5M34S",
+      "viewCount": "405118",
+      "likeCount": "61295",
+      "commentCount": "5349",
+      "channelIcon": "https://yt3.ggpht.com/g_gd-kGxjIDM0ZxYL68C28EvmKyws7eL9PZp_NCKl11kmiTR4jACXiQ4ATKvwZEyPL3Ah4lHwA=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "02rpwUibSng",
@@ -191,49 +74,49 @@
         }
       },
       "duration": "PT39M10S",
-      "viewCount": "138670",
-      "likeCount": "8509",
-      "commentCount": "313",
+      "viewCount": "166648",
+      "likeCount": "9302",
+      "commentCount": "331",
       "channelIcon": "https://yt3.ggpht.com/67GDNUSehWk07qLTsSg9EVCDqD1DieU8JrNBSf0X2j1g0S-Dummyd14WTkC4ex3tcmdd7J_A=s800-c-k-c0x00ffffff-no-rj"
     },
     {
-      "id": "iDbeAAs1Goo",
-      "title": "【MV】FRUITS ZIPPER『JAM』",
-      "channel": "KAWAII LAB.",
-      "channelId": "UCW8Q9LBGGBgK6a-u0C0h95A",
-      "publishedAt": "2025-10-02T10:00:07Z",
+      "id": "VSNR33jHgDg",
+      "title": "米津玄師 × 宇多田ヒカル - JANE DOE対談",
+      "channel": "Kenshi Yonezu  米津玄師",
+      "channelId": "UCUCeZaZeJbEYAAzvMgrKOPQ",
+      "publishedAt": "2025-10-02T11:01:01Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/iDbeAAs1Goo/default.jpg",
+          "url": "https://i.ytimg.com/vi/VSNR33jHgDg/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/iDbeAAs1Goo/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/VSNR33jHgDg/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/iDbeAAs1Goo/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/VSNR33jHgDg/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/iDbeAAs1Goo/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/VSNR33jHgDg/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/iDbeAAs1Goo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/VSNR33jHgDg/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
-      "duration": "PT4M15S",
-      "viewCount": "51235",
-      "likeCount": "8770",
-      "commentCount": "1051",
-      "channelIcon": "https://yt3.ggpht.com/xaJJqswwQrQ-uR7sMnSpeoaYQYKI-BeVwxO6_Gj5KMDJLuT1-eyK_k5ZItv7PE-7J2x_P4mO=s800-c-k-c0x00ffffff-no-rj"
+      "duration": "PT52M24S",
+      "viewCount": "184973",
+      "likeCount": "23922",
+      "commentCount": "1311",
+      "channelIcon": "https://yt3.ggpht.com/E5cbz8NuHWhQwj3qoYYWWeqtzYgjfCvFrDEt3OOzXMWX7Jb2pmBBgi978BmhjNkME14YL6Ujhw=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "8_ciPSbcrTY",
@@ -269,127 +152,127 @@
         }
       },
       "duration": "PT1H7M38S",
-      "viewCount": "142138",
-      "likeCount": "6584",
-      "commentCount": "260",
+      "viewCount": "181841",
+      "likeCount": "7318",
+      "commentCount": "279",
       "channelIcon": "https://yt3.ggpht.com/cgd73ZPow1fRbhFwG2PAPbtf4Wo6a6efni0N6kPeRoOn7Vp4Yn8wJpeaOr9tTLZXay9QlwNs=s800-c-k-c0x00ffffff-no-rj"
     },
     {
-      "id": "Lnk6HKYPHUk",
-      "title": "劇上",
-      "channel": "YOASOBI - Topic",
-      "channelId": "UCI6B8NkZKqlFWoiC_xE-hzA",
-      "publishedAt": "2025-10-01T10:00:39Z",
+      "id": "iYApuwnpUP4",
+      "title": "SKY-HI - At The Last feat. STARGLOW / THE FIRST TAKE",
+      "channel": "THE FIRST TAKE",
+      "channelId": "UC9zY_E8mcAo_Oq772LEZq8Q",
+      "publishedAt": "2025-10-01T13:00:07Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Lnk6HKYPHUk/default.jpg",
+          "url": "https://i.ytimg.com/vi/iYApuwnpUP4/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Lnk6HKYPHUk/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/iYApuwnpUP4/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Lnk6HKYPHUk/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/iYApuwnpUP4/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/Lnk6HKYPHUk/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/iYApuwnpUP4/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/Lnk6HKYPHUk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/iYApuwnpUP4/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
-      "duration": "PT3M19S",
-      "viewCount": "108314",
-      "likeCount": "6480",
-      "commentCount": "383",
-      "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_lbjuXAtjd7W2D3asm-jdcRpTbARVYvu1Dl7q3GdXmFP9k=s800-c-k-c0x00ffffff-no-rj"
+      "duration": "PT5M",
+      "viewCount": "777147",
+      "likeCount": "50054",
+      "commentCount": "2865",
+      "channelIcon": "https://yt3.ggpht.com/HqKlAwVvfGeRo6NJ7wZHoE20Ov6640WHw17sF8mhJe6bPNp0e78-3c546VevqnjAbAY6w9Sw=s800-c-k-c0x00ffffff-no-rj"
     },
     {
-      "id": "jT44igol81o",
-      "title": "視聴者のために激レアブレインロットを入手しまくるロブロックス (Roblox)",
-      "channel": "マエスケ",
-      "channelId": "UC9Lx-zRFGfpuls27tNAOIqA",
-      "publishedAt": "2025-10-02T08:34:39Z",
+      "id": "Gsqqa4FOJDI",
+      "title": "モンストニュース[10/2]モンストの最新情報をお届けします！【モンスト公式】",
+      "channel": "モンスト（モンスターストライク）公式",
+      "channelId": "UCd9BXPj-KcMTh0HiB-Vlb8A",
+      "publishedAt": "2025-10-02T07:00:22Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/jT44igol81o/default.jpg",
+          "url": "https://i.ytimg.com/vi/Gsqqa4FOJDI/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/jT44igol81o/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Gsqqa4FOJDI/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/jT44igol81o/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Gsqqa4FOJDI/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/jT44igol81o/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/Gsqqa4FOJDI/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/jT44igol81o/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Gsqqa4FOJDI/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
-      "duration": "PT18M19S",
-      "viewCount": "162147",
-      "likeCount": "3647",
-      "commentCount": "771",
-      "channelIcon": "https://yt3.ggpht.com/q_U7QnvwDtJIejC2gQ2_Vc-Rtx4l8EdWwGHu2cwXqC2OVZUvhN3JbHW5VVR0fAeA2zbvsg6zC1M=s800-c-k-c0x00ffffff-no-rj"
+      "duration": "PT18M9S",
+      "viewCount": "368867",
+      "likeCount": "4424",
+      "commentCount": "96",
+      "channelIcon": "https://yt3.ggpht.com/FRVoReLQN_2EIVUqkFI2rlPDoHu2lBrFycMZYxFGOs13gj0dtCIDRc_LC1hu4AKW7FAFcct5Rgk=s800-c-k-c0x00ffffff-no-rj"
     },
     {
-      "id": "Vj_tcCnffLA",
-      "title": "King & Prince「僕のワルツ」-Re:ERA in LaLa arena TOKYO-BAY LIVE ver.-",
-      "channel": "King & Prince",
-      "channelId": "UCSxwcQnzA5K6DvofvBn6ATA",
-      "publishedAt": "2025-10-01T11:00:56Z",
+      "id": "iDbeAAs1Goo",
+      "title": "【MV】FRUITS ZIPPER『JAM』",
+      "channel": "KAWAII LAB.",
+      "channelId": "UCW8Q9LBGGBgK6a-u0C0h95A",
+      "publishedAt": "2025-10-02T10:00:07Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Vj_tcCnffLA/default.jpg",
+          "url": "https://i.ytimg.com/vi/iDbeAAs1Goo/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/Vj_tcCnffLA/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/iDbeAAs1Goo/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/Vj_tcCnffLA/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/iDbeAAs1Goo/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/Vj_tcCnffLA/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/iDbeAAs1Goo/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/Vj_tcCnffLA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/iDbeAAs1Goo/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
-      "duration": "PT5M5S",
-      "viewCount": "179050",
-      "likeCount": "20999",
-      "commentCount": "1870",
-      "channelIcon": "https://yt3.ggpht.com/EwnlXk7994L4il5z8HyfhJdkFryIPmdtJgjZmRD5ameRHlITXI-fbYcG7dkjnP4mIWBAp-C0jg=s800-c-k-c0x00ffffff-no-rj"
+      "duration": "PT4M15S",
+      "viewCount": "72643",
+      "likeCount": "9869",
+      "commentCount": "1152",
+      "channelIcon": "https://yt3.ggpht.com/xaJJqswwQrQ-uR7sMnSpeoaYQYKI-BeVwxO6_Gj5KMDJLuT1-eyK_k5ZItv7PE-7J2x_P4mO=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "tpnMlwlUc2I",
@@ -425,205 +308,127 @@
         }
       },
       "duration": "PT1H35M37S",
-      "viewCount": "104214",
-      "likeCount": "5277",
-      "commentCount": "540",
+      "viewCount": "125416",
+      "likeCount": "5745",
+      "commentCount": "592",
       "channelIcon": "https://yt3.ggpht.com/J0M8-iYIBs-A671h5tO-2cKkHm91ZOWiW7xx4Vuypkcnuhh_H4jvt4k2YwXL5s4tTY70iQ0r=s800-c-k-c0x00ffffff-no-rj"
     },
     {
-      "id": "HapYTE-PQxY",
-      "title": "さよーならまたいつか！ / ジョー・力一(Cover)",
-      "channel": "ジョー・力一 Joe Rikiichi",
-      "channelId": "UChUJbHiTVeGrSkTdBzVfNCQ",
-      "publishedAt": "2025-10-01T11:00:06Z",
+      "id": "BDAYQBfWqxs",
+      "title": "Resplandor(情熱アチチ♡恋泥棒) 【EBiDAN THE LIVE 2025 スペシャルユニット】",
+      "channel": "EBiDAN",
+      "channelId": "UCpfwRncr8S0S3YosR52PX2w",
+      "publishedAt": "2025-10-02T12:00:31Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/HapYTE-PQxY/default.jpg",
+          "url": "https://i.ytimg.com/vi/BDAYQBfWqxs/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/HapYTE-PQxY/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/BDAYQBfWqxs/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/HapYTE-PQxY/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/BDAYQBfWqxs/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/HapYTE-PQxY/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/BDAYQBfWqxs/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/HapYTE-PQxY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/BDAYQBfWqxs/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
-      "duration": "PT3M25S",
-      "viewCount": "192714",
-      "likeCount": "22878",
-      "commentCount": "474",
-      "channelIcon": "https://yt3.ggpht.com/ROBxY7XsHsyciykqX-RloV3adi7WlMviJJNf_aHFr20x_IG6mEigiZmwVHCmz5UYPPyqIKOokg=s800-c-k-c0x00ffffff-no-rj"
+      "duration": "PT4M4S",
+      "viewCount": "22595",
+      "likeCount": "5465",
+      "commentCount": "630",
+      "channelIcon": "https://yt3.ggpht.com/VZC9U5aqTK218TVWI4EjtOUbfdwHLQSnPRxVOG-5Lwp4x4iIJeEMR-ApISTWtecNOOdKTu_PqfY=s800-c-k-c0x00ffffff-no-rj"
     },
     {
-      "id": "f7uA2ZG59_Q",
-      "title": "恐竜から家族を本気で守ろうとした結果！？",
-      "channel": "まいぜんシスターズ",
-      "channelId": "UCM3yhFc0-fBFuvqx1Vg2YNQ",
-      "publishedAt": "2025-10-02T08:00:45Z",
+      "id": "jT44igol81o",
+      "title": "視聴者のために激レアブレインロットを入手しまくるロブロックス (Roblox)",
+      "channel": "マエスケ",
+      "channelId": "UC9Lx-zRFGfpuls27tNAOIqA",
+      "publishedAt": "2025-10-02T08:34:39Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/f7uA2ZG59_Q/default.jpg",
+          "url": "https://i.ytimg.com/vi/jT44igol81o/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/f7uA2ZG59_Q/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jT44igol81o/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/f7uA2ZG59_Q/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jT44igol81o/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/f7uA2ZG59_Q/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/jT44igol81o/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/f7uA2ZG59_Q/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jT44igol81o/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
-      "duration": "PT34M59S",
-      "viewCount": "95660",
-      "likeCount": "1408",
-      "commentCount": "54",
-      "channelIcon": "https://yt3.ggpht.com/Yo1GyvpZs38c05kqY4QYRplsfQn_dTbD_TLrscoxPBqlrTSL_1OOHXLOudPQD1sm5fybbpLS=s800-c-k-c0x00ffffff-no-rj"
+      "duration": "PT18M19S",
+      "viewCount": "186639",
+      "likeCount": "3745",
+      "commentCount": "794",
+      "channelIcon": "https://yt3.ggpht.com/q_U7QnvwDtJIejC2gQ2_Vc-Rtx4l8EdWwGHu2cwXqC2OVZUvhN3JbHW5VVR0fAeA2zbvsg6zC1M=s800-c-k-c0x00ffffff-no-rj"
     },
     {
-      "id": "FtqM7MvfxaA",
-      "title": "Eric.B.Jr - Against feat. Jin Dogg (Official Music Video)",
-      "channel": "Eric B Jr",
-      "channelId": "UCJCR4yb5YoLY4Qkeejvm50A",
-      "publishedAt": "2025-10-02T11:00:34Z",
+      "id": "Lnk6HKYPHUk",
+      "title": "劇上",
+      "channel": "YOASOBI - Topic",
+      "channelId": "UCI6B8NkZKqlFWoiC_xE-hzA",
+      "publishedAt": "2025-10-01T10:00:39Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/FtqM7MvfxaA/default.jpg",
+          "url": "https://i.ytimg.com/vi/Lnk6HKYPHUk/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/FtqM7MvfxaA/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Lnk6HKYPHUk/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/FtqM7MvfxaA/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Lnk6HKYPHUk/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/FtqM7MvfxaA/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/Lnk6HKYPHUk/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/FtqM7MvfxaA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Lnk6HKYPHUk/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
-      "duration": "PT3M52S",
-      "viewCount": "12389",
-      "likeCount": "1731",
-      "commentCount": "104",
-      "channelIcon": "https://yt3.ggpht.com/hpNC0oY-4NgWazKRuZHU87i_N-4EzVk3adZHqjlk2DAfplHXQuJX_sUJF-E9_yNzRGCqbSVueA=s800-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "id": "BXE1-yqTdsA",
-      "title": "【GTA5 MADTOWN】帰ってきたマッドタウン【ローレン・イロアス/にじさんじ】",
-      "channel": "ローレン・イロアス / Lauren Iroas【にじさんじ】",
-      "channelId": "UCgmFrRcyH7d1zR9sIVQhFow",
-      "publishedAt": "2025-10-01T18:34:23Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/BXE1-yqTdsA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/BXE1-yqTdsA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/BXE1-yqTdsA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/BXE1-yqTdsA/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/BXE1-yqTdsA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "duration": "PT9H1M49S",
-      "viewCount": "910420",
-      "likeCount": "13903",
-      "commentCount": "121",
-      "channelIcon": "https://yt3.ggpht.com/Qquqkmt5fFj3F-dtO2J9uR7IykqlfU00Ujv0vVm5qkQdpoupnuS14FIAJP4Zkxf46SyLPJic=s800-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "id": "NTiZlW6UkxE",
-      "title": "【ピアノ】「IRIS OUT」を弾いてみた【チェンソーマン レゼ篇 主題歌】",
-      "channel": "marasy8",
-      "channelId": "UCcvLSRIWJIAGFDyWtzkbiHA",
-      "publishedAt": "2025-10-02T09:31:32Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/NTiZlW6UkxE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/NTiZlW6UkxE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/NTiZlW6UkxE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/NTiZlW6UkxE/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/NTiZlW6UkxE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "duration": "PT2M33S",
-      "viewCount": "20161",
-      "likeCount": "3950",
-      "commentCount": "175",
-      "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_mnDmy4CicDbE3sAr70vTUQmCcBFpHaw3GvxNXuiFmoUA=s800-c-k-c0x00ffffff-no-rj"
+      "duration": "PT3M19S",
+      "viewCount": "115335",
+      "likeCount": "6781",
+      "commentCount": "391",
+      "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_lbjuXAtjd7W2D3asm-jdcRpTbARVYvu1Dl7q3GdXmFP9k=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "VmHpZHOXv5E",
@@ -659,49 +464,205 @@
         }
       },
       "duration": "PT1H40M35S",
-      "viewCount": "98639",
-      "likeCount": "4108",
-      "commentCount": "482",
+      "viewCount": "115314",
+      "likeCount": "4377",
+      "commentCount": "506",
       "channelIcon": "https://yt3.ggpht.com/4galatilrNTtWqfhdZjJI7DSK4HmAhTD_jzj1EFp5YXtLAfdcprckSSrxYWJWBCWsmAIofgNIg=s800-c-k-c0x00ffffff-no-rj"
     },
     {
-      "id": "ZTND4FQ5JWo",
-      "title": "少年忍者【The Shining Star】LIVE 2025 This is 忍者",
-      "channel": "ジュニアCHANNEL",
-      "channelId": "UC1cHlPIE-kqiPvpyYz2O8rQ",
-      "publishedAt": "2025-10-01T11:01:09Z",
+      "id": "Vj_tcCnffLA",
+      "title": "King & Prince「僕のワルツ」-Re:ERA in LaLa arena TOKYO-BAY LIVE ver.-",
+      "channel": "King & Prince",
+      "channelId": "UCSxwcQnzA5K6DvofvBn6ATA",
+      "publishedAt": "2025-10-01T11:00:56Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/ZTND4FQ5JWo/default.jpg",
+          "url": "https://i.ytimg.com/vi/Vj_tcCnffLA/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/ZTND4FQ5JWo/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Vj_tcCnffLA/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/ZTND4FQ5JWo/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Vj_tcCnffLA/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/ZTND4FQ5JWo/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/Vj_tcCnffLA/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/ZTND4FQ5JWo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Vj_tcCnffLA/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
-      "duration": "PT4M57S",
-      "viewCount": "94782",
-      "likeCount": "7128",
-      "commentCount": "991",
-      "channelIcon": "https://yt3.ggpht.com/ocESIeOQTW5qT8TjP4dLPNGj-D7R2aqCPg3QlI59NBB4GKqUTfhMWV_Dxlh1E7ZsZsr9RpuWtQ=s800-c-k-c0x00ffffff-no-rj"
+      "duration": "PT5M5S",
+      "viewCount": "184396",
+      "likeCount": "21199",
+      "commentCount": "1891",
+      "channelIcon": "https://yt3.ggpht.com/EwnlXk7994L4il5z8HyfhJdkFryIPmdtJgjZmRD5ameRHlITXI-fbYcG7dkjnP4mIWBAp-C0jg=s800-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "f7uA2ZG59_Q",
+      "title": "恐竜から家族を本気で守ろうとした結果！？",
+      "channel": "まいぜんシスターズ",
+      "channelId": "UCM3yhFc0-fBFuvqx1Vg2YNQ",
+      "publishedAt": "2025-10-02T08:00:45Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/f7uA2ZG59_Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/f7uA2ZG59_Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/f7uA2ZG59_Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/f7uA2ZG59_Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/f7uA2ZG59_Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "duration": "PT34M59S",
+      "viewCount": "106723",
+      "likeCount": "1440",
+      "commentCount": "56",
+      "channelIcon": "https://yt3.ggpht.com/Yo1GyvpZs38c05kqY4QYRplsfQn_dTbD_TLrscoxPBqlrTSL_1OOHXLOudPQD1sm5fybbpLS=s800-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "HapYTE-PQxY",
+      "title": "さよーならまたいつか！ / ジョー・力一(Cover)",
+      "channel": "ジョー・力一 Joe Rikiichi",
+      "channelId": "UChUJbHiTVeGrSkTdBzVfNCQ",
+      "publishedAt": "2025-10-01T11:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HapYTE-PQxY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HapYTE-PQxY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HapYTE-PQxY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HapYTE-PQxY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HapYTE-PQxY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "duration": "PT3M25S",
+      "viewCount": "201279",
+      "likeCount": "23265",
+      "commentCount": "479",
+      "channelIcon": "https://yt3.ggpht.com/ROBxY7XsHsyciykqX-RloV3adi7WlMviJJNf_aHFr20x_IG6mEigiZmwVHCmz5UYPPyqIKOokg=s800-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "BXE1-yqTdsA",
+      "title": "【GTA5 MADTOWN】帰ってきたマッドタウン【ローレン・イロアス/にじさんじ】",
+      "channel": "ローレン・イロアス / Lauren Iroas【にじさんじ】",
+      "channelId": "UCgmFrRcyH7d1zR9sIVQhFow",
+      "publishedAt": "2025-10-01T18:34:23Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BXE1-yqTdsA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BXE1-yqTdsA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BXE1-yqTdsA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BXE1-yqTdsA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BXE1-yqTdsA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "duration": "PT9H1M49S",
+      "viewCount": "899582",
+      "likeCount": "13927",
+      "commentCount": "121",
+      "channelIcon": "https://yt3.ggpht.com/Qquqkmt5fFj3F-dtO2J9uR7IykqlfU00Ujv0vVm5qkQdpoupnuS14FIAJP4Zkxf46SyLPJic=s800-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "mHV8bEQO8J4",
+      "title": "［Digest］オーイシSSA ～オーイシマサヨシ ワンマンライブ at さいたまスーパーアリーナ～",
+      "channel": "オーイシマサヨシ",
+      "channelId": "UC6FmznwRG0CpdjtNyHucmTA",
+      "publishedAt": "2025-10-02T12:00:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mHV8bEQO8J4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mHV8bEQO8J4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mHV8bEQO8J4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mHV8bEQO8J4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mHV8bEQO8J4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "duration": "PT2M20S",
+      "viewCount": "22314",
+      "likeCount": "2565",
+      "commentCount": "158",
+      "channelIcon": "https://yt3.ggpht.com/pWxba-IdtxGQecCfQHxEsNLWQ5K2ywiRhQslfqRvopB2zywqE9YsptKbM-97i2DAgYEOnp_XMg=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "yIbuRpPm20o",
@@ -737,49 +698,49 @@
         }
       },
       "duration": "PT18M4S",
-      "viewCount": "94963",
-      "likeCount": "975",
+      "viewCount": "104537",
+      "likeCount": "990",
       "commentCount": "41",
       "channelIcon": "https://yt3.ggpht.com/miAxxSWVlYHu34y48zd410c9FX7XFiYLCqhs2JQMF59kj9hqFTsg42i520F7tw2g-2a0TcqONw=s800-c-k-c0x00ffffff-no-rj"
     },
     {
-      "id": "JXbb-_ScjSY",
-      "title": "【初音ミク × flower】ペンタトニック【syudou × バルーン】",
-      "channel": "syudou",
-      "channelId": "UCraC7460yGQF4GDmSjCecpQ",
-      "publishedAt": "2025-10-01T11:00:07Z",
+      "id": "FtqM7MvfxaA",
+      "title": "Eric.B.Jr - Against feat. Jin Dogg (Official Music Video)",
+      "channel": "Eric B Jr",
+      "channelId": "UCJCR4yb5YoLY4Qkeejvm50A",
+      "publishedAt": "2025-10-02T11:00:34Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/JXbb-_ScjSY/default.jpg",
+          "url": "https://i.ytimg.com/vi/FtqM7MvfxaA/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/JXbb-_ScjSY/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/FtqM7MvfxaA/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/JXbb-_ScjSY/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/FtqM7MvfxaA/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/JXbb-_ScjSY/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/FtqM7MvfxaA/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/JXbb-_ScjSY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/FtqM7MvfxaA/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
-      "duration": "PT3M33S",
-      "viewCount": "129501",
-      "likeCount": "15074",
-      "commentCount": "373",
-      "channelIcon": "https://yt3.ggpht.com/9BWhdxOFyeJP93BtqDtjH4OD_Z76QXfVhNtb3AxIkT7aheYgozAsJrrP-mLugEXlHvofrUqY=s800-c-k-c0x00ffffff-no-rj"
+      "duration": "PT3M52S",
+      "viewCount": "16155",
+      "likeCount": "2030",
+      "commentCount": "116",
+      "channelIcon": "https://yt3.ggpht.com/hpNC0oY-4NgWazKRuZHU87i_N-4EzVk3adZHqjlk2DAfplHXQuJX_sUJF-E9_yNzRGCqbSVueA=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "n1TxMjcHUrM",
@@ -815,49 +776,127 @@
         }
       },
       "duration": "PT1H2M8S",
-      "viewCount": "120429",
-      "likeCount": "3075",
+      "viewCount": "125415",
+      "likeCount": "3144",
       "commentCount": "104",
       "channelIcon": "https://yt3.ggpht.com/V8qQoqo5tqykqAL6ofKXoQoiNrejBK4NC08E_A32WF3dL_99yjSjAUT2HcuEs8EEemiru_aE=s800-c-k-c0x00ffffff-no-rj"
     },
     {
-      "id": "SZeu7216GVQ",
-      "title": "たんごまる vs 天涯孤独の民 / NEO GENESIS FRIDAY",
-      "channel": "NEO GENESIS",
-      "channelId": "UCyGlD1rZjYGs8IjEfA4Kf3A",
-      "publishedAt": "2025-10-02T08:00:06Z",
+      "id": "NTiZlW6UkxE",
+      "title": "【ピアノ】「IRIS OUT」を弾いてみた【チェンソーマン レゼ篇 主題歌】",
+      "channel": "marasy8",
+      "channelId": "UCcvLSRIWJIAGFDyWtzkbiHA",
+      "publishedAt": "2025-10-02T09:31:32Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/SZeu7216GVQ/default.jpg",
+          "url": "https://i.ytimg.com/vi/NTiZlW6UkxE/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/SZeu7216GVQ/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/NTiZlW6UkxE/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/SZeu7216GVQ/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/NTiZlW6UkxE/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/SZeu7216GVQ/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/NTiZlW6UkxE/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/SZeu7216GVQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/NTiZlW6UkxE/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
-      "duration": "PT5M24S",
-      "viewCount": "10992",
-      "likeCount": "631",
-      "commentCount": "133",
-      "channelIcon": "https://yt3.ggpht.com/AmQXOW30mDWyCfdlBuLX752hbd_Y167yBz45gw42HCQgjF_x9jDOAQj9gqvRdHttswm5ma-Q3A=s800-c-k-c0x00ffffff-no-rj"
+      "duration": "PT2M33S",
+      "viewCount": "28081",
+      "likeCount": "4712",
+      "commentCount": "191",
+      "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_mnDmy4CicDbE3sAr70vTUQmCcBFpHaw3GvxNXuiFmoUA=s800-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "QOb3Wzf_wpM",
+      "title": "【物語コラボ】こうしてあなたが卒業する前にワンパンできてよかった【モンスト】",
+      "channel": "がみくん",
+      "channelId": "UCqfELxLmasBwYET4ZAMfMqA",
+      "publishedAt": "2025-10-02T07:30:24Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QOb3Wzf_wpM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QOb3Wzf_wpM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QOb3Wzf_wpM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QOb3Wzf_wpM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QOb3Wzf_wpM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "duration": "PT15M52S",
+      "viewCount": "67857",
+      "likeCount": "1415",
+      "commentCount": "91",
+      "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_k1sO6Y-IUyQ8e4Lewlv51nMMDhaZDa6EwwW4JILpsXO8o=s800-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "ZTND4FQ5JWo",
+      "title": "少年忍者【The Shining Star】LIVE 2025 This is 忍者",
+      "channel": "ジュニアCHANNEL",
+      "channelId": "UC1cHlPIE-kqiPvpyYz2O8rQ",
+      "publishedAt": "2025-10-01T11:01:09Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZTND4FQ5JWo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZTND4FQ5JWo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZTND4FQ5JWo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZTND4FQ5JWo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZTND4FQ5JWo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "duration": "PT4M57S",
+      "viewCount": "97650",
+      "likeCount": "7203",
+      "commentCount": "1010",
+      "channelIcon": "https://yt3.ggpht.com/ocESIeOQTW5qT8TjP4dLPNGj-D7R2aqCPg3QlI59NBB4GKqUTfhMWV_Dxlh1E7ZsZsr9RpuWtQ=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "kGZ0PK7OumM",
@@ -893,87 +932,49 @@
         }
       },
       "duration": "PT20M49S",
-      "viewCount": "75862",
-      "likeCount": "1754",
+      "viewCount": "79039",
+      "likeCount": "1789",
       "commentCount": "38",
       "channelIcon": "https://yt3.ggpht.com/tV5GwX2ZGeJm8BsPA3tXS1SNDrgZBkio1lqPe50wuj4xQjNjzup3zhtR8DOOUsl-q6fTgtJ7Qw=s800-c-k-c0x00ffffff-no-rj"
     },
     {
-      "id": "UDzvyQmDaaE",
-      "title": "SOTA (BE:FIRST) / Chill with you -Special Dance Performance-",
-      "channel": "BE:FIRST Official",
-      "channelId": "UCi_AquB9uaI3-9xXkuWG7IQ",
-      "publishedAt": "2025-09-30T10:30:06Z",
+      "id": "JXbb-_ScjSY",
+      "title": "【初音ミク × flower】ペンタトニック【syudou × バルーン】",
+      "channel": "syudou",
+      "channelId": "UCraC7460yGQF4GDmSjCecpQ",
+      "publishedAt": "2025-10-01T11:00:07Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/UDzvyQmDaaE/default.jpg",
+          "url": "https://i.ytimg.com/vi/JXbb-_ScjSY/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/UDzvyQmDaaE/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/JXbb-_ScjSY/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/UDzvyQmDaaE/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/JXbb-_ScjSY/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/UDzvyQmDaaE/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/JXbb-_ScjSY/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/UDzvyQmDaaE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/JXbb-_ScjSY/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
-      "duration": "PT3M47S",
-      "viewCount": "335955",
-      "likeCount": "30354",
-      "commentCount": "1856",
-      "channelIcon": "https://yt3.ggpht.com/r39wW3NpUcuegrr4Dx5W3Cc47vdfqHv6AQJplBYZ1cV4Wzd6nrJh5JjuqFjAd29xVcK3EOP8AQ=s800-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "id": "D1aDqZznm6o",
-      "title": "MADTOWN #1 | さて今回の街は何をしようね　【にじさんじ/叶】",
-      "channel": "Kanae Channel",
-      "channelId": "UCspv01oxUFf_MTSipURRhkA",
-      "publishedAt": "2025-10-01T21:20:07Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/D1aDqZznm6o/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/D1aDqZznm6o/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/D1aDqZznm6o/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/D1aDqZznm6o/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/D1aDqZznm6o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "duration": "PT11H54M59S",
-      "viewCount": "919394",
-      "commentCount": "41",
-      "channelIcon": "https://yt3.ggpht.com/jqa21VQlm5H8S7h0S7flUT18lGt30ynTZPW2JUnF-ET5Wi8idRjOn6orVhsYnvIOUIzafUYa6w=s800-c-k-c0x00ffffff-no-rj"
+      "duration": "PT3M33S",
+      "viewCount": "134048",
+      "likeCount": "15298",
+      "commentCount": "374",
+      "channelIcon": "https://yt3.ggpht.com/9BWhdxOFyeJP93BtqDtjH4OD_Z76QXfVhNtb3AxIkT7aheYgozAsJrrP-mLugEXlHvofrUqY=s800-c-k-c0x00ffffff-no-rj"
     }
   ],
   "music": [
@@ -1011,9 +1012,9 @@
         }
       },
       "duration": "PT4M7S",
-      "viewCount": "9070100",
-      "likeCount": "276898",
-      "commentCount": "10082",
+      "viewCount": "9129915",
+      "likeCount": "277866",
+      "commentCount": "10112",
       "channelIcon": "https://yt3.ggpht.com/E5cbz8NuHWhQwj3qoYYWWeqtzYgjfCvFrDEt3OOzXMWX7Jb2pmBBgi978BmhjNkME14YL6Ujhw=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1050,9 +1051,9 @@
         }
       },
       "duration": "PT4M18S",
-      "viewCount": "2383847",
-      "likeCount": "70584",
-      "commentCount": "3903",
+      "viewCount": "2402175",
+      "likeCount": "70665",
+      "commentCount": "3902",
       "channelIcon": "https://yt3.ggpht.com/g_gd-kGxjIDM0ZxYL68C28EvmKyws7eL9PZp_NCKl11kmiTR4jACXiQ4ATKvwZEyPL3Ah4lHwA=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1089,9 +1090,9 @@
         }
       },
       "duration": "PT2M34S",
-      "viewCount": "35620095",
-      "likeCount": "817980",
-      "commentCount": "29594",
+      "viewCount": "35755378",
+      "likeCount": "819511",
+      "commentCount": "29645",
       "channelIcon": "https://yt3.ggpht.com/E5cbz8NuHWhQwj3qoYYWWeqtzYgjfCvFrDEt3OOzXMWX7Jb2pmBBgi978BmhjNkME14YL6Ujhw=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1128,9 +1129,9 @@
         }
       },
       "duration": "PT2M53S",
-      "viewCount": "1837615",
-      "likeCount": "39960",
-      "commentCount": "14137",
+      "viewCount": "1867905",
+      "likeCount": "40029",
+      "commentCount": "14210",
       "channelIcon": "https://yt3.ggpht.com/0H_IaNE9fy-Zpw-Oewm3tPlCSj9eWYmpOwQH71atZiOdd85vHf4t2WYllKJwwXm_lRWXV__L=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1167,9 +1168,9 @@
         }
       },
       "duration": "PT4M33S",
-      "viewCount": "2473292",
-      "likeCount": "96587",
-      "commentCount": "11532",
+      "viewCount": "2477683",
+      "likeCount": "96647",
+      "commentCount": "11537",
       "channelIcon": "https://yt3.ggpht.com/s60Q6uw5m5ofGWbo7ZqBjsvpPSNSbANBOToXl7LEgMPqadIHHyoiYRG4sZ3xsn3dI4VoWRBJ8A=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1206,9 +1207,9 @@
         }
       },
       "duration": "PT3M29S",
-      "viewCount": "3081462",
-      "likeCount": "70531",
-      "commentCount": "2461",
+      "viewCount": "3089304",
+      "likeCount": "70569",
+      "commentCount": "2464",
       "channelIcon": "https://yt3.ggpht.com/QC70RMzM4sJGhLWmls9d44CyoSh--QuX9M9XJLHihvl--l9zB2ZBs_JqWJrk-Ooa5oIZzISH=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1245,9 +1246,9 @@
         }
       },
       "duration": "PT5M",
-      "viewCount": "754621",
-      "likeCount": "49542",
-      "commentCount": "2850",
+      "viewCount": "777147",
+      "likeCount": "50054",
+      "commentCount": "2865",
       "channelIcon": "https://yt3.ggpht.com/HqKlAwVvfGeRo6NJ7wZHoE20Ov6640WHw17sF8mhJe6bPNp0e78-3c546VevqnjAbAY6w9Sw=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1284,9 +1285,9 @@
         }
       },
       "duration": "PT3M27S",
-      "viewCount": "660339",
-      "likeCount": "29790",
-      "commentCount": "3231",
+      "viewCount": "665504",
+      "likeCount": "29841",
+      "commentCount": "3237",
       "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_mspVi09YAlXsL18matxOuVISi1sQaZtUKl-0BM0Ka5Oz8=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1323,49 +1324,10 @@
         }
       },
       "duration": "PT3M19S",
-      "viewCount": "1599713",
-      "likeCount": "16145",
-      "commentCount": "3049",
+      "viewCount": "1632143",
+      "likeCount": "16224",
+      "commentCount": "3086",
       "channelIcon": "https://yt3.ggpht.com/gpJKaAgiZeMx3V9wPFVZasiz-DJS7Vt0-sHmplfqFXF4_05hTkU7kJ9GGRhOak0xRCS9XRZbdQ=s800-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "id": "8cEdndsuzSE",
-      "title": "XG - GALA (Official Music Video)",
-      "channel": "XG",
-      "channelId": "UC12HMtO5MYph9dCZZ7yygng",
-      "publishedAt": "2025-09-19T09:00:08Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/8cEdndsuzSE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/8cEdndsuzSE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/8cEdndsuzSE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/8cEdndsuzSE/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/8cEdndsuzSE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "duration": "PT3M53S",
-      "viewCount": "6713822",
-      "likeCount": "266559",
-      "commentCount": "13173",
-      "channelIcon": "https://yt3.ggpht.com/pK0XTbD0ZJeHmBjkHbXhcr8Tid6G1A0XRf658svE5iHmWE0l61F93Yj__bsp9Nfj9JUlnZZ6Rg=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "UDzvyQmDaaE",
@@ -1401,10 +1363,49 @@
         }
       },
       "duration": "PT3M47S",
-      "viewCount": "335955",
-      "likeCount": "30354",
-      "commentCount": "1856",
+      "viewCount": "340332",
+      "likeCount": "30380",
+      "commentCount": "1868",
       "channelIcon": "https://yt3.ggpht.com/r39wW3NpUcuegrr4Dx5W3Cc47vdfqHv6AQJplBYZ1cV4Wzd6nrJh5JjuqFjAd29xVcK3EOP8AQ=s800-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "8cEdndsuzSE",
+      "title": "XG - GALA (Official Music Video)",
+      "channel": "XG",
+      "channelId": "UC12HMtO5MYph9dCZZ7yygng",
+      "publishedAt": "2025-09-19T09:00:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8cEdndsuzSE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8cEdndsuzSE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8cEdndsuzSE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8cEdndsuzSE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8cEdndsuzSE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "duration": "PT3M53S",
+      "viewCount": "6732906",
+      "likeCount": "266738",
+      "commentCount": "13184",
+      "channelIcon": "https://yt3.ggpht.com/pK0XTbD0ZJeHmBjkHbXhcr8Tid6G1A0XRf658svE5iHmWE0l61F93Yj__bsp9Nfj9JUlnZZ6Rg=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "LzHj8jUhTI8",
@@ -1440,9 +1441,9 @@
         }
       },
       "duration": "PT4M3S",
-      "viewCount": "1027851",
-      "likeCount": "49871",
-      "commentCount": "1738",
+      "viewCount": "1059113",
+      "likeCount": "50107",
+      "commentCount": "1745",
       "channelIcon": "https://yt3.ggpht.com/HqKlAwVvfGeRo6NJ7wZHoE20Ov6640WHw17sF8mhJe6bPNp0e78-3c546VevqnjAbAY6w9Sw=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1479,9 +1480,9 @@
         }
       },
       "duration": "PT3M37S",
-      "viewCount": "518313",
-      "likeCount": "48362",
-      "commentCount": "738",
+      "viewCount": "522091",
+      "likeCount": "48497",
+      "commentCount": "739",
       "channelIcon": "https://yt3.ggpht.com/MPtmLdy_rl0kuh8f-mqokgxsk4yTd6Rs6rInoxLJp5arDdn8axmgyW7gFUsq_kwwAXlNpeF0NA=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1518,8 +1519,8 @@
         }
       },
       "duration": "PT31S",
-      "viewCount": "772553",
-      "likeCount": "32884",
+      "viewCount": "776491",
+      "likeCount": "32964",
       "commentCount": "1038",
       "channelIcon": "https://yt3.ggpht.com/E5cbz8NuHWhQwj3qoYYWWeqtzYgjfCvFrDEt3OOzXMWX7Jb2pmBBgi978BmhjNkME14YL6Ujhw=s800-c-k-c0x00ffffff-no-rj"
     },
@@ -1557,9 +1558,9 @@
         }
       },
       "duration": "PT4M7S",
-      "viewCount": "539319",
-      "likeCount": "18768",
-      "commentCount": "12600",
+      "viewCount": "543854",
+      "likeCount": "18791",
+      "commentCount": "12661",
       "channelIcon": "https://yt3.ggpht.com/ocESIeOQTW5qT8TjP4dLPNGj-D7R2aqCPg3QlI59NBB4GKqUTfhMWV_Dxlh1E7ZsZsr9RpuWtQ=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1596,9 +1597,9 @@
         }
       },
       "duration": "PT4M3S",
-      "viewCount": "343472",
-      "likeCount": "10410",
-      "commentCount": "367",
+      "viewCount": "349191",
+      "likeCount": "10491",
+      "commentCount": "371",
       "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_nTwxUjSSHQMH4T1pp9IrLA3B90i06s82g4DFx_CnefXsM=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1635,9 +1636,9 @@
         }
       },
       "duration": "PT3M54S",
-      "viewCount": "468964",
-      "likeCount": "45168",
-      "commentCount": "1268",
+      "viewCount": "471342",
+      "likeCount": "45222",
+      "commentCount": "1269",
       "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_kOiA-_aFW-Qz7jxl0wCPDRAKIYL7wDIgs9-iKo7NjztcA=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1674,9 +1675,9 @@
         }
       },
       "duration": "PT3M53S",
-      "viewCount": "9809103",
-      "likeCount": "201943",
-      "commentCount": "10862",
+      "viewCount": "9945896",
+      "likeCount": "202424",
+      "commentCount": "10901",
       "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_l8g0yRFG8xoe_qeqk8Ki9UFy36cB2IjZEWZWz0h7gl-t0=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1713,9 +1714,9 @@
         }
       },
       "duration": "PT5M49S",
-      "viewCount": "800596",
-      "likeCount": "25820",
-      "commentCount": "674",
+      "viewCount": "804280",
+      "likeCount": "25885",
+      "commentCount": "675",
       "channelIcon": "https://yt3.ggpht.com/BKpE74RwbPJ8zLaad9Y2XoX7SmIEsoma1KB8dNzwtWwiOqgTNnYI_guEP1iAaTBrdk4nHakx=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1752,9 +1753,9 @@
         }
       },
       "duration": "PT3M25S",
-      "viewCount": "13652689",
-      "likeCount": "85660",
-      "commentCount": "18985",
+      "viewCount": "13659597",
+      "likeCount": "85666",
+      "commentCount": "19007",
       "channelIcon": "https://yt3.ggpht.com/iJsiGsESCFC2u_2yTmCEpekLgrY9DQEI_3-bPllIwauCH-_2fdhuKZ6DvuXO6Vpas7PHk_qP=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1791,8 +1792,8 @@
         }
       },
       "duration": "PT3M57S",
-      "viewCount": "328142",
-      "likeCount": "28101",
+      "viewCount": "329923",
+      "likeCount": "28149",
       "commentCount": "565",
       "channelIcon": "https://yt3.ggpht.com/gqKMT95qDCACrpgG3iGrTOfELcpwIkIao4PFK-3vnmQusaS_1RW7yxjBXOVpXs3B_iNOegIT=s800-c-k-c0x00ffffff-no-rj"
     },
@@ -1830,9 +1831,9 @@
         }
       },
       "duration": "PT3M15S",
-      "viewCount": "288240",
-      "likeCount": "27580",
-      "commentCount": "1105",
+      "viewCount": "291444",
+      "likeCount": "27640",
+      "commentCount": "1104",
       "channelIcon": "https://yt3.ggpht.com/GGLK6RHS23ciA3H4nOUdVzSHxW98xuEXA_oefqBGyq_Zvu5LI6J29c92RakfnX85mG-rzxxLaw=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1869,8 +1870,8 @@
         }
       },
       "duration": "PT4M13S",
-      "viewCount": "961559",
-      "likeCount": "20178",
+      "viewCount": "970026",
+      "likeCount": "20191",
       "commentCount": "618",
       "channelIcon": "https://yt3.ggpht.com/HqKlAwVvfGeRo6NJ7wZHoE20Ov6640WHw17sF8mhJe6bPNp0e78-3c546VevqnjAbAY6w9Sw=s800-c-k-c0x00ffffff-no-rj"
     },
@@ -1908,9 +1909,9 @@
         }
       },
       "duration": "PT2M31S",
-      "viewCount": "365131",
-      "likeCount": "25865",
-      "commentCount": "3986",
+      "viewCount": "366507",
+      "likeCount": "25882",
+      "commentCount": "3988",
       "channelIcon": "https://yt3.ggpht.com/9A1x5qpB4_El4cHkQkZVhlg_6LFo6l6epu-J9au2WEhMGQsZx9aMLj3eLQeqgFlcjz_B11_W=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1947,52 +1948,13 @@
         }
       },
       "duration": "PT3M34S",
-      "viewCount": "408842",
-      "likeCount": "20383",
+      "viewCount": "410901",
+      "likeCount": "20420",
       "commentCount": "1157",
       "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_l19y4EkSUOsPjK6ByILrNZTx7ksbyRRF3ZwYc4TJKKEdU=s800-c-k-c0x00ffffff-no-rj"
     }
   ],
   "gaming": [
-    {
-      "id": "Gsqqa4FOJDI",
-      "title": "モンストニュース[10/2]モンストの最新情報をお届けします！【モンスト公式】",
-      "channel": "モンスト（モンスターストライク）公式",
-      "channelId": "UCd9BXPj-KcMTh0HiB-Vlb8A",
-      "publishedAt": "2025-10-02T07:00:22Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Gsqqa4FOJDI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Gsqqa4FOJDI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Gsqqa4FOJDI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/Gsqqa4FOJDI/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/Gsqqa4FOJDI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "duration": "PT18M9S",
-      "viewCount": "346647",
-      "likeCount": "4348",
-      "commentCount": "93",
-      "channelIcon": "https://yt3.ggpht.com/FRVoReLQN_2EIVUqkFI2rlPDoHu2lBrFycMZYxFGOs13gj0dtCIDRc_LC1hu4AKW7FAFcct5Rgk=s800-c-k-c0x00ffffff-no-rj"
-    },
     {
       "id": "02rpwUibSng",
       "title": "クセが強い部活に入ってエンドラ討伐",
@@ -2027,9 +1989,9 @@
         }
       },
       "duration": "PT39M10S",
-      "viewCount": "138670",
-      "likeCount": "8509",
-      "commentCount": "313",
+      "viewCount": "166648",
+      "likeCount": "9302",
+      "commentCount": "331",
       "channelIcon": "https://yt3.ggpht.com/67GDNUSehWk07qLTsSg9EVCDqD1DieU8JrNBSf0X2j1g0S-Dummyd14WTkC4ex3tcmdd7J_A=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -2066,49 +2028,49 @@
         }
       },
       "duration": "PT1H7M38S",
-      "viewCount": "142138",
-      "likeCount": "6584",
-      "commentCount": "260",
+      "viewCount": "181841",
+      "likeCount": "7318",
+      "commentCount": "279",
       "channelIcon": "https://yt3.ggpht.com/cgd73ZPow1fRbhFwG2PAPbtf4Wo6a6efni0N6kPeRoOn7Vp4Yn8wJpeaOr9tTLZXay9QlwNs=s800-c-k-c0x00ffffff-no-rj"
     },
     {
-      "id": "jT44igol81o",
-      "title": "視聴者のために激レアブレインロットを入手しまくるロブロックス (Roblox)",
-      "channel": "マエスケ",
-      "channelId": "UC9Lx-zRFGfpuls27tNAOIqA",
-      "publishedAt": "2025-10-02T08:34:39Z",
+      "id": "Gsqqa4FOJDI",
+      "title": "モンストニュース[10/2]モンストの最新情報をお届けします！【モンスト公式】",
+      "channel": "モンスト（モンスターストライク）公式",
+      "channelId": "UCd9BXPj-KcMTh0HiB-Vlb8A",
+      "publishedAt": "2025-10-02T07:00:22Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/jT44igol81o/default.jpg",
+          "url": "https://i.ytimg.com/vi/Gsqqa4FOJDI/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/jT44igol81o/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Gsqqa4FOJDI/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/jT44igol81o/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Gsqqa4FOJDI/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/jT44igol81o/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/Gsqqa4FOJDI/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/jT44igol81o/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Gsqqa4FOJDI/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
-      "duration": "PT18M19S",
-      "viewCount": "162147",
-      "likeCount": "3647",
-      "commentCount": "771",
-      "channelIcon": "https://yt3.ggpht.com/q_U7QnvwDtJIejC2gQ2_Vc-Rtx4l8EdWwGHu2cwXqC2OVZUvhN3JbHW5VVR0fAeA2zbvsg6zC1M=s800-c-k-c0x00ffffff-no-rj"
+      "duration": "PT18M9S",
+      "viewCount": "368867",
+      "likeCount": "4424",
+      "commentCount": "96",
+      "channelIcon": "https://yt3.ggpht.com/FRVoReLQN_2EIVUqkFI2rlPDoHu2lBrFycMZYxFGOs13gj0dtCIDRc_LC1hu4AKW7FAFcct5Rgk=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "tpnMlwlUc2I",
@@ -2144,10 +2106,88 @@
         }
       },
       "duration": "PT1H35M37S",
-      "viewCount": "104214",
-      "likeCount": "5277",
-      "commentCount": "540",
+      "viewCount": "125416",
+      "likeCount": "5745",
+      "commentCount": "592",
       "channelIcon": "https://yt3.ggpht.com/J0M8-iYIBs-A671h5tO-2cKkHm91ZOWiW7xx4Vuypkcnuhh_H4jvt4k2YwXL5s4tTY70iQ0r=s800-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "jT44igol81o",
+      "title": "視聴者のために激レアブレインロットを入手しまくるロブロックス (Roblox)",
+      "channel": "マエスケ",
+      "channelId": "UC9Lx-zRFGfpuls27tNAOIqA",
+      "publishedAt": "2025-10-02T08:34:39Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jT44igol81o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jT44igol81o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jT44igol81o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jT44igol81o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jT44igol81o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "duration": "PT18M19S",
+      "viewCount": "186639",
+      "likeCount": "3745",
+      "commentCount": "794",
+      "channelIcon": "https://yt3.ggpht.com/q_U7QnvwDtJIejC2gQ2_Vc-Rtx4l8EdWwGHu2cwXqC2OVZUvhN3JbHW5VVR0fAeA2zbvsg6zC1M=s800-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "VmHpZHOXv5E",
+      "title": "どこまでも何もない超広大なスーパーフラットの世界で50人全員集合してみた - マインクラフト【KUN】",
+      "channel": "KUNの50人クラフト",
+      "channelId": "UCoQhX2O93MVTWfgIz-8wOmg",
+      "publishedAt": "2025-10-02T07:00:26Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VmHpZHOXv5E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VmHpZHOXv5E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VmHpZHOXv5E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VmHpZHOXv5E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VmHpZHOXv5E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "duration": "PT1H40M35S",
+      "viewCount": "115314",
+      "likeCount": "4377",
+      "commentCount": "506",
+      "channelIcon": "https://yt3.ggpht.com/4galatilrNTtWqfhdZjJI7DSK4HmAhTD_jzj1EFp5YXtLAfdcprckSSrxYWJWBCWsmAIofgNIg=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "f7uA2ZG59_Q",
@@ -2183,9 +2223,9 @@
         }
       },
       "duration": "PT34M59S",
-      "viewCount": "95660",
-      "likeCount": "1408",
-      "commentCount": "54",
+      "viewCount": "106723",
+      "likeCount": "1440",
+      "commentCount": "56",
       "channelIcon": "https://yt3.ggpht.com/Yo1GyvpZs38c05kqY4QYRplsfQn_dTbD_TLrscoxPBqlrTSL_1OOHXLOudPQD1sm5fybbpLS=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -2222,49 +2262,10 @@
         }
       },
       "duration": "PT9H1M49S",
-      "viewCount": "910420",
-      "likeCount": "13903",
+      "viewCount": "899582",
+      "likeCount": "13927",
       "commentCount": "121",
       "channelIcon": "https://yt3.ggpht.com/Qquqkmt5fFj3F-dtO2J9uR7IykqlfU00Ujv0vVm5qkQdpoupnuS14FIAJP4Zkxf46SyLPJic=s800-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "id": "VmHpZHOXv5E",
-      "title": "どこまでも何もない超広大なスーパーフラットの世界で50人全員集合してみた - マインクラフト【KUN】",
-      "channel": "KUNの50人クラフト",
-      "channelId": "UCoQhX2O93MVTWfgIz-8wOmg",
-      "publishedAt": "2025-10-02T07:00:26Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/VmHpZHOXv5E/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/VmHpZHOXv5E/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/VmHpZHOXv5E/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/VmHpZHOXv5E/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/VmHpZHOXv5E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "duration": "PT1H40M35S",
-      "viewCount": "98639",
-      "likeCount": "4108",
-      "commentCount": "482",
-      "channelIcon": "https://yt3.ggpht.com/4galatilrNTtWqfhdZjJI7DSK4HmAhTD_jzj1EFp5YXtLAfdcprckSSrxYWJWBCWsmAIofgNIg=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "yIbuRpPm20o",
@@ -2300,8 +2301,8 @@
         }
       },
       "duration": "PT18M4S",
-      "viewCount": "94963",
-      "likeCount": "975",
+      "viewCount": "104537",
+      "likeCount": "990",
       "commentCount": "41",
       "channelIcon": "https://yt3.ggpht.com/miAxxSWVlYHu34y48zd410c9FX7XFiYLCqhs2JQMF59kj9hqFTsg42i520F7tw2g-2a0TcqONw=s800-c-k-c0x00ffffff-no-rj"
     },
@@ -2339,10 +2340,49 @@
         }
       },
       "duration": "PT1H2M8S",
-      "viewCount": "120429",
-      "likeCount": "3075",
+      "viewCount": "125415",
+      "likeCount": "3144",
       "commentCount": "104",
       "channelIcon": "https://yt3.ggpht.com/V8qQoqo5tqykqAL6ofKXoQoiNrejBK4NC08E_A32WF3dL_99yjSjAUT2HcuEs8EEemiru_aE=s800-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "QOb3Wzf_wpM",
+      "title": "【物語コラボ】こうしてあなたが卒業する前にワンパンできてよかった【モンスト】",
+      "channel": "がみくん",
+      "channelId": "UCqfELxLmasBwYET4ZAMfMqA",
+      "publishedAt": "2025-10-02T07:30:24Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QOb3Wzf_wpM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QOb3Wzf_wpM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QOb3Wzf_wpM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QOb3Wzf_wpM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QOb3Wzf_wpM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "duration": "PT15M52S",
+      "viewCount": "67857",
+      "likeCount": "1415",
+      "commentCount": "91",
+      "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_k1sO6Y-IUyQ8e4Lewlv51nMMDhaZDa6EwwW4JILpsXO8o=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "kGZ0PK7OumM",
@@ -2378,8 +2418,8 @@
         }
       },
       "duration": "PT20M49S",
-      "viewCount": "75862",
-      "likeCount": "1754",
+      "viewCount": "79039",
+      "likeCount": "1789",
       "commentCount": "38",
       "channelIcon": "https://yt3.ggpht.com/tV5GwX2ZGeJm8BsPA3tXS1SNDrgZBkio1lqPe50wuj4xQjNjzup3zhtR8DOOUsl-q6fTgtJ7Qw=s800-c-k-c0x00ffffff-no-rj"
     },
@@ -2417,48 +2457,9 @@
         }
       },
       "duration": "PT11H54M59S",
-      "viewCount": "919394",
-      "commentCount": "41",
+      "viewCount": "901959",
+      "commentCount": "39",
       "channelIcon": "https://yt3.ggpht.com/jqa21VQlm5H8S7h0S7flUT18lGt30ynTZPW2JUnF-ET5Wi8idRjOn6orVhsYnvIOUIzafUYa6w=s800-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "id": "QOb3Wzf_wpM",
-      "title": "【物語コラボ】こうしてあなたが卒業する前にワンパンできてよかった【モンスト】",
-      "channel": "がみくん",
-      "channelId": "UCqfELxLmasBwYET4ZAMfMqA",
-      "publishedAt": "2025-10-02T07:30:24Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/QOb3Wzf_wpM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/QOb3Wzf_wpM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/QOb3Wzf_wpM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/QOb3Wzf_wpM/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/QOb3Wzf_wpM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "duration": "PT15M52S",
-      "viewCount": "59006",
-      "likeCount": "1336",
-      "commentCount": "90",
-      "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_k1sO6Y-IUyQ8e4Lewlv51nMMDhaZDa6EwwW4JILpsXO8o=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "iK6Eyejtznk",
@@ -2494,9 +2495,48 @@
         }
       },
       "duration": "PT31S",
-      "viewCount": "243462",
-      "likeCount": "4905",
+      "viewCount": "272406",
+      "likeCount": "5005",
       "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_kWAjWA0CQHgV5tRo-8aZ-Uk8OI22tGLRFaFvulL5QiPik=s800-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "DMpWsOabEL8",
+      "title": "これ見逃すとガチで損します！！今回登場した覚醒選手たちがマジで激熱です【プロスピA】# 1715",
+      "channel": "【V.I.P】",
+      "channelId": "UCy9GuRXGTm8TliQ-OJ7KwzA",
+      "publishedAt": "2025-10-02T11:00:44Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DMpWsOabEL8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DMpWsOabEL8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DMpWsOabEL8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DMpWsOabEL8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DMpWsOabEL8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "duration": "PT9M30S",
+      "viewCount": "64404",
+      "likeCount": "1745",
+      "commentCount": "188",
+      "channelIcon": "https://yt3.ggpht.com/kags2csnvt2lhnbQ1l_Zp57J46dRXiv_xlCkVm84vh1VbpR2dSaycXGNo5R60ut4XnDat7wb=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "xhl7lI_coRI",
@@ -2532,49 +2572,10 @@
         }
       },
       "duration": "PT34M48S",
-      "viewCount": "92557",
-      "likeCount": "1408",
+      "viewCount": "104717",
+      "likeCount": "1494",
       "commentCount": "89",
       "channelIcon": "https://yt3.ggpht.com/0jVSJ-bbClWOrnsBTU44I3rgofSckq1XUgcDkmWw84BZ6sq6sdhpniiFQJHbGpUH0WFVYOScwrQ=s800-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "id": "aqhOUo4K34s",
-      "title": "【 GTA5 MADTOWN 】Day1 帰ってきたら色々変わってるな",
-      "channel": "なるせ部",
-      "channelId": "UCcxbWdwrs5B782K88ppAVMg",
-      "publishedAt": "2025-10-01T18:28:35Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/aqhOUo4K34s/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/aqhOUo4K34s/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/aqhOUo4K34s/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/aqhOUo4K34s/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/aqhOUo4K34s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "duration": "PT8H40M22S",
-      "viewCount": "528252",
-      "likeCount": "9351",
-      "commentCount": "52",
-      "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_n_cQimhSGo4NU2M1eRkGqxzQYhkAOD9bsmBkwXpeto4A=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "owIxBQX2x_I",
@@ -2610,9 +2611,9 @@
         }
       },
       "duration": "PT1H9M8S",
-      "viewCount": "53148",
-      "likeCount": "1824",
-      "commentCount": "95",
+      "viewCount": "63466",
+      "likeCount": "1982",
+      "commentCount": "105",
       "channelIcon": "https://yt3.ggpht.com/0PfZXXmn18GxtI5XN6BA_NF6a-icBHFo_2NItP_vpYsUR_-kYFQr9oY-UxdNtu_3BpILnRp--pc=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -2649,166 +2650,49 @@
         }
       },
       "duration": "PT15M22S",
-      "viewCount": "43138",
-      "likeCount": "1159",
-      "commentCount": "708",
+      "viewCount": "60463",
+      "likeCount": "1304",
+      "commentCount": "770",
       "channelIcon": "https://yt3.ggpht.com/hr4C-oTqhjYJDpPuYp3mWZ-wdvlLwL7zTPoRQQlgQQam643Wiai3KX_hyT3_6ic_6igIarLotw=s800-c-k-c0x00ffffff-no-rj"
     },
     {
-      "id": "aa-_fEI-VV4",
-      "title": "おばあちゃんに見つからずにクッキーを盗んで食べてみた結果...！？【 ロブロックス Roblox 】",
-      "channel": "のーわん【NoOnE】",
-      "channelId": "UC3ruCdV7xnwAbpkW9tQq-6A",
-      "publishedAt": "2025-10-02T07:00:02Z",
+      "id": "aqhOUo4K34s",
+      "title": "【 GTA5 MADTOWN 】Day1 帰ってきたら色々変わってるな",
+      "channel": "なるせ部",
+      "channelId": "UCcxbWdwrs5B782K88ppAVMg",
+      "publishedAt": "2025-10-01T18:28:35Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/aa-_fEI-VV4/default.jpg",
+          "url": "https://i.ytimg.com/vi/aqhOUo4K34s/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/aa-_fEI-VV4/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/aqhOUo4K34s/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/aa-_fEI-VV4/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/aqhOUo4K34s/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/aa-_fEI-VV4/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/aqhOUo4K34s/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/aa-_fEI-VV4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/aqhOUo4K34s/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
-      "duration": "PT21M11S",
-      "viewCount": "65047",
-      "likeCount": "741",
-      "commentCount": "27",
-      "channelIcon": "https://yt3.ggpht.com/Kxfy4qofI44xQlv0GZqawOxfgaBzVY72Rt_QoHbXXaHyupn5TvdvXEdhl0UBiH5qEFSQWpPGrw=s800-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "id": "Lke9HTPIqQc",
-      "title": "移動速度が常に理論値の[ 疾風 ]なら最速で[ 警察 ]に土下座することも可能【マインクラフト / みどろんぱ】",
-      "channel": "らっだぁ",
-      "channelId": "UClNdVSK1uy2xFHTaXZYXopw",
-      "publishedAt": "2025-10-01T09:01:50Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Lke9HTPIqQc/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Lke9HTPIqQc/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Lke9HTPIqQc/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/Lke9HTPIqQc/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/Lke9HTPIqQc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "duration": "PT37M39S",
-      "viewCount": "258747",
-      "likeCount": "9220",
-      "commentCount": "191",
-      "channelIcon": "https://yt3.ggpht.com/8As_9BNStMWZgMqYkBwTwKWNAIpH8Hj4zMdA5ewQzbmtI9KzlzF6AHY0HKUE7xfeo8VvCeqNqc4=s800-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "id": "3Prz_UU62KQ",
-      "title": "🔴ついにフォートナイトメアがくる！ダウンタイム待ち配信！【フォートナイト】",
-      "channel": "LiaqN【りあん】",
-      "channelId": "UCdVnOfmhI0sNGdaH5yldztg",
-      "publishedAt": "2025-10-02T11:06:10Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/3Prz_UU62KQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/3Prz_UU62KQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/3Prz_UU62KQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/3Prz_UU62KQ/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/3Prz_UU62KQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "duration": "PT3H18M58S",
-      "viewCount": "149195",
-      "likeCount": "1481",
-      "commentCount": "16",
-      "channelIcon": "https://yt3.ggpht.com/mM7FURipHa-f9Lpsj6DsaCnYcVm7EhZoA3ofI71weC_dOsnZ4o8oDQ0V9UH3vuQyLwH9EQT-Pg=s800-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "id": "xWnGgvEH9FA",
-      "title": "【マイクラ】危険なピラミッドの中にはむしだらけ！ #2【むしむしクラフト】",
-      "channel": "まじめにヤバシティ",
-      "channelId": "UCsoW5-5KCPFAZwfGU-POUvA",
-      "publishedAt": "2025-10-02T09:01:33Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xWnGgvEH9FA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xWnGgvEH9FA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xWnGgvEH9FA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/xWnGgvEH9FA/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/xWnGgvEH9FA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "duration": "PT21M21S",
-      "viewCount": "39323",
-      "likeCount": "3579",
-      "commentCount": "100",
-      "channelIcon": "https://yt3.ggpht.com/Z-3o6V9g8MJWmkbEgfCRxRgQBix7yn30MpqANkjHoPQvCaP0eQQrNEBsFTAs1tnSrwkD84VcXQc=s800-c-k-c0x00ffffff-no-rj"
+      "duration": "PT8H40M22S",
+      "viewCount": "529938",
+      "likeCount": "9369",
+      "commentCount": "53",
+      "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_n_cQimhSGo4NU2M1eRkGqxzQYhkAOD9bsmBkwXpeto4A=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "x-pwvX8NWjo",
@@ -2844,83 +2728,205 @@
         }
       },
       "duration": "PT38M29S",
-      "viewCount": "45899",
-      "likeCount": "1165",
-      "commentCount": "175",
+      "viewCount": "54284",
+      "likeCount": "1284",
+      "commentCount": "182",
       "channelIcon": "https://yt3.ggpht.com/RhNMLLaI2pLjPZchtqmqoaQZxKMVFeL09A7Xnx2J41T7eff7ORUEMsvNSDWft2CoSCSeK85ejw=s800-c-k-c0x00ffffff-no-rj"
     },
     {
-      "id": "rFPWJmWStTE",
-      "title": "何が来るのかわからない木曜メンテ待機配信【eFootballアプリ2026/イーフト】",
-      "channel": "シュート。",
-      "channelId": "UCKU0SVkIPRqwiZaXJ9rXhdw",
-      "publishedAt": "2025-10-02T08:52:03Z",
+      "id": "aa-_fEI-VV4",
+      "title": "おばあちゃんに見つからずにクッキーを盗んで食べてみた結果...！？【 ロブロックス Roblox 】",
+      "channel": "のーわん【NoOnE】",
+      "channelId": "UC3ruCdV7xnwAbpkW9tQq-6A",
+      "publishedAt": "2025-10-02T07:00:02Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/rFPWJmWStTE/default.jpg",
+          "url": "https://i.ytimg.com/vi/aa-_fEI-VV4/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/rFPWJmWStTE/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/aa-_fEI-VV4/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/rFPWJmWStTE/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/aa-_fEI-VV4/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/rFPWJmWStTE/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        }
-      },
-      "duration": "PT3H3M1S",
-      "viewCount": "111405",
-      "likeCount": "452",
-      "commentCount": "3",
-      "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_nNQxDMfxaKnBG71MybU3tv9m3RU6JwgP_5RKvGdzMygeso=s800-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "id": "dWeC3UtoN80",
-      "title": "【個人視点】大会本番でAaceが魅せた衝撃のクラッチにVC大盛り上がりｗｗｗ【VALORANT / ヴァロラント】",
-      "channel": "GON",
-      "channelId": "UCEeEFug3M-aQ62H8LOQt-YQ",
-      "publishedAt": "2025-10-02T01:00:43Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/dWeC3UtoN80/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/dWeC3UtoN80/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/dWeC3UtoN80/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/dWeC3UtoN80/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/aa-_fEI-VV4/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/dWeC3UtoN80/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/aa-_fEI-VV4/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
-      "duration": "PT12M56S",
-      "viewCount": "100163",
-      "likeCount": "2718",
-      "commentCount": "136",
-      "channelIcon": "https://yt3.ggpht.com/gDvmwd_LULPfulQiF6Jqe2oaeIZpYVX1U1m_QCS3vlZ0ucv5pUE63bqDrrdMalKvIWXe3qsEtg=s800-c-k-c0x00ffffff-no-rj"
+      "duration": "PT21M11S",
+      "viewCount": "70812",
+      "likeCount": "749",
+      "commentCount": "27",
+      "channelIcon": "https://yt3.ggpht.com/Kxfy4qofI44xQlv0GZqawOxfgaBzVY72Rt_QoHbXXaHyupn5TvdvXEdhl0UBiH5qEFSQWpPGrw=s800-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "xWnGgvEH9FA",
+      "title": "【マイクラ】危険なピラミッドの中にはむしだらけ！ #2【むしむしクラフト】",
+      "channel": "まじめにヤバシティ",
+      "channelId": "UCsoW5-5KCPFAZwfGU-POUvA",
+      "publishedAt": "2025-10-02T09:01:33Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xWnGgvEH9FA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xWnGgvEH9FA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xWnGgvEH9FA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xWnGgvEH9FA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xWnGgvEH9FA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "duration": "PT21M21S",
+      "viewCount": "46520",
+      "likeCount": "3905",
+      "commentCount": "103",
+      "channelIcon": "https://yt3.ggpht.com/Z-3o6V9g8MJWmkbEgfCRxRgQBix7yn30MpqANkjHoPQvCaP0eQQrNEBsFTAs1tnSrwkD84VcXQc=s800-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "Yfat2w8hbVk",
+      "title": "課金システムを無言で変更しユーザー困惑する鳴潮、公式は無言を貫くも言論統制開始?/UBIのアサクリ等が中国企業出資の会社へ完全移行、さらば弥助/大手ゲーム会社が買収されるも社内の活動家たちがブチギレる",
+      "channel": "キャベツの人【ゲーム紹介】",
+      "channelId": "UCWvr04hMa4k4wSilYcQ4qoA",
+      "publishedAt": "2025-10-02T10:07:25Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Yfat2w8hbVk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Yfat2w8hbVk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Yfat2w8hbVk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Yfat2w8hbVk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Yfat2w8hbVk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "duration": "PT31M37S",
+      "viewCount": "59438",
+      "likeCount": "1476",
+      "commentCount": "430",
+      "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_mjkKpS4x-UPkFNSBHpSG6QNGQFJudaoILMvswx4p1mTm0=s800-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "Lke9HTPIqQc",
+      "title": "移動速度が常に理論値の[ 疾風 ]なら最速で[ 警察 ]に土下座することも可能【マインクラフト / みどろんぱ】",
+      "channel": "らっだぁ",
+      "channelId": "UClNdVSK1uy2xFHTaXZYXopw",
+      "publishedAt": "2025-10-01T09:01:50Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Lke9HTPIqQc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Lke9HTPIqQc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Lke9HTPIqQc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Lke9HTPIqQc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Lke9HTPIqQc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "duration": "PT37M39S",
+      "viewCount": "262293",
+      "likeCount": "9298",
+      "commentCount": "192",
+      "channelIcon": "https://yt3.ggpht.com/8As_9BNStMWZgMqYkBwTwKWNAIpH8Hj4zMdA5ewQzbmtI9KzlzF6AHY0HKUE7xfeo8VvCeqNqc4=s800-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "2YJMXXpGwbs",
+      "title": "【緊急】バレる前に使え‼️PPブーストして〝フォルテ〟か〝ザハール〟投げてたら9連勝してEPICいけるくらい〝威圧〟が今熱すぎる‼️【Shadowverse: Worlds Beyond】",
+      "channel": "つるおかかものはし",
+      "channelId": "UCqeAYB1DMzfM-hG-Up52yNQ",
+      "publishedAt": "2025-10-02T08:04:10Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2YJMXXpGwbs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2YJMXXpGwbs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2YJMXXpGwbs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2YJMXXpGwbs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2YJMXXpGwbs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "duration": "PT1H24M26S",
+      "viewCount": "64202",
+      "likeCount": "653",
+      "commentCount": "213",
+      "channelIcon": "https://yt3.ggpht.com/W9JBv1387m5xVHNf8JfvU307uAJRq4Jy4y4u61J-CQt8zP9lyYJkUD_FqMcL7LhKSnpqT0CaAQ=s800-c-k-c0x00ffffff-no-rj"
     }
   ]
 }
