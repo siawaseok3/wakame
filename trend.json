@@ -1,44 +1,49 @@
 {
-  "updated": "2026-10-02T22:38:34.993Z",
+  "updated": "2026-10-02T23:38:34.941Z",
   "trending": [
     {
-      "id": "U3cl-z5PH8o",
-      "title": "JO1 | 'ANIMAL' Official MV",
-      "channel": "JO1",
-      "channelId": "UCsmXiDP8S40uBeJYxvyulmA",
-      "publishedAt": "2026-10-02T04:00:36Z",
+      "id": "IuaNJzi21a0",
+      "title": "ONE N' ONLY／ “Golden Sun” Music Video",
+      "channel": "ONE N' ONLY TV",
+      "channelId": "UC8Qwnts13zIh2EYUCau6m3w",
+      "publishedAt": "2026-10-02T12:00:09Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/U3cl-z5PH8o/default.jpg",
+          "url": "https://i.ytimg.com/vi/IuaNJzi21a0/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/U3cl-z5PH8o/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/IuaNJzi21a0/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/U3cl-z5PH8o/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/IuaNJzi21a0/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/U3cl-z5PH8o/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/IuaNJzi21a0/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/U3cl-z5PH8o/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/IuaNJzi21a0/maxresdefault.jpg",
           "width": 1280,
           "height": 720
+        },
+        "fhd": {
+          "url": "https://i.ytimg.com/vi/IuaNJzi21a0/fhddefault.jpg",
+          "width": 1920,
+          "height": 1080
         }
       },
-      "duration": "PT3M18S",
-      "viewCount": "554520",
-      "likeCount": "18382",
-      "commentCount": "3121",
-      "channelIcon": "https://yt3.ggpht.com/W70iCqT1hF2KHZGPdXp9gSNmdPzgZ17qYSTVrL7XurixUABTPb3JkoiSilxGDYkR0_O0_Z08gK4=s800-c-k-c0x00ffffff-no-rj"
+      "duration": "PT3M47S",
+      "viewCount": "255660",
+      "likeCount": "21092",
+      "commentCount": "3384",
+      "channelIcon": "https://yt3.ggpht.com/cINWILPGm5-rSXScMi_ZoOaHByUbwwpp36gYALT7qdJikWgdz2YXg49ZpGXmgDmxynm8qtiPtlo=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "8JX83-N_5Fk",
@@ -79,9 +84,9 @@
         }
       },
       "duration": "PT16S",
-      "viewCount": "48812",
-      "likeCount": "263",
-      "commentCount": "6",
+      "viewCount": "52839",
+      "likeCount": "265",
+      "commentCount": "7",
       "channelIcon": "https://yt3.ggpht.com/Wpxa4PqqKcOuiL1UhDu271hCjU6wyLt_xbmiXm811jPjx-XNYNCnnKpuF_FZkF6LVwtZJukLeA=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -123,54 +128,49 @@
         }
       },
       "duration": "PT1H41M17S",
-      "viewCount": "584596",
-      "likeCount": "14660",
-      "commentCount": "393",
+      "viewCount": "594053",
+      "likeCount": "14909",
+      "commentCount": "401",
       "channelIcon": "https://yt3.ggpht.com/zCNTqIhm2EHItaVTVDptiAjViNZ15HcNRSlHDXWB3cQL2xwATkuEHDFUG4CDo21Hqbp8b5jX=s800-c-k-c0x00ffffff-no-rj"
     },
     {
-      "id": "IuaNJzi21a0",
-      "title": "ONE N' ONLY／ “Golden Sun” Music Video",
-      "channel": "ONE N' ONLY TV",
-      "channelId": "UC8Qwnts13zIh2EYUCau6m3w",
-      "publishedAt": "2026-10-02T12:00:09Z",
+      "id": "U3cl-z5PH8o",
+      "title": "JO1 | 'ANIMAL' Official MV",
+      "channel": "JO1",
+      "channelId": "UCsmXiDP8S40uBeJYxvyulmA",
+      "publishedAt": "2026-10-02T04:00:36Z",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/IuaNJzi21a0/default.jpg",
+          "url": "https://i.ytimg.com/vi/U3cl-z5PH8o/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/IuaNJzi21a0/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/U3cl-z5PH8o/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/IuaNJzi21a0/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/U3cl-z5PH8o/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/IuaNJzi21a0/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/U3cl-z5PH8o/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/IuaNJzi21a0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/U3cl-z5PH8o/maxresdefault.jpg",
           "width": 1280,
           "height": 720
-        },
-        "fhd": {
-          "url": "https://i.ytimg.com/vi/IuaNJzi21a0/fhddefault.jpg",
-          "width": 1920,
-          "height": 1080
         }
       },
-      "duration": "PT3M47S",
-      "viewCount": "241092",
-      "likeCount": "20454",
-      "commentCount": "3293",
-      "channelIcon": "https://yt3.ggpht.com/cINWILPGm5-rSXScMi_ZoOaHByUbwwpp36gYALT7qdJikWgdz2YXg49ZpGXmgDmxynm8qtiPtlo=s800-c-k-c0x00ffffff-no-rj"
+      "duration": "PT3M18S",
+      "viewCount": "561571",
+      "likeCount": "18621",
+      "commentCount": "3195",
+      "channelIcon": "https://yt3.ggpht.com/W70iCqT1hF2KHZGPdXp9gSNmdPzgZ17qYSTVrL7XurixUABTPb3JkoiSilxGDYkR0_O0_Z08gK4=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "jgA25WVofXM",
@@ -211,9 +211,9 @@
         }
       },
       "duration": "PT1M55S",
-      "viewCount": "375089",
-      "likeCount": "15956",
-      "commentCount": "2351",
+      "viewCount": "379350",
+      "likeCount": "16023",
+      "commentCount": "2360",
       "channelIcon": "https://yt3.ggpht.com/gRgFaPGifKLHIddwe-CxzUt6LjrdTs2yScz_vcSSO4r9fnSXduyXHRFQPw7VwbxbuEP1-nSl4w=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -255,9 +255,9 @@
         }
       },
       "duration": "PT6H59M11S",
-      "viewCount": "1102816",
-      "likeCount": "4669",
-      "commentCount": "2",
+      "viewCount": "1103221",
+      "likeCount": "4668",
+      "commentCount": "3",
       "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_kESvkw2GJMrBhTo4EJe0CnpKluQtB7H_7DZcJJrSx5WA4=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -299,9 +299,9 @@
         }
       },
       "duration": "PT2M45S",
-      "viewCount": "485012",
-      "likeCount": "50211",
-      "commentCount": "2665",
+      "viewCount": "497400",
+      "likeCount": "51167",
+      "commentCount": "2691",
       "channelIcon": "https://yt3.ggpht.com/xa-X79VJeydvn8QKb-bhkfoO0ZZ-ClwExN4LR6A_z5i3hPNdG3Q5OoC5dk8OGJHejag1_rjT4g=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -343,9 +343,9 @@
         }
       },
       "duration": "PT45M13S",
-      "viewCount": "386861",
-      "likeCount": "12810",
-      "commentCount": "511",
+      "viewCount": "397097",
+      "likeCount": "13171",
+      "commentCount": "514",
       "channelIcon": "https://yt3.ggpht.com/67GDNUSehWk07qLTsSg9EVCDqD1DieU8JrNBSf0X2j1g0S-Dummyd14WTkC4ex3tcmdd7J_A=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -382,9 +382,9 @@
         }
       },
       "duration": "PT4M32S",
-      "viewCount": "150087",
-      "likeCount": "11947",
-      "commentCount": "2693",
+      "viewCount": "161713",
+      "likeCount": "12740",
+      "commentCount": "2812",
       "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_nlzILzCOxyb5q2WnPeNuY3liY66YUWCJPgcpHuD1jGpdA=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -426,9 +426,9 @@
         }
       },
       "duration": "PT1H46M2S",
-      "viewCount": "265319",
-      "likeCount": "8113",
-      "commentCount": "380",
+      "viewCount": "270405",
+      "likeCount": "8313",
+      "commentCount": "381",
       "channelIcon": "https://yt3.ggpht.com/8As_9BNStMWZgMqYkBwTwKWNAIpH8Hj4zMdA5ewQzbmtI9KzlzF6AHY0HKUE7xfeo8VvCeqNqc4=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -470,9 +470,9 @@
         }
       },
       "duration": "PT2M34S",
-      "viewCount": "261223",
-      "likeCount": "19559",
-      "commentCount": "814",
+      "viewCount": "265164",
+      "likeCount": "20018",
+      "commentCount": "825",
       "channelIcon": "https://yt3.ggpht.com/4uQBqk-Qalhhr1k-oLOWoJyyTRDpCMw1FG1gVBY4LaEXL6UTFm5Txf8sm-mbqpLoPxddVKL80g=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -514,9 +514,9 @@
         }
       },
       "duration": "PT7H23M9S",
-      "viewCount": "283389",
-      "likeCount": "1005",
-      "commentCount": "7",
+      "viewCount": "284513",
+      "likeCount": "1013",
+      "commentCount": "17",
       "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_lDp6tE5f155KCfSmi8tRpTv30V7FfTu7xKlgRLHKF9Nbw=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -553,9 +553,9 @@
         }
       },
       "duration": "PT4M38S",
-      "viewCount": "226047",
-      "likeCount": "6527",
-      "commentCount": "279",
+      "viewCount": "228170",
+      "likeCount": "6622",
+      "commentCount": "280",
       "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_n4GC58glgZGzJn9wPo0vGCySHDAc1U4JGtY0fSwM52pqg=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -592,9 +592,9 @@
         }
       },
       "duration": "PT15M40S",
-      "viewCount": "173890",
-      "likeCount": "2212",
-      "commentCount": "96",
+      "viewCount": "177127",
+      "likeCount": "2312",
+      "commentCount": "97",
       "channelIcon": "https://yt3.ggpht.com/miAxxSWVlYHu34y48zd410c9FX7XFiYLCqhs2JQMF59kj9hqFTsg42i520F7tw2g-2a0TcqONw=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -631,9 +631,9 @@
         }
       },
       "duration": "PT3M27S",
-      "viewCount": "340126",
-      "likeCount": "20420",
-      "commentCount": "623",
+      "viewCount": "344432",
+      "likeCount": "20758",
+      "commentCount": "624",
       "channelIcon": "https://yt3.ggpht.com/iNQ1MyldrUh2FPDAHpmEAaotvvRXu8mrNFIfWpM-QVGlwXW_ZKUD3wtaRJERSXJBPSbdCWQoyRg=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -675,9 +675,9 @@
         }
       },
       "duration": "PT3H40M5S",
-      "viewCount": "200310",
-      "likeCount": "3029",
-      "commentCount": "266",
+      "viewCount": "204929",
+      "likeCount": "3081",
+      "commentCount": "268",
       "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_lUpx43I4OxejW6WUZBtXOESIjonQiI1B62X4NabGJli2U=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -714,9 +714,9 @@
         }
       },
       "duration": "PT3M59S",
-      "viewCount": "108951",
-      "likeCount": "7619",
-      "commentCount": "1144",
+      "viewCount": "112012",
+      "likeCount": "7894",
+      "commentCount": "1182",
       "channelIcon": "https://yt3.ggpht.com/xaJJqswwQrQ-uR7sMnSpeoaYQYKI-BeVwxO6_Gj5KMDJLuT1-eyK_k5ZItv7PE-7J2x_P4mO=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -758,9 +758,9 @@
         }
       },
       "duration": "PT2H16M13S",
-      "viewCount": "500156",
-      "likeCount": "35392",
-      "commentCount": "360",
+      "viewCount": "502474",
+      "likeCount": "35502",
+      "commentCount": "364",
       "channelIcon": "https://yt3.ggpht.com/w-0D87KiPH6FgFtJKtuodQYepQYJ-XHWMprRBNysqXpWN4FsyRZ4eweLg0xDgIHqThnWt7fD6w=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -802,9 +802,9 @@
         }
       },
       "duration": "PT6M9S",
-      "viewCount": "297096",
-      "likeCount": "6705",
-      "commentCount": "353",
+      "viewCount": "311541",
+      "likeCount": "7068",
+      "commentCount": "374",
       "channelIcon": "https://yt3.ggpht.com/_PoRJpwlHmc2i2gQgXliEJ3HvgrspH3enTCuAfRrBFZE1ziCIfpcB8wdWuvkbGQ_K4sAA7vX28A=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -841,9 +841,9 @@
         }
       },
       "duration": "PT1H10M51S",
-      "viewCount": "99728",
-      "likeCount": "1766",
-      "commentCount": "204",
+      "viewCount": "103047",
+      "likeCount": "1823",
+      "commentCount": "210",
       "channelIcon": "https://yt3.ggpht.com/3KQOvaBQr-TFqznjbtoIhE9Cek-ZEhvxDTPcUvXuEzrQvQAkhbPh7_PsTLG6kFqPXezPuR8C3Dg=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -885,98 +885,10 @@
         }
       },
       "duration": "PT2M56S",
-      "viewCount": "90452",
-      "likeCount": "10922",
-      "commentCount": "375",
+      "viewCount": "92525",
+      "likeCount": "11235",
+      "commentCount": "381",
       "channelIcon": "https://yt3.ggpht.com/Npw5Y5Wv5ugx_IVkSqDt3GJ2PBIB7Jd5sL8DVoapw_c_WNaOhUhh52j3uHiwGPEVchJPmOq3Kcs=s800-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "id": "ZGl4ASCLHpM",
-      "title": "【総力戦】あらゆる言語が登場する計算問題もQuizKnockが力を合わせれば解けるはず【鬼・数字アタック】",
-      "channel": "GameKnack【QuizKnockゲームチャンネル】",
-      "channelId": "UCqfyBJL2SvZ_QqqrpCjcwSA",
-      "publishedAt": "2026-10-02T09:00:09Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ZGl4ASCLHpM/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ZGl4ASCLHpM/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ZGl4ASCLHpM/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ZGl4ASCLHpM/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ZGl4ASCLHpM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        },
-        "fhd": {
-          "url": "https://i.ytimg.com/vi/ZGl4ASCLHpM/fhddefault.jpg",
-          "width": 1920,
-          "height": 1080
-        }
-      },
-      "duration": "PT47M23S",
-      "viewCount": "145854",
-      "likeCount": "3347",
-      "commentCount": "200",
-      "channelIcon": "https://yt3.ggpht.com/ptN6X7TnlEPBjqQ9bqUhPgpSgMEEHG7IBrQZrXXfh6niM2lYBs5Q9Wa_3WvkTSahxoC8EPvU-w=s800-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "id": "MflA4ZIKD3U",
-      "title": "ピノキオピー - えねみぃ feat. 初音ミク・重音テト / ENEMy",
-      "channel": "ピノキオピー PINOCCHIOP OFFICIAL CHANNEL",
-      "channelId": "UCMMBGMjrrWcRZmG_lW4jC-Q",
-      "publishedAt": "2026-10-02T10:00:30Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/MflA4ZIKD3U/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/MflA4ZIKD3U/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/MflA4ZIKD3U/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/MflA4ZIKD3U/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/MflA4ZIKD3U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        },
-        "fhd": {
-          "url": "https://i.ytimg.com/vi/MflA4ZIKD3U/fhddefault.jpg",
-          "width": 1920,
-          "height": 1080
-        }
-      },
-      "duration": "PT3M1S",
-      "viewCount": "316017",
-      "likeCount": "26533",
-      "commentCount": "1276",
-      "channelIcon": "https://yt3.ggpht.com/_DrHHWxofPHBbi-Jy-Yfsdz1NfW3fU1Fed5UzOfGIjr73uJS6Ns2Xqy5Msr97Q6eXzlxVuHETw=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "xfryB1gdfVA",
@@ -1017,10 +929,98 @@
         }
       },
       "duration": "PT20M57S",
-      "viewCount": "128690",
-      "likeCount": "1832",
-      "commentCount": "172",
+      "viewCount": "135123",
+      "likeCount": "1967",
+      "commentCount": "182",
       "channelIcon": "https://yt3.ggpht.com/x1MEja1P7DrjJiLMSV_OOF059RukNgllPhbkPpCdfseIjf56NOOBPE5j6-PJmcAcybEBiBNumg=s800-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "MflA4ZIKD3U",
+      "title": "ピノキオピー - えねみぃ feat. 初音ミク・重音テト / ENEMy",
+      "channel": "ピノキオピー PINOCCHIOP OFFICIAL CHANNEL",
+      "channelId": "UCMMBGMjrrWcRZmG_lW4jC-Q",
+      "publishedAt": "2026-10-02T10:00:30Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MflA4ZIKD3U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MflA4ZIKD3U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MflA4ZIKD3U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MflA4ZIKD3U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MflA4ZIKD3U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "fhd": {
+          "url": "https://i.ytimg.com/vi/MflA4ZIKD3U/fhddefault.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      },
+      "duration": "PT3M1S",
+      "viewCount": "324398",
+      "likeCount": "27398",
+      "commentCount": "1309",
+      "channelIcon": "https://yt3.ggpht.com/_DrHHWxofPHBbi-Jy-Yfsdz1NfW3fU1Fed5UzOfGIjr73uJS6Ns2Xqy5Msr97Q6eXzlxVuHETw=s800-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "ZGl4ASCLHpM",
+      "title": "【総力戦】あらゆる言語が登場する計算問題もQuizKnockが力を合わせれば解けるはず【鬼・数字アタック】",
+      "channel": "GameKnack【QuizKnockゲームチャンネル】",
+      "channelId": "UCqfyBJL2SvZ_QqqrpCjcwSA",
+      "publishedAt": "2026-10-02T09:00:09Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZGl4ASCLHpM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZGl4ASCLHpM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZGl4ASCLHpM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZGl4ASCLHpM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZGl4ASCLHpM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "fhd": {
+          "url": "https://i.ytimg.com/vi/ZGl4ASCLHpM/fhddefault.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      },
+      "duration": "PT47M23S",
+      "viewCount": "148011",
+      "likeCount": "3434",
+      "commentCount": "210",
+      "channelIcon": "https://yt3.ggpht.com/ptN6X7TnlEPBjqQ9bqUhPgpSgMEEHG7IBrQZrXXfh6niM2lYBs5Q9Wa_3WvkTSahxoC8EPvU-w=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "gaf-pO2PdO8",
@@ -1061,9 +1061,9 @@
         }
       },
       "duration": "PT3M25S",
-      "viewCount": "4795035",
-      "likeCount": "66166",
-      "commentCount": "4079",
+      "viewCount": "4818166",
+      "likeCount": "66350",
+      "commentCount": "4100",
       "channelIcon": "https://yt3.ggpht.com/ixsKC8Mksd0R6lfouSrbFN1rAR4364efb9mmdBrsVvWv5Vj7n9fadA9HsCAUa4xSY5aLtfes=s800-c-k-c0x00ffffff-no-rj"
     }
   ],
@@ -1102,9 +1102,9 @@
         }
       },
       "duration": "PT3M52S",
-      "viewCount": "1284105",
-      "likeCount": "18397",
-      "commentCount": "786",
+      "viewCount": "1287958",
+      "likeCount": "18461",
+      "commentCount": "788",
       "channelIcon": "https://yt3.ggpht.com/ixsKC8Mksd0R6lfouSrbFN1rAR4364efb9mmdBrsVvWv5Vj7n9fadA9HsCAUa4xSY5aLtfes=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1141,9 +1141,9 @@
         }
       },
       "duration": "PT4M36S",
-      "viewCount": "1138485",
-      "likeCount": "17159",
-      "commentCount": "847",
+      "viewCount": "1142055",
+      "likeCount": "17221",
+      "commentCount": "848",
       "channelIcon": "https://yt3.ggpht.com/ixsKC8Mksd0R6lfouSrbFN1rAR4364efb9mmdBrsVvWv5Vj7n9fadA9HsCAUa4xSY5aLtfes=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1180,9 +1180,9 @@
         }
       },
       "duration": "PT5M14S",
-      "viewCount": "1198513",
-      "likeCount": "23202",
-      "commentCount": "1102",
+      "viewCount": "1201819",
+      "likeCount": "23258",
+      "commentCount": "1101",
       "channelIcon": "https://yt3.ggpht.com/ixsKC8Mksd0R6lfouSrbFN1rAR4364efb9mmdBrsVvWv5Vj7n9fadA9HsCAUa4xSY5aLtfes=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1224,9 +1224,9 @@
         }
       },
       "duration": "PT3M25S",
-      "viewCount": "4795035",
-      "likeCount": "66166",
-      "commentCount": "4079",
+      "viewCount": "4818166",
+      "likeCount": "66350",
+      "commentCount": "4100",
       "channelIcon": "https://yt3.ggpht.com/ixsKC8Mksd0R6lfouSrbFN1rAR4364efb9mmdBrsVvWv5Vj7n9fadA9HsCAUa4xSY5aLtfes=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1268,9 +1268,9 @@
         }
       },
       "duration": "PT4M17S",
-      "viewCount": "1295359",
-      "likeCount": "50526",
-      "commentCount": "3597",
+      "viewCount": "1297832",
+      "likeCount": "50555",
+      "commentCount": "3601",
       "channelIcon": "https://yt3.ggpht.com/avgYssnvpy38IGhMtFm3vh9Xcd9uwtuywnIw9Fu6Y2SxJFnR5tkkCiCUH53wA7sKRYbi2-3T=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1312,9 +1312,9 @@
         }
       },
       "duration": "PT2M38S",
-      "viewCount": "1194225",
-      "likeCount": "48592",
-      "commentCount": "3143",
+      "viewCount": "1195891",
+      "likeCount": "48612",
+      "commentCount": "3147",
       "channelIcon": "https://yt3.ggpht.com/r39wW3NpUcuegrr4Dx5W3Cc47vdfqHv6AQJplBYZ1cV4Wzd6nrJh5JjuqFjAd29xVcK3EOP8AQ=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1351,9 +1351,9 @@
         }
       },
       "duration": "PT3M9S",
-      "viewCount": "10163261",
-      "likeCount": "51244",
-      "commentCount": "9225",
+      "viewCount": "10179494",
+      "likeCount": "51307",
+      "commentCount": "9282",
       "channelIcon": "https://yt3.ggpht.com/2gb_g-qmLOeU6ZC3xyEPFN-fxDqkOkqr44TapTNi6iKQfLL13nOK6kuPWtYVTMPuiyT2tcb64A=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1395,9 +1395,9 @@
         }
       },
       "duration": "PT3M23S",
-      "viewCount": "1606251",
-      "likeCount": "23266",
-      "commentCount": "32045",
+      "viewCount": "1607707",
+      "likeCount": "23271",
+      "commentCount": "32094",
       "channelIcon": "https://yt3.ggpht.com/ocESIeOQTW5qT8TjP4dLPNGj-D7R2aqCPg3QlI59NBB4GKqUTfhMWV_Dxlh1E7ZsZsr9RpuWtQ=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1439,9 +1439,9 @@
         }
       },
       "duration": "PT4M22S",
-      "viewCount": "2574369",
-      "likeCount": "120108",
-      "commentCount": "2158",
+      "viewCount": "2594418",
+      "likeCount": "120949",
+      "commentCount": "2172",
       "channelIcon": "https://yt3.ggpht.com/pb45PwQqs9HArr7KAVI09PuIUhIIQfNTKuNGvawotgRNSBaQJ-lQRiawnEj8yW9BziwMcq-Kfg=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1483,8 +1483,8 @@
         }
       },
       "duration": "PT2M36S",
-      "viewCount": "2579921",
-      "likeCount": "131617",
+      "viewCount": "2581493",
+      "likeCount": "131658",
       "commentCount": "2856",
       "channelIcon": "https://yt3.ggpht.com/RpY4QKxCb03ZURM-aCfDOSGncglNqMAqAmHExcIJZMLCVcRbnZ4UQ9AHTRykI9tr6Gk2Dzjd=s800-c-k-c0x00ffffff-no-rj"
     },
@@ -1527,9 +1527,9 @@
         }
       },
       "duration": "PT3M4S",
-      "viewCount": "725922",
-      "likeCount": "26104",
-      "commentCount": "1086",
+      "viewCount": "727855",
+      "likeCount": "26180",
+      "commentCount": "1088",
       "channelIcon": "https://yt3.ggpht.com/RfBb-HKgoHmIsED2MNB1So6oMLctuydkn5ucdBR0iSweeLR-9hbE8CYRGjEcK5Ilm3toC8tB=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1566,9 +1566,9 @@
         }
       },
       "duration": "PT5M29S",
-      "viewCount": "782081",
-      "likeCount": "32256",
-      "commentCount": "2062",
+      "viewCount": "784032",
+      "likeCount": "32323",
+      "commentCount": "2067",
       "channelIcon": "https://yt3.ggpht.com/Ec_l5-ZCfR0m8uis0luTvZPjwyk2a8GCfHiyhHmS1IG6NotNID53B191i-wH3WuMzBtLgkjP3Mk=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1605,8 +1605,8 @@
         }
       },
       "duration": "PT3M58S",
-      "viewCount": "599769",
-      "likeCount": "16895",
+      "viewCount": "601641",
+      "likeCount": "16978",
       "commentCount": "345",
       "channelIcon": "https://yt3.ggpht.com/A4RF46l8LFRVFCBARJdwDXez9XQKfn7FWsMO-D7d05OWB7EFL8cVUdgds3ATQHj3tdjkgrNRWg=s800-c-k-c0x00ffffff-no-rj"
     },
@@ -1649,9 +1649,9 @@
         }
       },
       "duration": "PT3M39S",
-      "viewCount": "28093781",
-      "likeCount": "202722",
-      "commentCount": "28698",
+      "viewCount": "28117539",
+      "likeCount": "202773",
+      "commentCount": "28704",
       "channelIcon": "https://yt3.ggpht.com/lnHeoMeQOc_MESO3Rp8MCRnzFlaxAXnKXwKdVZQvZ6FXWfUWh0QperLxQOOFS5AkgCITJ4GQ0Do=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1688,9 +1688,9 @@
         }
       },
       "duration": "PT4M38S",
-      "viewCount": "226047",
-      "likeCount": "6527",
-      "commentCount": "279",
+      "viewCount": "228170",
+      "likeCount": "6622",
+      "commentCount": "280",
       "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_n4GC58glgZGzJn9wPo0vGCySHDAc1U4JGtY0fSwM52pqg=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1727,9 +1727,9 @@
         }
       },
       "duration": "PT3M27S",
-      "viewCount": "340126",
-      "likeCount": "20420",
-      "commentCount": "623",
+      "viewCount": "344432",
+      "likeCount": "20758",
+      "commentCount": "624",
       "channelIcon": "https://yt3.ggpht.com/iNQ1MyldrUh2FPDAHpmEAaotvvRXu8mrNFIfWpM-QVGlwXW_ZKUD3wtaRJERSXJBPSbdCWQoyRg=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1771,9 +1771,9 @@
         }
       },
       "duration": "PT2M13S",
-      "viewCount": "1110729",
-      "likeCount": "47534",
-      "commentCount": "3025",
+      "viewCount": "1111679",
+      "likeCount": "47555",
+      "commentCount": "3026",
       "channelIcon": "https://yt3.ggpht.com/JA2KVkH6VI9TNIVG4kVYLvKyGu-aBSndeS7-5z66rTON2baZpCcKtQI1gR8BBp2rlhrbkCxz=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1815,9 +1815,9 @@
         }
       },
       "duration": "PT2M23S",
-      "viewCount": "22151752",
-      "likeCount": "43950",
-      "commentCount": "5075",
+      "viewCount": "22158940",
+      "likeCount": "43955",
+      "commentCount": "5076",
       "channelIcon": "https://yt3.ggpht.com/iJsiGsESCFC2u_2yTmCEpekLgrY9DQEI_3-bPllIwauCH-_2fdhuKZ6DvuXO6Vpas7PHk_qP=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1859,8 +1859,8 @@
         }
       },
       "duration": "PT5M22S",
-      "viewCount": "1371220",
-      "likeCount": "37783",
+      "viewCount": "1372319",
+      "likeCount": "37795",
       "commentCount": "5143",
       "channelIcon": "https://yt3.ggpht.com/39HFdI4K5hoMyjd3vha6hhxSXrZhSZbjwUUogL4vIZG6PAfs1IW3LCI-l_922ODh2ZNxZ8d8=s800-c-k-c0x00ffffff-no-rj"
     },
@@ -1903,8 +1903,8 @@
         }
       },
       "duration": "PT3M22S",
-      "viewCount": "631281",
-      "likeCount": "21423",
+      "viewCount": "633162",
+      "likeCount": "21478",
       "commentCount": "611",
       "channelIcon": "https://yt3.ggpht.com/HCnuNnUDi2lo3UZ-nqhmjVCp3Az4KsnvCTB7OQkwmMdQR0Da-x1oHdVLRizN6_McI4RiGivPNQ=s800-c-k-c0x00ffffff-no-rj"
     },
@@ -1942,9 +1942,9 @@
         }
       },
       "duration": "PT3M55S",
-      "viewCount": "1924277",
-      "likeCount": "72014",
-      "commentCount": "3612",
+      "viewCount": "1925412",
+      "likeCount": "72031",
+      "commentCount": "3616",
       "channelIcon": "https://yt3.ggpht.com/CGXImR8PpOhSTGgIY8i83lp78Cmuf80fVSpVmitJPpib5wloLOrY7atv36Ze6_i6aEMbmZ1b=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -1986,8 +1986,8 @@
         }
       },
       "duration": "PT3M19S",
-      "viewCount": "728047",
-      "likeCount": "47184",
+      "viewCount": "728860",
+      "likeCount": "47247",
       "commentCount": "853",
       "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_kOiA-_aFW-Qz7jxl0wCPDRAKIYL7wDIgs9-iKo7NjztcA=s800-c-k-c0x00ffffff-no-rj"
     },
@@ -2025,10 +2025,49 @@
         }
       },
       "duration": "PT4M41S",
-      "viewCount": "2206182",
-      "likeCount": "51110",
-      "commentCount": "1825",
+      "viewCount": "2207433",
+      "likeCount": "51136",
+      "commentCount": "1826",
       "channelIcon": "https://yt3.ggpht.com/VSJBk4QVzFUWNKryDVvVfWosYeg0NNHf1dlEJqgF65MslOdDAbIN2CVPHxV51bnTYARDWyMMewo=s800-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "U3cl-z5PH8o",
+      "title": "JO1 | 'ANIMAL' Official MV",
+      "channel": "JO1",
+      "channelId": "UCsmXiDP8S40uBeJYxvyulmA",
+      "publishedAt": "2026-10-02T04:00:36Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/U3cl-z5PH8o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/U3cl-z5PH8o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/U3cl-z5PH8o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/U3cl-z5PH8o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/U3cl-z5PH8o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "duration": "PT3M18S",
+      "viewCount": "561571",
+      "likeCount": "18621",
+      "commentCount": "3195",
+      "channelIcon": "https://yt3.ggpht.com/W70iCqT1hF2KHZGPdXp9gSNmdPzgZ17qYSTVrL7XurixUABTPb3JkoiSilxGDYkR0_O0_Z08gK4=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "NLywx93HWkE",
@@ -2069,49 +2108,10 @@
         }
       },
       "duration": "PT4M5S",
-      "viewCount": "1927888",
-      "likeCount": "68508",
+      "viewCount": "1928557",
+      "likeCount": "68514",
       "commentCount": "5169",
       "channelIcon": "https://yt3.ggpht.com/JA2KVkH6VI9TNIVG4kVYLvKyGu-aBSndeS7-5z66rTON2baZpCcKtQI1gR8BBp2rlhrbkCxz=s800-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "id": "U3cl-z5PH8o",
-      "title": "JO1 | 'ANIMAL' Official MV",
-      "channel": "JO1",
-      "channelId": "UCsmXiDP8S40uBeJYxvyulmA",
-      "publishedAt": "2026-10-02T04:00:36Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/U3cl-z5PH8o/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/U3cl-z5PH8o/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/U3cl-z5PH8o/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/U3cl-z5PH8o/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/U3cl-z5PH8o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "duration": "PT3M18S",
-      "viewCount": "554520",
-      "likeCount": "18382",
-      "commentCount": "3121",
-      "channelIcon": "https://yt3.ggpht.com/W70iCqT1hF2KHZGPdXp9gSNmdPzgZ17qYSTVrL7XurixUABTPb3JkoiSilxGDYkR0_O0_Z08gK4=s800-c-k-c0x00ffffff-no-rj"
     }
   ],
   "gaming": [
@@ -2154,9 +2154,9 @@
         }
       },
       "duration": "PT1H41M17S",
-      "viewCount": "584596",
-      "likeCount": "14660",
-      "commentCount": "393",
+      "viewCount": "594053",
+      "likeCount": "14909",
+      "commentCount": "401",
       "channelIcon": "https://yt3.ggpht.com/zCNTqIhm2EHItaVTVDptiAjViNZ15HcNRSlHDXWB3cQL2xwATkuEHDFUG4CDo21Hqbp8b5jX=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -2198,9 +2198,9 @@
         }
       },
       "duration": "PT45M13S",
-      "viewCount": "386861",
-      "likeCount": "12810",
-      "commentCount": "511",
+      "viewCount": "397097",
+      "likeCount": "13171",
+      "commentCount": "514",
       "channelIcon": "https://yt3.ggpht.com/67GDNUSehWk07qLTsSg9EVCDqD1DieU8JrNBSf0X2j1g0S-Dummyd14WTkC4ex3tcmdd7J_A=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -2242,9 +2242,9 @@
         }
       },
       "duration": "PT1H46M2S",
-      "viewCount": "265319",
-      "likeCount": "8113",
-      "commentCount": "380",
+      "viewCount": "270405",
+      "likeCount": "8313",
+      "commentCount": "381",
       "channelIcon": "https://yt3.ggpht.com/8As_9BNStMWZgMqYkBwTwKWNAIpH8Hj4zMdA5ewQzbmtI9KzlzF6AHY0HKUE7xfeo8VvCeqNqc4=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -2281,9 +2281,9 @@
         }
       },
       "duration": "PT15M40S",
-      "viewCount": "173890",
-      "likeCount": "2212",
-      "commentCount": "96",
+      "viewCount": "177127",
+      "likeCount": "2312",
+      "commentCount": "97",
       "channelIcon": "https://yt3.ggpht.com/miAxxSWVlYHu34y48zd410c9FX7XFiYLCqhs2JQMF59kj9hqFTsg42i520F7tw2g-2a0TcqONw=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -2325,9 +2325,9 @@
         }
       },
       "duration": "PT3H40M5S",
-      "viewCount": "200310",
-      "likeCount": "3030",
-      "commentCount": "266",
+      "viewCount": "204929",
+      "likeCount": "3081",
+      "commentCount": "268",
       "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_lUpx43I4OxejW6WUZBtXOESIjonQiI1B62X4NabGJli2U=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -2369,9 +2369,9 @@
         }
       },
       "duration": "PT2H16M13S",
-      "viewCount": "500156",
-      "likeCount": "35392",
-      "commentCount": "360",
+      "viewCount": "502474",
+      "likeCount": "35502",
+      "commentCount": "364",
       "channelIcon": "https://yt3.ggpht.com/w-0D87KiPH6FgFtJKtuodQYepQYJ-XHWMprRBNysqXpWN4FsyRZ4eweLg0xDgIHqThnWt7fD6w=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -2413,9 +2413,9 @@
         }
       },
       "duration": "PT47M23S",
-      "viewCount": "145854",
-      "likeCount": "3347",
-      "commentCount": "200",
+      "viewCount": "148011",
+      "likeCount": "3434",
+      "commentCount": "210",
       "channelIcon": "https://yt3.ggpht.com/ptN6X7TnlEPBjqQ9bqUhPgpSgMEEHG7IBrQZrXXfh6niM2lYBs5Q9Wa_3WvkTSahxoC8EPvU-w=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -2452,9 +2452,9 @@
         }
       },
       "duration": "PT44M50S",
-      "viewCount": "178147",
-      "likeCount": "1247",
-      "commentCount": "49",
+      "viewCount": "182706",
+      "likeCount": "1286",
+      "commentCount": "50",
       "channelIcon": "https://yt3.ggpht.com/pRZYvVKeZQBWVNRgwsV_vX0K7Fy6kuP2l26RJtkfEQ77PxgqIZThLeqfMCbYSeAyw0uJ0qMJ9Q=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -2491,8 +2491,8 @@
         }
       },
       "duration": "PT1H14M41S",
-      "viewCount": "597847",
-      "likeCount": "10276",
+      "viewCount": "599452",
+      "likeCount": "10315",
       "commentCount": "844",
       "channelIcon": "https://yt3.ggpht.com/gDvmwd_LULPfulQiF6Jqe2oaeIZpYVX1U1m_QCS3vlZ0ucv5pUE63bqDrrdMalKvIWXe3qsEtg=s800-c-k-c0x00ffffff-no-rj"
     },
@@ -2535,8 +2535,8 @@
         }
       },
       "duration": "PT35M39S",
-      "viewCount": "326162",
-      "likeCount": "1618",
+      "viewCount": "327361",
+      "likeCount": "1627",
       "commentCount": "55",
       "channelIcon": "https://yt3.ggpht.com/vHIotvZzUD-MF7tr4eHOc__XhbQ108Q1XjgBz6c0ZCvvfBSquDA9rYLkj8sqmELak4KmVywTGeg=s800-c-k-c0x00ffffff-no-rj"
     },
@@ -2579,8 +2579,8 @@
         }
       },
       "duration": "PT22M15S",
-      "viewCount": "152020",
-      "likeCount": "1032",
+      "viewCount": "153454",
+      "likeCount": "1066",
       "commentCount": "44",
       "channelIcon": "https://yt3.ggpht.com/0jVSJ-bbClWOrnsBTU44I3rgofSckq1XUgcDkmWw84BZ6sq6sdhpniiFQJHbGpUH0WFVYOScwrQ=s800-c-k-c0x00ffffff-no-rj"
     },
@@ -2618,9 +2618,9 @@
         }
       },
       "duration": "PT15M20S",
-      "viewCount": "86804",
-      "likeCount": "4430",
-      "commentCount": "159",
+      "viewCount": "88460",
+      "likeCount": "4579",
+      "commentCount": "161",
       "channelIcon": "https://yt3.ggpht.com/ov8gm2sNsWQfW-nb-CcCx6tyhYa4esNtVZ4Ai-ComFT2TlOZ1n7M16B2yeKhTnSyZyt1jfccdDY=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -2662,9 +2662,9 @@
         }
       },
       "duration": "PT2H52M22S",
-      "viewCount": "474708",
-      "likeCount": "3116",
-      "commentCount": "81",
+      "viewCount": "477437",
+      "likeCount": "3132",
+      "commentCount": "82",
       "channelIcon": "https://yt3.ggpht.com/jGF5F-gJnf_g2lwzxtPPM1uqxmLzWL8AUmVL2wfa_grKUef5VqjBTCArS4NYaPN9eSGp4Wjs=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -2701,10 +2701,49 @@
         }
       },
       "duration": "PT5H53M3S",
-      "viewCount": "630507",
-      "likeCount": "5543",
+      "viewCount": "630746",
+      "likeCount": "5545",
       "commentCount": "35",
       "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_kOiA-_aFW-Qz7jxl0wCPDRAKIYL7wDIgs9-iKo7NjztcA=s800-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "Ie54HvsQSuw",
+      "title": "【初コラボ】管理者になって『みそらくん』にドッキリするロブロックス..【ROBLOX】",
+      "channel": "てるとくん",
+      "channelId": "UCH4yRBPH2pDUjPeqomx8CTQ",
+      "publishedAt": "2026-10-02T07:00:19Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ie54HvsQSuw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ie54HvsQSuw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ie54HvsQSuw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ie54HvsQSuw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ie54HvsQSuw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "duration": "PT20M11S",
+      "viewCount": "182813",
+      "likeCount": "4145",
+      "commentCount": "1539",
+      "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_kVdjFM985EeQ7VXD3280XhxFjFpuWi9mxUs1mU1WxQG6M=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "LiZ0Dph0Yi0",
@@ -2745,49 +2784,10 @@
         }
       },
       "duration": "PT10H35M16S",
-      "viewCount": "1350565",
-      "likeCount": "4301",
+      "viewCount": "1350607",
+      "likeCount": "4299",
       "commentCount": "5",
       "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_kESvkw2GJMrBhTo4EJe0CnpKluQtB7H_7DZcJJrSx5WA4=s800-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "id": "Ie54HvsQSuw",
-      "title": "【初コラボ】管理者になって『みそらくん』にドッキリするロブロックス..【ROBLOX】",
-      "channel": "てるとくん",
-      "channelId": "UCH4yRBPH2pDUjPeqomx8CTQ",
-      "publishedAt": "2026-10-02T07:00:19Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Ie54HvsQSuw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Ie54HvsQSuw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Ie54HvsQSuw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/Ie54HvsQSuw/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/Ie54HvsQSuw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "duration": "PT20M11S",
-      "viewCount": "180103",
-      "likeCount": "3975",
-      "commentCount": "1511",
-      "channelIcon": "https://yt3.ggpht.com/ytc/AIdro_kVdjFM985EeQ7VXD3280XhxFjFpuWi9mxUs1mU1WxQG6M=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "SJvP9jhEdyI",
@@ -2823,9 +2823,9 @@
         }
       },
       "duration": "PT54M51S",
-      "viewCount": "216418",
-      "likeCount": "7344",
-      "commentCount": "104",
+      "viewCount": "218089",
+      "likeCount": "7377",
+      "commentCount": "108",
       "channelIcon": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -2867,8 +2867,8 @@
         }
       },
       "duration": "PT45M13S",
-      "viewCount": "138341",
-      "likeCount": "2553",
+      "viewCount": "139305",
+      "likeCount": "2573",
       "commentCount": "146",
       "channelIcon": "https://yt3.ggpht.com/5NxBDyeA9yN-o94R8VdcVrk_D4jHHhjWwbLHzDKhfvBzy8-xmQErxmPH-aJoypsGZJkcP4-gb_E=s800-c-k-c0x00ffffff-no-rj"
     },
@@ -2906,49 +2906,10 @@
         }
       },
       "duration": "PT16M51S",
-      "viewCount": "187470",
-      "likeCount": "1339",
-      "commentCount": "89",
+      "viewCount": "189624",
+      "likeCount": "1372",
+      "commentCount": "90",
       "channelIcon": "https://yt3.ggpht.com/0PfZXXmn18GxtI5XN6BA_NF6a-icBHFo_2NItP_vpYsUR_-kYFQr9oY-UxdNtu_3BpILnRp--pc=s800-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "id": "DtUfVflpeg4",
-      "title": "顔合わせで有能アピールするはずがトロールを連発してしまうツルギwww【CRカップAPEX】",
-      "channel": "柊ツルギ / Hiiragi Tsurugi",
-      "channelId": "UCWnQDjlXTLDyYowc3LaHyJQ",
-      "publishedAt": "2026-10-02T02:00:13Z",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/DtUfVflpeg4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/DtUfVflpeg4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/DtUfVflpeg4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/DtUfVflpeg4/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/DtUfVflpeg4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "duration": "PT54M53S",
-      "viewCount": "127878",
-      "likeCount": "991",
-      "commentCount": "73",
-      "channelIcon": "https://yt3.ggpht.com/6cBIAtByhaXL7IRosZeBdoVXB8DcxdIqnIEPSJVxC3GcmeWn58aLtTaI3jIROxlxGOd1s7JGC-A=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "GMOlCkWM8dI",
@@ -2984,10 +2945,49 @@
         }
       },
       "duration": "PT21M26S",
-      "viewCount": "75676",
-      "likeCount": "726",
-      "commentCount": "37",
+      "viewCount": "77376",
+      "likeCount": "752",
+      "commentCount": "39",
       "channelIcon": "https://yt3.ggpht.com/Yo1GyvpZs38c05kqY4QYRplsfQn_dTbD_TLrscoxPBqlrTSL_1OOHXLOudPQD1sm5fybbpLS=s800-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "DtUfVflpeg4",
+      "title": "顔合わせで有能アピールするはずがトロールを連発してしまうツルギwww【CRカップAPEX】",
+      "channel": "柊ツルギ / Hiiragi Tsurugi",
+      "channelId": "UCWnQDjlXTLDyYowc3LaHyJQ",
+      "publishedAt": "2026-10-02T02:00:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DtUfVflpeg4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DtUfVflpeg4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DtUfVflpeg4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DtUfVflpeg4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DtUfVflpeg4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "duration": "PT54M53S",
+      "viewCount": "128713",
+      "likeCount": "1003",
+      "commentCount": "73",
+      "channelIcon": "https://yt3.ggpht.com/6cBIAtByhaXL7IRosZeBdoVXB8DcxdIqnIEPSJVxC3GcmeWn58aLtTaI3jIROxlxGOd1s7JGC-A=s800-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "OGO9aOTlSxc",
@@ -3023,9 +3023,9 @@
         }
       },
       "duration": "PT14M8S",
-      "viewCount": "73119",
-      "likeCount": "986",
-      "commentCount": "122",
+      "viewCount": "74389",
+      "likeCount": "1005",
+      "commentCount": "125",
       "channelIcon": "https://yt3.ggpht.com/x0eBfEYsma2_7pO30ovmIMILEMHXoGg_ajkyTcQ6Yq49CovuIV3oHaRUGplbyWNtqA_QtQRZ=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -3062,8 +3062,8 @@
         }
       },
       "duration": "PT6M25S",
-      "viewCount": "566305",
-      "likeCount": "6963",
+      "viewCount": "575265",
+      "likeCount": "7115",
       "channelIcon": "https://yt3.ggpht.com/ek4InLPq9kYV7iLGDcUETZBVMQm-b395xyZqQKsKNgqhqfAdzy7KjIlAD7ZLtcNx2Z2LB2v5Tg=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -3105,9 +3105,9 @@
         }
       },
       "duration": "PT55M54S",
-      "viewCount": "73582",
-      "likeCount": "850",
-      "commentCount": "15",
+      "viewCount": "74172",
+      "likeCount": "866",
+      "commentCount": "16",
       "channelIcon": "https://yt3.ggpht.com/BYXsuG7eepMrAhbZCGGXtKk2L0ReWz-SXx0UPhuh08PVEbQqQOcnYR3Tra629ImCBnohEj84YcI=s800-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -3144,9 +3144,9 @@
         }
       },
       "duration": "PT16M25S",
-      "viewCount": "44962",
-      "likeCount": "1018",
-      "commentCount": "45",
+      "viewCount": "46631",
+      "likeCount": "1110",
+      "commentCount": "48",
       "channelIcon": "https://yt3.ggpht.com/fE8T4_k27D0mezzxnFFufbilXxsvUEmx4RPvEVngQGBiOlD0_D0zS0ZECJApjeE67RBKAbZShw=s800-c-k-c0x00ffffff-no-rj"
     }
   ]
